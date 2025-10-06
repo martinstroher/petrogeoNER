@@ -29,64 +29,73 @@ def ner_with_chunks(text, ner_pipeline):
     Executa o pipeline de NER em um texto longo, dividindo-o em chunks
     com sobreposição para garantir a captura de entidades nas bordas.
     """
-    # Parâmetros para o chunking
-    # O tamanho máximo é 512 para o modelo RoBERTa, mas usamos um pouco menos
-    # para dar espaço para tokens especiais ([CLS], [SEP]).
     max_chunk_length = 500
-    overlap = 50  # Número de tokens de sobreposição para não cortar entidades
+    overlap = 50
 
-    # Tokeniza o texto inteiro uma vez (mais eficiente)
-    tokens = ner_pipeline.tokenizer(text, return_offsets_mapping=True)
+    tokens = ner_pipeline.tokenizer(text, return_offsets_mapping=True, truncation=False)
     token_count = len(tokens['input_ids'])
+
+    # --- NOVO DIAGNÓSTICO ---
+    print(f"DIAGNÓSTICO: Total de caracteres no texto: {len(text)}")
+    print(f"DIAGNÓSTICO: Total de tokens detectados: {token_count}")
+    num_chunks = ((token_count - overlap) // (max_chunk_length - overlap)) + 1
+    print(f"DIAGNÓSTICO: Processando em aproximadamente {num_chunks} chunks...")
+    # -----------------------
 
     all_entities = []
 
-    print(
-        f"Texto grande detectado. Processando em {((token_count - overlap) // (max_chunk_length - overlap)) + 1} chunks...")
+    # Adicionando um contador para ver o progresso
+    chunk_counter = 0
 
     for i in range(0, token_count, max_chunk_length - overlap):
-        # Garante que não ultrapassemos o limite da lista de tokens
+        chunk_counter += 1
         end_index = min(i + max_chunk_length, token_count)
-
-        # Seleciona os IDs dos tokens para o chunk atual
         chunk_token_ids = tokens['input_ids'][i:end_index]
 
-        # Converte os IDs de volta para texto para alimentar o pipeline
-        # skip_special_tokens=True para remover [CLS] e [SEP] que seriam adicionados de novo
         chunk_text = ner_pipeline.tokenizer.decode(chunk_token_ids, skip_special_tokens=True)
+
+        # --- NOVO DIAGNÓSTICO ---
+        if chunk_counter % 100 == 0:  # Imprime o progresso a cada 100 chunks
+            print(f"  ... processando chunk {chunk_counter}/{num_chunks}")
+        # -----------------------
 
         if not chunk_text.strip():
             continue
 
-        # Executa o pipeline no chunk
         chunk_results = ner_pipeline(chunk_text)
 
-        # Ajusta os offsets (início/fim) para serem relativos ao documento original
-        # O offset do primeiro token do chunk nos dá a posição de início no texto original
-        start_offset_char = tokens['offset_mapping'][i][0]
+        if not tokens['offset_mapping']:
+            continue
 
-        for entity in chunk_results:
-            all_entities.append({
-                'word': entity['word'],
-                'entity_group': entity['entity_group'],
-                'score': entity['score'],
-                'start': entity['start'] + start_offset_char,
-                'end': entity['end'] + start_offset_char
-            })
+        start_char_offset_index = i
+        # Certifique-se de não acessar um índice fora dos limites
+        while start_char_offset_index < len(tokens['offset_mapping']) and tokens['offset_mapping'][
+            start_char_offset_index] is None:
+            start_char_offset_index += 1
 
-    # --- Desduplicação ---
-    # Remove entidades duplicadas que podem ter sido capturadas na sobreposição
+        if start_char_offset_index < len(tokens['offset_mapping']):
+            start_offset_char = tokens['offset_mapping'][start_char_offset_index][0]
+
+            for entity in chunk_results:
+                all_entities.append({
+                    'word': entity['word'],
+                    'entity_group': entity['entity_group'],
+                    'score': entity['score'],
+                    'start': entity['start'] + start_offset_char,
+                    'end': entity['end'] + start_offset_char
+                })
+
+    # ... (o resto da função de desduplicação permanece o mesmo) ...
+    # ...
     unique_entities = []
     seen_entities = set()
     for entity in sorted(all_entities, key=lambda x: x['start']):
-        # Cria um identificador único para a entidade baseado em sua posição e rótulo
         entity_id = (entity['start'], entity['end'], entity['entity_group'])
         if entity_id not in seen_entities:
             unique_entities.append(entity)
             seen_entities.add(entity_id)
 
     return unique_entities
-
 
 # --- Início da Execução ---
 
