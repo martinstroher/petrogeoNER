@@ -1,0 +1,9007 @@
+﻿Entidade
+Abiotic Genesis
+African Conjugate Margin
+Alga
+Alluvial Fan System
+American Continent
+Aptian
+Basalt Extrusion
+Basin
+Biostratigraphic Framework
+Biotic Genesis
+Breakup
+Carbonate
+Carbonate Deposit
+Carbonate Rock
+Carbonate Rock Classification
+Carbonate Sedimentology
+Carbonate Succession
+Charophyte
+Chemistry Change
+Clast
+Conjugate Margin
+Continental Basin
+Continental Megasequence
+Core
+Core to Microfacies Analysis
+Cyclicity
+Depositional Facies
+Depositional Setting
+Diagenesis
+Diagenesis Process
+Diagenetic Facies
+Diagenetic Modification
+Diagenetic Petrography
+Diachronism
+Drift Super-sequence
+Early Barremian
+Early Cretaceous
+Environmental Scenario
+Evaporite Unit
+Evolution Over Time
+Extension Phase
+Facies
+Facies Approach
+Facies Pattern
+Floatstone
+Fluvial-deltaic Environment
+Formation
+Genesis
+Geological Record
+Giant Carbonate Reservoir
+Gondwana Supercontinent
+Half-graben System
+Hauterivian
+High-resolution Characterization
+Hydrocarbon Habitat
+Hydrocarbon Reserve
+Hydro-geochemistry
+In-situ Grown Carbonate
+Initial Rifting
+Interconnected Lake System
+Interval
+Intraclastic Grainstone
+Lake
+Lake Isolation
+Lake Setting
+Laminar Crust
+Laminated Argillaceous Limestone
+Late Hauterivian
+Late Jurassic
+Lower Cretaceous
+Marginal Basin
+Marine Megasequence
+Megasequence
+Mg-rich Clay
+Microbial Genesis
+Microbialite
+Microfacies
+Microfacies Analysis
+Morphology
+Non-marine Alkaline Lacustrine Condition
+Oncoidal Grainstone
+Ostracod Biozonation
+Packstone
+Paleoenvironment
+Paleoenvironmental Interpretation
+Paleohydrology
+Petrographic Documentation
+Plug
+Post-rift
+Potential Reservoir
+Pre-rift
+Pre-Salt
+Pre-Salt Carbonate
+Pre-Salt Reservoir
+Pre-Salt Sequence
+Pre-Salt Succession
+Process
+Proto-Atlantic Margin
+Regional Flexural Subsidence
+Reduced Lake-level
+Reservoir Characteristic
+Reservoir Heterogeneity
+Reservoir Facies Quality
+Reservoir Property
+Rift
+Rifting
+Rock-based Criterion
+Rudstone
+Sag Basin
+Sag Phase
+Sedimentary Characteristic
+Sedimentary Infilling
+Sedimentary Nature
+Sedimentation
+Shallow Low-gradient Lake
+Shrubby Structure
+Sidewall Sample
+Siliciclastic Succession
+Small Lake
+South Atlantic Margin
+South Atlantic Ocean Opening
+Spherulite
+Spherulitic Grainstone
+Stromatolitic Fabric
+Structure
+Subfacies Type
+Subsidence
+Super-sequence
+Terminology
+Terrestrial Environment
+Texture
+Textural Classification
+Thermal Sag
+Thin-section
+Time Period
+Timing of Rifting
+Topographic-bathymetric Configuration
+Traditional Nomenclature
+Transitional Megasequence
+Travertine
+Tuff
+Unusual Carbonate Facies
+Water Depth
+Well
+Western South Atlantic Pre-Salt Basin
+Geological Aspect
+Stratigraphic Aspect
+Basin
+Pre-salt Province
+Province
+Pre-salt Area
+Low Potential Area
+Pre-salt Field
+Field
+Appraisal Well
+Well
+Reservoir
+Oil
+Oil Quality
+Stromatolite
+Recoverable Volume
+Gas
+Sea Bottom
+Evaporite Top
+Evaporite
+Reservoir Top
+Basement Top
+Basement
+Fault
+Seismic Line
+Seismic Survey
+Fluid
+Gas Oil Ratio
+Carbon Dioxide
+Oil Water Contact
+Gas Condensate
+Fluid Contact
+Pressure Gradient
+Igneous Rock
+Non-reservoir
+Salt Base
+Salt
+Gas Water Contact
+Depth
+Pressure
+Geology
+Saddle
+High
+Stratigraphic Sequence
+Sequence
+Intercalation
+Recrystallization
+Structural Apex
+Coquina
+Mudstone
+Flank
+Laminite
+Hydrocarbon Show
+Hydrocarbon
+Fluid Nature
+Gas Cap
+Oil Layer
+Prospect
+Fluid Volume
+Reservoir Size
+Condensate Gas Ratio
+Condensate In Place
+Condensate
+Carbon Dioxide Contamination
+Contamination
+Reservoir Quality
+Thermal Recrystallization
+Fluid Sampling
+Presalt Stratigraphy
+Depositional System
+Petroleum System
+Synrift
+Barremian
+Sag Interval
+Aptian
+Salt
+Lower Cretaceous
+Presalt Section
+Limestone
+Mollusk Packstone
+Grainstone
+Coquina
+Alkaline Lake
+Saline Lake
+Fresh Lake
+Carbonate Platform
+Silica-rich Buildup
+Isolated Buildup
+Evaporated Lake
+Shrubby Boundstone
+Dendritic Boundstone
+Microbial Boundstone
+Intraclast Spherulite Grainstone
+Shallow Water Environment
+Platform Top
+Microbial Chert
+Organic Buildup
+Structural High
+Basin
+Alkaline Lake Water
+Vuggy Pore
+Primary Pore
+High Permeability
+Wackestone
+Packstone
+Calcitic Grain
+Spherulite
+Dolomite
+Argillaceous Dolomite
+Deep Sag Environment
+Low-Energy Environment
+Clay
+Stevensite
+Silica-rich Lake Water
+Calcite
+Shallow Lake Floor
+Morphology
+Shrub
+Sediment Water Interface
+Recrystallization
+Deep Lacustrine Environment
+Organic-rich Mudstone
+Source Rock
+Hydrocarbon
+Seismic Data
+Core Sample
+Petrography
+Stable Isotope Data
+Carbonate Sedimentology
+Stratigraphy
+Exploration Geophysics
+Geology
+Geophysics
+Exploration Geology
+Regional Analysis
+Prospect Generation
+Carbonate Diagenesis
+Tectono-stratigraphic evolution
+Rift system
+Post-rift system
+Hydrocarbon accumulation
+Stratum
+Evaporite
+Seismic line
+Seismic survey
+Well data
+Geological modeling
+Pre-salt sedimentary record
+Strain distribution
+Fault system
+Horst
+Rift-related deformation
+Syn-rift succession
+Rifting
+Fault activity pattern
+Lithostratigraphy
+Volcaniclastic
+Siliciclastic
+Transtension
+Half-graben
+Erosion
+Tectonic inversion
+Bioclastic rudstone
+Hybrid deposit
+Extension
+Transitional stage
+Thermal subsidence
+Structural relief
+Rift fault
+Compression
+Evaporite deposition
+Geochronological data
+Dyke emplacement
+Pre-salt sequence
+Onset of rifting
+Rift basin
+Sedimentation
+Tectonics
+Ocean break-up
+Wellbore
+Potential field data
+Seismic data
+Basin-wide fault
+Structural mapping
+Petrographic study
+Geochemical study
+Hydrothermal diagenesis
+Pre-salt carbonate
+Reservoir quality
+Hydrothermal fluid
+Geological structure
+Subsurface resources geology
+Basement property
+Sedimentary column
+Tectonic regime
+Syn-rift sequence deposition
+Depositional architecture
+Deformation
+Post-rift sequence
+Seismic architecture
+Syn-rift horizon
+Tectono-stratigraphy of rift basin
+Brittle reactivation
+Precambrian basement
+Magmatism
+Basin evolution
+Geochronological control
+Kinematics
+Rift-related fault framework
+Rift tectono-stratigraphic framework
+Post-rift tectono-stratigraphic framework
+Structural framework
+Stratigraphic framework
+Phase of rifting
+Geological setting
+Ocean
+Magma-poor break-up stage
+Magma-rich break-up stage
+Tectonic feature
+Basin margin
+Necking zone
+Continent ocean boundary
+Anomalous rifting
+Rift-related subsidence
+Shallow carbonate platform
+Salt deposit
+Continental slope
+Structural map
+Shallow water domain
+Rift fault block
+Normal fault
+Throw
+Basement unit
+Terrane
+Belt
+Tectonic domain
+Gneiss
+Magmatic body
+Fabric
+Transpressional regime
+Polyphase amalgamation
+Orthogneiss
+Migmatization
+Metamorphism
+Ductile structure
+Collisional event
+Orogeny
+Structural grain
+Fracture
+Dyke swarm
+Basement metamorphic grain
+Polyphase evolution
+Alkaline dyke
+Tholeiitic dyke
+Orogenic collapse
+Brittle deformation
+Tectonically quiescent period
+Magmatic event
+Onshore basement domain
+Dyke
+Oblique extension
+U-Pb Concordia age
+Geochemical signature
+Basalt flood
+Large Igneous Province
+Seismic-scale geometry
+Sequence-stratigraphic architecture
+Early Cretaceous
+Syn-rift
+Post-rift
+Carbonate system
+Presalt section
+Seismic stratigraphic analysis
+Aptian
+Stratigraphic architecture
+Lacustrine carbonate system
+Lateral distribution
+Vertical distribution
+Seismic facies
+Bathymetry
+Lacustrine basin
+Abiotic component
+Microbial component
+Lacustrine carbonate accumulation
+Geometry
+Marine system
+Carbonate production profile
+Lateral variation
+Subsidence pattern
+Basement topography
+Palaeowind direction
+Basinal filling pattern
+Clinoform
+Lake-bottom topography
+Deep water
+Deposition
+Platform margin trajectory
+Clinoform package
+Sequence boundary
+Syndepositional tectonic
+Lake
+Lowstand
+Depositional model
+Presalt play
+Exploration
+Appraisal
+South Atlantic
+Conjugate margin
+Hydrocarbon play
+Discovery well
+Lacustrine source rock
+Carbonate reservoir
+Salt interval
+Seal
+Heat buffer
+Overmaturation
+Hydrocarbon
+Discovery
+Well
+Non-reservoir unit
+Lateral heterogeneity
+Reservoir quality
+Development
+Carbonate factory
+Shallow water
+Basin
+Open ocean
+Marine counterpart
+Petrography
+Nonmarine carbonate particle
+Modern analogue
+Ancient analogue
+Accommodation Space
+Accommodation Space Creation
+Aggradational Character
+Aggradational Geometry
+Aggradational Progradational Carbonate Platform
+Alkaline Lacustrine Setting
+Amplitude Contrast
+Amplitude Information
+Angular Relationship
+Absence of Internal Reflection
+Basalt
+Base of Salt
+Basement Composition
+Basement Pattern
+Basement Seismic Facies
+Basin Tectonic
+Bathymetry
+Bioclastic Packstone
+Bivalve Coquina
+Bottom Sediment
+Boundstone
+Build-Up
+Carbonate Facies Development
+Carbonate Mound
+Carbonate Parallel Architecture
+Carbonate Reservoir
+Carbonate Rock
+Carbonate Sedimentation Process
+Carbonate Shale
+Chaotic Reflection
+Chaotic Seismic Facies
+Chloride
+Clastic Sediment Deposit
+Climatic Factor
+Coquina Bank
+Coquina Bank Compartmentalization
+Coquina Bank Sectioning
+Coquina Deposit
+Continental Crust Stretching
+Continental Crust Thinning
+Continental Sediment
+Continental Siliciclastic
+Controlling Fault
+Crystalline Basement
+Dark Shale
+Debris Flow
+Deposition Phase
+Depositional Environment
+Depositional System
+Dip-Slip Fault
+Distal Facies
+Downlap
+Drift Phase
+Economic Basement
+Erosion
+Erosive Truncation
+Evaporite
+Excellent Reservoir
+Exploratory Interpretation
+Extension Direction
+Extension Effort
+Extensional Basin
+Extensional Tectonic Setting
+Facies
+Favorable Environmental Condition
+Fault
+Fault Development
+Fault Displacement
+Fault Distribution
+Fault Interpretation
+Fault Movement Rate
+Fault Orientation
+Fault Reactivation
+Faulting
+Fine Sediment
+Fluid Conductor
+Formation
+Formation Thickness
+Fragmented Configuration
+Future Modeling
+Generator Rock Amount
+Geological Behavior
+Geological Context
+Geological Feature
+Geological History
+Geological Horizon
+Geological Information
+Geological Sedimentation
+Geology
+Gneiss
+Gondwana Amalgamation
+Gondwana Fragmentation
+Good Permoporous Coquina
+Grainstone
+Granite
+High Amplitude Characteristic
+High Amplitude Reflector
+High-Energy Condition
+High Location
+High Structural Fault Edge
+Homogeneous Basement
+Horizontal Strata
+Horst and Graben Configuration
+Horst-Graben System
+Hydrocarbon Seal
+Hydrodynamic
+Hydrothermal Activity
+Inclined Surface
+In Situ Facies
+Inner Coquina
+Interval Thickness
+Isopach Map
+Lacustrine Carbonate
+Lacustrine Coquina
+Lacustrine Deposit
+Lake Bottom Pattern
+Lateral Heterogeneity
+Layer Activity
+Layer History
+Lithosphere
+Lithospheric Stretching
+Lithostratigraphic Unit
+Low Amplitude Reflector
+Low Amplitude Reflector Behavior
+Low Angle Basement Fabric
+Low Frequency
+Lower Cretaceous
+Main Reservoir
+Mechanical Subsidence
+Medium Amplitude Reflector
+Medium Continuity
+Metasediment
+Migration Smile
+Morphology
+Mudstone
+Nonmarine Carbonate Succession
+Normal Fault
+Normal Fault Generation
+Offshore Basin
+Oil and Gas Exploration
+Oil and Gas Production
+Oil Equivalent Volume
+Oil Reserve
+Onlap
+Onlap Configuration
+Onlap Marking
+Onlap Relationship
+Organic-Rich Shale
+Original Seismic
+Overlain by Evaporite
+Palaeoecologically Significant Fossil
+Paleoenvironment
+Permeability
+Permoporous Characteristic
+Plane-Parallel Geometry
+Plane-Parallel Seismic Facies
+Plate Separation
+Post-Rift Phase
+Post-Rift Sequence
+Post-Stacked Depth Migration
+Precambrian Age
+Precambrian Basement
+Pre-Existing Fabric
+Pre-Formed Fault
+Presalt Exploration Area
+Presalt Exploration Target
+Presalt Fault
+Presalt Interval
+Presalt Reservoir
+Presalt Reservoir Rock
+Presalt Zone
+Prevailing Facies
+Production Area
+Production Capacity
+Progradational Character
+Progradational Seismic Facies
+Reflector
+Regional Context
+Reservoir Characteristic
+Reservoir Characterization
+Reservoir Interval
+Reservoir Interval Thickness
+Reworked Facies
+Rift Deepening
+Rift Fault
+Rift Phase
+Rift Phase Structural High
+Rift Super-Sequence
+Rift Widening
+Rifting Process
+Rifting Tectonic Regime
+Rudstone
+Sag Phase
+Sag Phase Sedimentation
+Sag Section Fault
+Salt Limit
+Sediment Source
+Sedimentary Accommodation Space
+Sedimentary Basin
+Sedimentary Layer
+Sedimentary Rock
+Sedimentary-Tectonic Context
+Sedimentary-Tectonic History
+Sedimentation Rate
+Seismic Amplitude
+Seismic Attribute
+Seismic Data
+Seismic Facies
+Seismic Interpretation
+Seismic Parameter
+Seismic Pattern
+Seismic Reflection Termination Interpretation
+Sequence Base
+Shell Fragment
+Shrub Spherulite Laminate
+Shallow Condition
+Siliciclastic Deposit
+Source Rock
+Strain Softening Process
+Stratigraphic Sequence
+Stratigraphic Unit
+Stratigraphic Unit Boundary
+Strata Slope
+Structural Feature
+Structural High
+Structural High Central Part
+Structural Smoothing Filter
+Subparallel Configuration
+Sulphate
+Super-Giant Field
+Syn-Rift Segment
+Synrift Interval
+Talc-Stevensite Ooid
+Tectonic Activity
+Tectonic Behavior
+Tectonic Event
+Tectonic History
+Tectonic Platform
+Tectonic Quiescence
+Thermal Anomaly
+Thickness Analysis
+Thickness Increase
+Time Segment
+Toplap
+Topography
+Unconformity
+Unconformity Interpretation
+Uplifted Area
+Upper Rift Fault
+Upper Surface
+Vertical Heterogeneity
+Volcanic Source Area
+Volcanism
+Wackestone
+Water Depth
+Wavy Configuration
+Wedge Generation
+Wedge Geometry
+Well Data
+Sedimentary Environment
+Tectono-stratigraphic Evolution
+Pre-salt Section
+Brazilian Continental Margin
+Rifting Process
+Gondwana Breakup
+South Atlantic Opening
+Cretaceous
+Carbonate Reservoir
+Salt Layer
+Deep Water
+Ultra-deep Water
+Tectono-stratigraphic Evolution Model
+Seismic Line
+Velocity Model
+Isopach Map
+Salt Thickness Variation
+Oil Accumulation
+Marginal Basin
+Sedimentation
+Siliciclastic Sediment
+Evaporite
+Carbonate
+Tectonic Movement
+Accommodation Space Creation
+Climate Change
+Offshore Continental Margin
+Exploratory Basin
+Exploratory Play
+Petroleum System
+Porosity
+Permeability
+Source Rock
+Seal
+Lithospheric Stretching
+Thermal Anomaly
+Hotspot
+Supercontinent
+Continental Crust
+Ductile Behavior
+Crustal Thinning
+Seafloor Spreading
+Passive Margin Basin
+Depositional Supersequence
+Rift Phase
+Post-rift Phase
+Drift Phase
+Sedimentary Record
+Hauterivian Age
+Eoaptian Age
+Aptian Age
+Albian Age
+Economic Basement
+Basaltic Dyke Swarm
+Conglomerate
+Sandstone
+Lamination
+Talc-stevensite Composition
+Dark Shale
+Organic Matter
+Calcirrudite
+Dolomitized Pelecypoda Shell
+Coquina Fragment
+Marine Incursion
+Microbial Limestone
+Stromatolite
+Magnesium Clay
+Carbonate Shale
+Halite
+Anhydrite
+Tachydrite
+Carnallite
+Sylvinite
+Seafloor Structure
+Ocean
+Dry Climate
+Hot Climate
+Geodynamic Evolution
+Extensional Process
+Asthenospheric Uplift
+Lithospheric Underlining
+Tectonic Activity
+Fault
+Depocenter
+Block Rotation
+Continental Flood Basalt
+Half-graben
+Oceanic Crust
+Rift Episode
+Continental Volcanism
+Oceanic Volcanism
+Principal Fault
+Erosion
+Rift Block
+Regional Erosive Discordance
+Breakup Unconformity
+Aptian Carbonate Deposition
+Post-rift Sequence
+Passive Margin Phase
+Free Marine Zone
+Shallow Albian Carbonaceous Platform
+Siliciclastic Sequence
+Sediment Influx
+Offshore
+Seismic Reflection Configuration
+Seismic Attribute
+Unconformity
+Fracture
+Acoustic Impedance
+Lithology
+Discontinuity
+Basement
+Subsurface
+Layer Thickness
+Layer Depth
+Interval Velocity
+Horizon
+Top Salt
+Base Salt
+Top Rift
+Top Intra-rift
+Reflector Termination
+Onlap
+Downlap
+Toplap
+Seafloor
+Flood Surface
+Sedimentary Thickness
+Lower Rift Sequence
+Upper Rift Sequence
+Lower Post-rift Sequence
+Upper Post-rift Sequence
+Seismic Unit
+Brittle Behavior
+Density
+Halokinesis
+Seismic Facies
+Chaotic Seismic Facies
+Transparent Seismic Facies
+Prograding Seismic Facies
+Divergent Seismic Facies
+Syntectonic Deposition
+Even Parallel Seismic Facies
+Subparallel Seismic Facies
+Plane-parallel Reflector
+Agradational Process
+Massive Salt
+Stratified Salt
+Acoustic Impedance Contrast Variation
+Igneous Rock
+Seismic Velocity
+Saucer-shaped Body
+Lopolith
+Lateral Compartmentation
+Interdigitation
+Plastic Behavior
+Salt Diapir
+Depth Structure
+Basement High
+Rift Depocenter
+Petroleum System Perturbation
+Migration Process
+Structural Control
+Conduit
+Oil Transport
+Mineralogical Composition Variation
+Differential Burial
+Gravitational Instability
+Tectonic
+Transitional Environment
+Continental Environment
+Shallow Marine Environment
+Evaporite Deposition
+Seismic Signature
+Fault Propagation
+Abrasion of Bivalve Shell
+Abiotic Carbonate Precipitation
+Abiotic Clay Mineral Precipitation
+Acidic Pore Water
+Accumulated Carbonate
+Accumulated Clay
+Alga
+Algal Origin
+Alkaline Condition
+Alkaline Lacustrine Water
+Alteration (geological process)
+Aluminum-Phosphate-Sulfate Mineral
+Analogous Lacustrine Reservoir
+Anhydrite
+Aptian (geological stage)
+Aragonite
+Aragonite Dissolution
+Aragonite Instability
+Arenite
+Arid Climate
+Articulated Bioclast
+Asthenospheric Uplift
+Authigenic Fibrous Silica
+Authigenic Illite Smectite Clay
+Authigenic Microcrystalline Silica
+Authigenic Non-Magnesian Clay Mineral
+Barite
+Bar Fringe
+Barremian (geological stage)
+Basement Lineament
+Bioclast
+Bioclast Dimension
+Bioclast Preservation
+Bioclastic Beach
+Bioclastic Reservoir
+Bioclastic Sandy Beach
+Bioclastic Sheet
+Biological Depositional Process
+Biotite
+Bladed Crystal
+Blocky Calcite
+Blocky Cement
+Blocky Crystal
+Blocky Dolomite
+Blocky Habit
+Bone (fossil)
+Botryoidal Crystal
+Brackish-Water Lacustrine Environment
+Breakup (geological process)
+Brecciated Texture
+Ca Activity
+Calcite Cement
+Calcite Cementation
+Calcite Spherulite
+Calcite Shrub
+Calcitic Shrub-Like Growth
+Calcitization
+Calcium (element)
+Channel Porosity
+Chaotic Fabric
+Chalcedony
+Charophyte
+Chemical Compaction
+Chemical Depositional Process
+Chemical Instability
+Chemical Precipitate
+Chemical Reactivity of Carbonate
+Chert
+Climate
+Clay Dissolution
+Clay Fraction
+Clay Matrix
+Clay Ooid
+Clay-Mineral Species
+Claystone
+Coalescence (geological process)
+Coalescent Crust
+Coarse Mosaic Calcite
+Coarse Mosaic Crystal
+Coarse Mosaic Quartz
+Coquina
+Compaction
+Compaction Inhibition
+Complex Pore System
+Complex Texture
+Compositional Evolution
+Compositional Feature
+Concentric Growth
+Concentric Lamina
+Conceptual Model
+Continuous Subsidence
+Continental Carbonate
+Core (geological sample)
+Craton
+Cretaceous (geological period)
+Crustal Thinning
+Crystal Habit
+Crystal Shape
+Crystal Shrub Precipitation
+Crystal Size
+Cubic Pyrite
+Cyclical Variation
+Cyclothem
+Decimetric Intercalation
+Deep Lacustrine Environment
+Deep Lacustrine Setting
+Deep Lake
+Deformation (geological process)
+Depositional Control
+Depositional Environment
+Depositional Model
+Depositional Sequence
+Detrital Coquina
+Detrital Interstitial Component
+Development (petroleum)
+Diagenesis
+Diagenetic Carbonate Phase
+Diagenetic Condition
+Diagenetic Mineral
+Diagenetic Pattern
+Diagenetic Process
+Disarticulated Bioclast
+Discontinuous Intercrystalline Porosity
+Displacement (geological process)
+Displacive Pore-Filling Interparticle Quartz Cement
+Dissolution
+Dissolution of Aggregate
+Dissolution of Overlying Evaporite
+Divergent Coalescence
+Divergent Crystal Habit
+Dolomite
+Dolomite Cementation
+Dolomite Dissolution
+Dolomite Precipitation
+Dolomite Replacement
+Dolomitization
+Dolomitization Associated with Fracturing
+Dolomitization Fabric
+Dolomitization Origin
+Dolomitized Grainstone
+Dolomitized Rudstone
+Dolostone
+Drift Phase
+Drusiform Cement
+Drusy Calcite
+Drusy Quartz
+Early Diagenetic Porosity
+Early Dolomitization
+Early Dissolution of Matrix
+Early Silica Precipitation
+Elemental Mineral Composition
+Encrusting (geological process)
+Engulfment (geological process)
+Engulfment of Dolomite
+Environmental Condition
+Eodiagenesis
+Eogenetic Condition
+Eogenesis
+Eoproterozoic Orogeny
+Epicontinental Context
+Epidote
+Erosion
+Erratic Occurrence
+Evaporation
+Evaporite
+Evolution (geological process)
+Exotic Mineralogy
+Exploration
+Exploratory Target
+Exposure Surface
+Extensive Resedimentation
+Fabric (geological texture)
+Fabric Obliteration
+Facies Association
+Facies Distribution
+Fault (geological structure)
+Fault-Related Alteration
+Fauna
+Fascicular Calcite Crust
+Fascicular-Optic Calcite
+Fascicular-Optic Crystal Aggregate
+Fibrous Calcite Aggregate
+Fibrous Crystal
+Fibrous Rim
+Filled Fracture
+Fish Scale
+Flooding Phase
+Fluid Flow
+Fluorite
+Focused Circulation of Deep-Sourced Fluid
+Formation (geological process)
+Formation of Microporosity
+Formation of Vugular Porosity
+Fracture (geological structure)
+Fracture Pore
+Fracture-Filling Cement
+Fracture-Related Alteration
+Fracturing
+Fragment of Reworked Calcite Crust
+Fragment of Stevensitic Claystone
+Fresh-Water Environment
+Gastropod
+Geochemical Condition
+Geochemistry of Eogenetic Interstitial Fluid
+Geopetal Feature
+Geological Age
+Geological Setting Diversity
+Geologic Enigma
+Grain Fracturing
+Grain Size
+Grainstone
+Gravitational Deposit
+Gravitational Mass Movement
+Gravitational Resedimentation
+Groundwater Flow
+Growth-Framework Primary Porosity
+Goyazite
+High Permeability
+High Porosity
+High Silica Concentration
+High Specific Surface Area
+High Temperature Mineral Formation
+Hot-Water Circulation
+Hybrid Packstone
+Hybrid Sandstone
+Hybrid Siltstone
+Hydrocarbon Accumulation
+Hydrocarbon Production
+Hydrocarbon Recovery
+Hydrological Input
+Hydrological Output
+Hydrothermal Activity
+Hydrothermal Fluid Circulation
+Hydrothermal Process
+Hydrothermal Vent
+Hypogenic Hydrothermal Karst
+Idiotope Dolomite
+Igneous Rock
+Illite
+Illite Smectite
+Inclusion Line
+Internal Crystal Habit
+Interparticle Cement
+Interparticle Contact
+Interparticle Porosity
+Interparticle Pressure Dissolution
+Interstitial Growth-Framework Pore
+Interstitial Porosity
+Interstice (geological)
+Intercrystalline Pore
+Intercrystalline Porosity
+Intergranular Porosity
+Intraclast of Carbonate Mud
+Intraclastic Grainstone
+Intraclastic Rudstone
+Intracratonic Tholeiitic Volcanism
+Intracrystalline Porosity
+Intraparticle Pore
+Intraparticle Porosity
+Ionic Activity
+Isopachous Palisade Crust
+Jurassic (geological period)
+Kaolinite
+Kerolite
+Lacustrine Carbonate Reservoir
+Lacustrine Carbonate System
+Lacustrine Environment
+Lacustrine Freshwater
+Lake Water Chemistry
+Laminated Aggregate
+Laminated Clay Deposit
+Laminated Fabric
+Laminated Limestone
+Laminated Microbial Carbonate
+Lamination (geological structure)
+Laminite
+Large Pore
+Large Pore Throat
+Late Cement
+Late Process
+Limited Fragmentation
+Limited Growth-Framework Primary Porosity
+Limited Reworking
+Lithologic Type
+Lithospheric Extension
+Local Geological Setting
+Low Magnesium Calcite Precipitation
+Low Permeability
+Low Porosity
+Lump of Microcrystalline Calcite
+Macro Pore
+Macroporosity
+Magnesium (element)
+Magnesian Clay Deposit
+Main Pore Type
+Marginal Lacustrine Setting
+Marine Biota
+Marine Carbonate
+Marine Seawater Incursion
+Massive Aggregate
+Massive Arenite
+Massive Bioclastic Grainstone
+Massive Bioclastic Reservoir
+Massive Bioclastic Rudstone
+Matrix (geological component)
+Mechanical Compaction
+Median Pore Throat
+Meniscus Cement
+Meso Pore
+Mesodiagenesis
+Mesoporosity
+Metallic Sulfide
+Metamorphic Rock
+Meteoric Dissolution
+Mg Activity
+Mg-Clay
+Mg-Clay Matrix
+Mg-Silicate
+Micro Pore
+Microbial Community
+Microbial Development
+Microbial Laminite
+Microbial Remnant
+Microbial Stromatolite
+Microcrystalline Calcite
+Microcrystalline Calcite Peloid
+Microcrystalline Crystal
+Microcrystalline Habit
+Microcrystalline Pore
+Microcrystalline Pyrite
+Microcrystalline Rim
+Microporosity
+Microstylolite
+Millimetric Continuous Palisade Crust
+Millimetric Intercalation
+Mimetic Replacement
+Mineral Composition
+Mineralogical Evolution
+Minor Constituent
+Moderate Energy Shallow Environment
+Moderately Sorted
+Moldic Porosity
+Moldic Pore
+Mollusk
+Mosaic Habit
+Mud-Grade Laminated Carbonate
+Mud Intraclast
+Muscovite
+Narrow Pore Throat
+Near Vertical Orientation
+Neomorphism
+Nodular Diagenetic Limestone
+Non-Coalescent Calcite Crust
+Non-Coalescent Shrub
+Noncarbonate Grain
+Non-Magnesian Calcite Crust
+Nonmarine Ostracod
+Nonmarine Sequence
+Obliterated Porosity
+Oceanic Crust
+Oil Field
+Oil Production
+Oil Storage
+Ooid
+Ooid Cementation
+Ooid Dissolution
+Ooidal Arenite
+Open Fracture
+Organic Matter
+Original Fabric
+Orthoclase
+Ostracod
+Packing (geological)
+Paragenetic Relationship
+Partial Dissolution of Cement
+Partial Dissolution of Shrub
+Partial Dissolution of Stevensite
+Partial Dolomitization
+Partial Replacement by Dolomite
+Partial Replacement by Quartz
+Partial Replacement of Ooid
+Partial Replacement of Spherulite by Chalcedony
+Partial Replacement of Spherulite by Quartz
+Partial Recrystallization of Fascicular Aggregate
+Particle (geological)
+Particle Diameter
+Particle Dissolution
+Particle Size Control
+Passive Margin
+Passive-Margin Basin
+Peloid
+Pendular Cement
+Permeability
+Permeability Evolution
+Permeability Range
+Permeability Variation
+Pervasive Dolomitization
+Petrography
+Petrophysics
+pH (geochemical parameter)
+Phosphatic Bioclast
+Phosphatic Grain
+Physical Depositional Process
+Pisolith
+Pisolithic Aggregate
+Pisolithic Rudstone
+Plagioclase
+Playalake Setting
+Plumose Crystal Habit
+Plug (geological sample)
+Pore Enlargement
+Pore Heterogeneity
+Pore Occlusion
+Pore System
+Pore Throat Diameter
+Pore Throat Narrowing
+Pore Throat Size
+Pore Throat Size Distribution
+Pore Throat Size Reduction
+Pore Throat Widening
+Pore Type
+Pore-Filling
+Pore-Filling Drusy Mosaic
+Poor Crystallinity
+Poor Reservoir
+Poorly Developed Calcite Crust
+Poorly Sorted
+Porosity Enhancement
+Porosity Evolution
+Porosity Geometry
+Porosity Modification
+Porosity Range
+Porosity Redistribution
+Porosity Reduction
+Porous Framework
+Porous System Heterogeneity
+Porous Type Variability
+pCO2 (geochemical parameter)
+Pre-Evaporitic Clastic
+Pre-Rift Flood Basalt
+Pre-salt (stratigraphic/depositional context)
+Precipitation (geological process)
+Precipitation of Dolomite
+Precipitation of Quartz
+Predominant Pore Type
+Predictive Model
+Prehnite
+Preserved Intraparticle Porosity
+Preserved Primary Porosity
+Pressure Dissolution
+Primary Composition
+Primary Constituent
+Primary Fabric
+Primary Porosity
+Primary Interparticle Porosity Preservation
+Primary Interparticle Porosity Reduction
+Primary Petrophysical Property
+Prismatic Calcite
+Prismatic Crystal
+Prismatic Quartz
+Proterozoic Fold Belt
+Proximal Clastic Sediment
+Pseudocubic Goyazite
+Pseudocubic Svanbergite
+Pseudomatrix
+Pure Coquina
+Pyrite
+Pyrite Framboid
+Quality Prediction
+Quantitative Petrography
+Quartz
+Radial-Fibrous Barite
+Radial-Fibrous Celestine
+Radial-Fibrous Crystal Aggregate
+Radial-Fibrous Texture
+Recognizable Nucleus
+Recrystallization
+Recrystallization of Bioclast
+Redeposition
+Reducer of Primary Porosity
+Regional Unconformity
+Regional Uplift
+Relict of Moldic Porosity
+Relict of Primary Interparticle Porosity
+Relict of Vugular Secondary Porosity
+Remnant of Primary Porosity
+Replacement (geological process)
+Replacement of Bioclastic Rock
+Replacement of Ostracod Bioclast
+Replacement of Siliciclastic Grain
+Replacement of Stevensite Peloid
+Reservoir
+Reservoir Quality
+Reservoir Thickness
+Residual Dolomite
+Residual Silica
+Reworked Calcite Crust
+Reworked Spherulite
+Reworking (geological process)
+Rhombohedral Crystal
+Rift Basin
+Rift Phase
+Rift Reservoir
+Rift Section
+Rift Shale
+Rift Zone
+Rifted Margin
+Rifting
+Rock Fragment
+Rounded Shape
+Rudstone
+Saddle Dolomite
+Sag Section
+Sag Sedimentation
+Sag Stage
+Sag Stage Stevensitic Deposit
+Salinity
+Sand-Size Siliciclastic Grain
+Scalenohedral Crystal
+Secondary Moldic Porosity
+Secondary Porosity
+Sedimentary Carbonate
+Sedimentary Input
+Sedimentary Rock
+Sedimentological Evolution
+Sedimentological Model
+Sedimentological Process
+Seismic Stratigraphy
+Selective Replacement of Fascicular Calcite Crust
+Shell Debris
+Shell Structure
+Shallow Proximal Region
+Shallow-Water Environment
+Shoreface
+Short Residence Time
+Shrub Shape
+Shrub Size
+Shrinkage Crack
+Sidewall Core (geological sample)
+Sidewall Plug (geological sample)
+Silica (element)
+Silica Precipitation
+Silica Replacement
+Siliciclastic Claystone
+Siliciclastic Grain
+Siliciclastic Matrix
+Siliciclastic Mud
+Siliciclastic Siltstone
+Silicified Arenite
+Silicification
+Silt-Size Siliciclastic Grain
+Sorting (geological)
+Source Spring
+Sparite
+Sphalerite
+Spherical Pisolith
+Stevensite
+Stevensite-Coated Carbonate Particle
+Stevensite Dissolution
+Stevensite Instability
+Stevensite Reactivity
+Stevensitic Arenite
+Stevensitic Claystone
+Stevensitic Particle
+Storm Event
+Stratigraphic Evolution
+Stratigraphic Process
+Stromatolite
+Structural High
+Structural Process
+Stylolitic Contact
+Subaqueous Environment
+Subbasin
+Subparallel Fabric
+Subspherical Pisolith
+Subtidal Mudstone
+Sucrosic Dolomitization
+Sulfate-Reducing Bacteria
+Supratidal Facies
+Surface Water
+Svanbergite
+Syngenetic Clay Mineral
+Syngenetic Magnesian Clay Mineral
+Syngenetic Precipitate
+Syngenetic Precipitation
+Syngenetic Sag Precipitate
+Synsedimentary Precipitate
+Systematic Petrographic Characterization
+Talc
+Talc-Stevensite Ooid
+Tectonic Evolution
+Tectonic Process
+Tectonism
+Temperature Variation
+Textural Feature
+Thin Calcite Rim
+Thin Section (geological sample preparation)
+Thick Bioclastic Deposit
+Tidal Influence
+Timing (geological)
+Tooth (fossil)
+Total Dissolution
+Total Dolomitization
+Total Neomorphism
+Total Replacement by Dolomite
+Total Replacement by Quartz
+Total Replacement of Ooid
+Total Recrystallization of Fascicular Aggregate
+Transfer Zone
+Transitional Sequence
+Travertine
+Uncemented Rock
+Unconformity
+Unconsolidated Sediment
+Undersaturated Fluid
+Upper-Intertidal Facies
+Vadose Diagenesis
+Vertebra (fossil)
+Vertical Orientation
+Viscous Medium
+Volcanic Grain
+Volcanic Rock
+Vuggy Porosity
+Vugular Pore
+Water Geochemistry
+Weak UV Fluorescence
+Well Sorted
+Well-Developed Shrub
+Whole Bioclast
+Wide Pore Throat
+Zoned Red Luminescence Pattern
+Microbialite reservoir
+Pre-Salt
+Petrography
+Isotope
+Seismic evidence
+Shallow lake
+Evaporitic lake
+Depositional model
+Exploration
+Aptian
+Carbonate reservoir
+Discovery
+Recoverable reserve
+2D seismic data
+Seismic database
+Rift setting
+Burial
+Marine evaporite
+Evaporite
+Albian
+Ocean
+Carbonate unit
+Lacustrine platform
+Microbialite platform
+Seismic geometry
+Well core
+Outcrop sample
+Organosedimentary deposit
+Accretion
+Benthic microbial community
+Detrital sediment
+Mineral precipitation
+Stromatolite
+Carbonate
+High relief structure
+Progradational geometry
+Mounded geometry
+Build-up
+Precambrian
+Marine platform
+Oil field
+Gas field
+Core recovery
+Microbial texture
+Geological record
+Depositional setting
+Hyper-alkaline lake
+Porosity
+Dissolution
+Mg-silicate clay
+Clay
+Carbonate platform
+Sea level
+Carbonate growth
+Lake depositional system
+Facies
+Isotopic evidence
+Thermodynamic evidence
+Syn-depositional faulting
+Post-depositional faulting
+Faulting
+Crystal shrub
+Inter-shrub porosity
+Silica cement
+Cement
+Silica replacement
+Replacement
+High relief platform
+Seismic data
+Seismic facies
+Reservoir facies model
+Marine carbonate system
+Carbonate lake
+Marine carbonate
+Stratal architecture
+Diagenetic potential
+Relative sea level change
+Carbonate factory
+Sediment
+Climate
+Lake deposystem
+Hydrological factor
+Local climate
+Tectonics
+Catchment geology
+Wave action
+Wave base
+Clean sand
+Siliciclastic
+Authigenic clay
+Marine sediment
+Mg-rich clay
+Evaporite product
+Halite
+Gypsum
+Basic igneous terrain
+Stevensite
+Congruent dissolution
+Reservoir quality
+Lacustrine carbonate system
+Non-marine
+Pre-Salt play
+Seismic characteristic
+Lithological characteristic
+Reservoir
+Composition
+Grain type
+In-situ
+Reworked
+Fibrous calcite
+Ooid
+Silicate gel
+Erosion
+Laminated mud
+Carbonate mud
+Mudstone
+Fish remain
+Invertebrate remain
+Fresh water
+Reworked facies
+Well-sorted grainstone
+Grainstone
+Diagenesis
+Porosity formation
+Microbial macrostructure
+Microbial microstructure
+Lithology
+Cyclothem
+Shallow water origin
+Salt deposition
+Uplift
+Shallow water lake model
+Shrub unit
+Evaporite cycle
+Thermodynamic modeling
+Geochemical modeling
+Chemical condition
+Exotic carbonate
+Evaporation
+Carbon isotope data
+Oxygen isotope data
+Log spike
+Shallowing-upward
+High-quality seismic data
+Regional evaluation
+Proven play
+Offset
+Source
+Cable tow
+Salt interpretation
+Low-frequency imaging
+RTM imaging
+Imaging
+Salt basin
+Energy
+Overturned bed
+Reverse Time Migration
+Kirchhoff
+Salt body
+Imaging uncertainty
+Salt scenario testing
+Salt model
+Base salt
+Pre-Salt level
+Acquisition direction
+Strike
+Dip
+Multi-directional surface definition
+Interactive interpretation
+Scenario testing
+Processing sequence
+Pre-stack Depth Migration
+Dataset
+Public seismic data
+Data quality
+Pre-Salt section
+Pre-Salt structure
+Structural high
+Cretaceous
+Platform
+Carbonate source factory
+Diffusivity
+Marine system
+Light-dependent group
+Sub-lacustrine carbonate mound
+Carbonate mound
+Lake level fall
+Carbonate precipitation
+Vent
+Calcium-rich water
+Alkaline lake water
+Complex internal geometry
+Internal seismic geometry
+Low transportability
+Early cementation
+Microbial factory
+Organism
+Pre-Salt carbonate succession
+Carbonate succession
+Subaerial travertine
+Tufa deposit
+Tufa
+Carbonate-charged fluid
+Point source
+Linear source
+Feeder vent
+Relief
+Progradation length
+Stacking geometry
+Marine carbonate build-up
+Carbonate build-up
+Down-stepping relationship
+Travertine accumulation
+Wedge-shaped unit
+Travertine cone
+Travertine mound
+Travertine ridge
+Seismic-scale platform
+Differentiated platform
+Topset
+Margin
+Slope
+Feeder system
+Fault
+Travertine origin
+Vent fracture
+Sub-seismic scale
+Hydrothermal vent complex
+Rift stage succession
+Isolated carbonate mound
+Subaerial vent system
+Sub-lacustrine vent system
+Vent system
+Mound-like feature
+Water depth
+Geochemical model
+Deep lake
+Cone-like feature
+Volcanic cone
+Inversion feature
+Seismic feature
+Seismic response
+Seismic effect
+Carbonate platform identification
+High angle margin
+Reflector thickening
+Steepness increase
+Seismic facies differentiation
+Onlap
+Fracturing
+Collapse
+Truncated reflector
+Karst
+Depositional wing
+Antecedent topography
+Drowning response
+Compactional drape
+Pull-up deformation zone
+Deformation zone
+High amplitude cap
+Fault block
+Buried hill
+Carbonate build-up feature
+Depositional behavior
+Associated strata
+Dip line
+Strike line
+Interpretation
+Formation
+Base of carbonate sequence
+Carbonate sequence
+Truncational geometry
+Erosional episode
+Carbonate sequence deposition
+Micro scale
+Macro scale
+Seismic facies analysis
+Regional 2D seismic dataset
+Structural high area
+Structural culmination
+Evaporite sequence
+Unconformity
+Sequence truncation
+Evaporitic lake model
+Shallow lake model
+Flattening
+Base of evaporite sequence
+Present-day high
+Present-day low
+Lake model
+Internal onlap
+Local tectonism
+Carbonate reworking
+Porous grainstone
+Log correlation
+Thickening
+Syn-depositional subsidence
+Subsidence
+Post-depositional faulting
+Seismic character
+Unexplored structural closure
+Structural closure
+Structural high block
+Small scale faulting
+Syn-depositional deformation
+Deformation
+Post-depositional deformation
+Clay dissolution
+Basin loading
+Mobile salt
+Structurally higher zone
+Subsiding basin
+Downslope salt drainage
+Salt drainage
+Sediment overburden
+Overburden
+Significant subsidence
+Prolific play type
+Play type
+Micro scale characteristic
+Macro scale characteristic
+Shallow water lake depositional model
+Regional dataset
+Subtle trap
+Trap
+Marine Geology
+Petroleum Geology
+Presalt Carbonate
+Reservoir Characterization
+Geology
+Geophysics
+Flow Unit
+Seismic Quantitative Interpretation
+Presalt Reservoir
+3D Reservoir Modelling
+Petrophysical Modelling
+Rock Typing
+Flow Heterogeneity
+Reservoir
+Petrophysical Property
+Porosity
+Permeability
+Pore-Throat Size
+Core
+Well Log
+Flow Zone Indicator
+Clastic Reservoir
+Carbonate Reservoir
+Sedimentological Facies
+Seismic Attribute
+Flow Unit Occurrence Probability Volume
+Seismic Derived Porosity
+Seismic Derived Permeability
+Seismic Scale
+Small Scale Effect
+Porosity Generation
+Large Scale
+Elastic Seismic Attribute
+3D Permeability Volume
+3D Porosity Volume
+Reservoir Flow Characteristic
+Reservoir Parameter
+Lateral Interpolation
+Seismic 4D Interpretation
+Seismic-Assisted History Matching
+Static Model
+Dynamic Model
+Enhanced Oil Recovery
+Complex Geology Setting
+Reservoir Heterogeneity
+Flow Behavior
+Fluid Movement
+Carbonate Setting
+Sedimentary Facies
+Lithological Facies
+Reservoir Petrophysical Characteristic
+Differential Diagenesis
+3D Static Model
+Sedimentological Premise
+Diagenetic History
+High-Energy Setting
+Reservoir Rock Typing
+Porosity Obliteration
+Seismic Data
+3D Geological Model
+Geostatistical Approach
+Flow Model
+Well Data
+Seismic Velocity
+Permeability Relation
+P-Wave Velocity
+Absolute Permeability
+Tridimensional Petrophysical Property
+Acoustic Impedance Volume
+Base of Salt Horizon
+Formation
+Structure
+Wedge Model
+Synthetic Seismogram
+Amplitude Variation
+Acoustic P Impedance
+Smoothed P-Impedance
+Frequency Content
+Seismic Inversion
+Accommodation
+Accommodation Cycle
+Accommodation Potential
+Accommodation Reduction
+Accommodation Restriction
+Accommodation Style
+Abiotic Precipitation
+Abiotic Process
+Accumulation
+Aggregate
+Albian
+Alkalinity
+Alkalinity Condition
+Alkalinity Increase
+Alkaline Environment
+Alkaline Lake
+Alkaline Lacustrine Setting
+Alkaline Solution
+Allogeneic Control
+Alternation
+Amalgamation
+Anhydrite
+Aptian
+Aptian Section
+Areal Mappability
+Areal Expansion
+Areal Extent Change
+Asymmetric Spherulite
+Associated Sediment
+Bacterial Metabolic Activity
+Base Level Variation Magnitude
+Basin Evolution
+Basin Physiography
+Basin Tectonic Evolution
+Basinward Thickening
+Bedload Transport
+Belt
+Bioclastic Carbonate
+Bioclastic Nucleus
+Biogenic Carbonate Facies
+Biogenic Carbonate Rock
+Biological Activity
+Biological Process
+Biological Sedimentation Contribution
+Brecciation
+Calcite
+Calcite Crystallization Rate
+Calcitic Composition
+Calcitic Constituent
+Calcitic Morphology
+Calcitic Shrub
+Calcitic Spherulite
+Calcitic Spherulite Genesis
+Calcium Carbonate Form
+Calcium Carbonate Mineralization
+Calcium Carbonate Precipitation
+Capillary Pressure Profile
+Carbon Capture Utilization and Storage
+Carbonate
+Carbonate Layer
+Carbonate Level
+Carbonate Precipitation Rate
+Cenomanian
+Chemical Carbonate Facies
+Chemical Carbonate Rock
+Chemical Genesis
+Chemical Precipitation
+Chemical Condition
+Chronological Correlation
+Chronological Equivalence
+Clay
+Clay Aggregate
+Clay Interval
+Clay Mineral
+Climate Factor
+Climate Sensitivity
+Climatic Oscillation
+Climatic Trend
+CO2 Degassing
+CO2 Degassing Rate
+CO2 Loss
+Coalescence
+Coarse Sand
+Complex Facies Shift
+Complex Paleotopography
+Composition
+Continental Margin
+Continental Rupture
+Core
+Core Analysis
+Cross-stratification
+Cross-stratification Structure
+Crust
+Crust-like Carbonate
+Crustiform Texture
+Crust-rich Horizon
+Crystalline Basement
+Current
+Current Action
+Cycle
+Danian
+Data Integration
+Deep Water
+Deepening Upward Pattern
+Deformation
+Deposit
+Deposit Genesis Trigger
+Depositional Condition
+Depositional Control
+Depositional Dynamic
+Depositional Energy
+Depositional Environment
+Depositional Evolution
+Depositional Facies
+Depositional Horizon
+Depositional Model
+Depositional Organization
+Depositional Process
+Depositional Trend
+Detrital Siliciclastic Constituent
+Detrital Siliciclastic Content
+Detrital Siliciclastic Material
+Development
+Diagenetically Affected Deposit
+Diagenetically Affected Rock
+Diagenetic Origin
+Diagenetic Process
+Dilution
+Discontinuous Appearance
+Dispersed Ostracod
+Displacement
+Dissolution
+Dissolved Interval
+Dissolved Silica Precipitation
+Distance
+Dolomite
+Dolomitic Composition
+Dolomitized Clay Material
+Dolomitized Laminated Magnesian Clay Aggregate
+Dolomitization
+Drift Phase
+Drift Phase Sediment
+Drilling Depth
+Dry Period
+Dry Sedimentation Regime
+Early Aptian
+Early Cretaceous
+Elementary Sequence
+Elementary Sequence Predominance
+Elementary Sequence Type
+Emerged Area
+Energy Condition
+Energy Level
+Environmental Change
+Environmental Condition
+Erosive Angular Unconformity
+Essential Surface
+Evaporation Rate
+Evaporite
+Evaporite Section
+Evaporite Transition
+Evolution
+Exceeding
+Expansion
+Expanding Lake Regime
+Expanding Lake Regime Facies Tract
+Exploration Scale
+Extent
+External Geometry
+External Sediment Influx
+External Sediment Input
+Facies
+Facies Accumulation
+Facies Analysis
+Facies Architecture
+Facies Association
+Facies Characteristic
+Facies Component
+Facies Distribution
+Facies Occurrence
+Facies Proportion
+Facies Proportion Trend
+Facies Proportion Variation
+Facies Stacking Pattern
+Facies Stacking Pattern Analysis
+Facies Succession
+Facies Subtype
+Facies Transition
+Fall
+Fault Activity
+Fault Reactivation
+Feldspar
+Fetch
+Fibro-radial Texture
+Fibrous Crystal
+Field Scale
+Fine Sand
+Fluid Dynamic
+Fluid Flow
+Form
+Formation
+Fossil Absence
+Fossiliferous Content
+Fragment
+Free Water Level
+Gamma-ray Log Value
+Gel
+Genesis
+Geochemical Analysis
+Geocellular Model
+Geological Characteristic
+Geological Concept
+Geological Model
+Geological Modeling Workflow
+Geological Record
+Geological Reservoir Model
+Geological Setting
+Geometry
+Geothermal Source
+Grain Size
+Group
+Growth
+Gypsum
+Heterogeneity
+Heterogeneity Spatial Distribution
+Hierarchization
+Hiatus
+High-energy Environment
+High Frequency Sequence
+High-resolution Sequence Stratigraphy
+High-resolution Stratigraphic Analysis
+High-resolution Stratigraphic Framework
+High-resolution Structural Stratigraphic Model
+High-to-moderate-energy Condition
+High-to-moderate-energy Environment
+History Match
+Horizon
+Hybrid Component
+Hydrocarbon Reserve
+Igneous Clast
+Igneous Constituent
+Igneous Rock
+Impact
+Incipient Carbonate Facies
+Incipient Shrub
+Incipient Shrub-like Carbonate
+In Situ Carbonate
+In Situ Shrub Facies
+Input
+Internal Geometry
+Internal Lamination
+Intraclast
+Intrabasinal Structural High
+Inversion
+Ion Concentration
+Kerolite
+Laboratory Data
+Lacustrine Carbonate Reservoir
+Lacustrine Carbonate Rock
+Lacustrine Deposit
+Lacustrine Environment
+Lacustrine Interpretation
+Lacustrine Setting
+Lacustrine Sedimentary Dynamic
+Lake
+Lake Center
+Lake Chemistry
+Lake Dynamic
+Lake Expansion
+Lake Floor
+Lake Level
+Lake Level Fluctuation
+Lake Modification
+Lake Margin
+Lake Paleotopographic Variation
+Lake Paleotopography
+Lake Physiography
+Lake Retraction
+Lake Shoreline
+Lake Substrate
+Lake Water
+Layer
+Limiting Stratigraphic Surface
+Lithofacies Analysis
+Lithofacies Quantification
+Lithotype
+Logical Construction
+Long-term Lake Paleotopographic Variation
+Low Frequency Sequence
+Low-energy Environment
+Low-energy Facies
+Low-frequency Depositional Evolution
+Low-frequency Dry Period
+Low-frequency Expanding Lake Regime
+Low-frequency Retracting Lake Regime
+Maastrichtian
+Magnesian Clay
+Magnesian Clay Aggregate
+Magnesian Clay Mineral
+Magnesium Concentration
+Magnesium Silicate
+Main Stratigraphic Surface
+Marine Environment
+Marine Fossil
+Marine Influence
+Marine Setting
+Maximum Expansion Surface
+Maximum Retraction Surface
+Medium Frequency Sequence
+Medium-scale Sequence
+Metamorphic Rock
+Meteoric Water Input
+Mica
+Microbial Activity
+Microbial Influence
+Microbial Mat
+Microbial Stromatolite Deposition
+Microcrystalline Calcite
+Micritic Element
+Micritic Nucleus
+Miliolid Foraminifera
+Mineral
+Mineral Nucleation
+Mineralogy
+Modeling
+Model
+Muddy Sediment
+Nested Pattern
+Non-marine Ostracod
+Non-reservoir Facies
+Nucleation
+Ocean Opening
+Offshore
+Oil Discovery
+Organic Acid
+Organic Matrix Role
+Ostracod Bioclast
+Package
+Paleotopography
+Palygorskite
+Particle
+Particle Size
+Pebble
+Peloid
+Period
+Permeability
+Petrophysical Data
+Petrophysical Heterogeneity
+Petrophysical Property
+Petrophysical Property Control
+Petrophysical Property Prediction
+Petrophysical Property Variation
+pH Value
+Phosphatic Bioclast Fragment
+Physicochemical Environment
+Platform
+Pore
+Porosity
+Porosity-Permeability Relationship
+Post-rift Phase
+Precipitation
+Precipitation Environment
+Precipitation Rate
+Precipitation Space
+Pre-Cambrian
+Pre-salt Basin
+Pre-salt Play
+Pre-salt Reservoir
+Pre-salt Section
+Precursor
+Prediction
+Proportion
+Proportion Curve
+Proto-oceanic Environment
+Quartz
+Radiogenic Strontium Data
+Ray Crystal Shrub
+Recent
+Recrystallization
+Region
+Regional Aspect
+Relief
+Remnant
+Repeatability
+Reservoir
+Reservoir Characteristic
+Reservoir Characterization
+Reservoir Modeling
+Reservoir Property
+Reservoir Rock
+Reservoir Scale
+Reservoir Zonation
+Restricted Environment
+Restricted Marine Environment
+Retracting Lake Regime
+Retracting Lake Regime Facies Tract
+Reworked Carbonate
+Reworked Constituent
+Reworked Material
+Reworking
+Rift Phase
+River Vigor
+River Water Volume
+Rock Class
+Rock Data
+Rock Sample
+Rock-type
+Sag-phase
+Sag-phase Carbonate
+Saline Lacustrine Environment
+Saline Solution
+Salinity Increase
+Salt Layer
+Sand
+Saponite
+Saturation Environment
+Scale
+Section
+Sediment
+Sediment Input
+Sediment Water Surface
+Sedimentation
+Sedimentation Rate
+Sedimentation Regime
+Sedimentological Architecture
+Sedimentological Conceptual Background
+Sedimentological Evolution
+Sedimentological Interpretation
+Sedimentological Pattern
+Sedimentological Process
+Sediment Supply Rate Variation
+Sedimentary Basin
+Sedimentary Cycle
+Sedimentary Facies
+Sedimentary Facies Architecture
+Sedimentary Process
+Sedimentary Structure
+Sedimentary Succession
+Sedimentary Trend
+Seismic Attribute
+Seismic Data
+Seismic Interpretation
+Sepiolite
+Sequence
+Sequence Boundary
+Sequence Hierarchical Method
+Sequence Stratigraphy
+Settling from Suspension
+Shallowing Upward Pattern
+Shoreline
+Shrub
+Shrub-like Element
+Shrub-like Texture
+Sidewall Sample
+Silica Concentration
+Silica Content
+Silica Layer
+Siliciclastic Content
+Siliciclastic Rock
+Siliciclastic Sediment
+Silicification
+Silt
+Small-scale Sequence
+Sorting
+Space
+Spatial Representation
+Span
+Spherulite
+Spherulite Concentration
+Spherulite Growth
+Spherulite Nucleation
+Spherulite Proportion
+Spherulite-rich Facies
+Spherulite-rich Level
+Spherulitic Claystone
+Stacking Pattern
+Stacking Pattern Inversion
+Stacking Pattern Repeatability
+Stacking Pattern Variation
+Stevensite
+Stevensite Precipitation Stage
+Stevensitic Composition
+Strata Succession
+Stratigraphic Framework
+Stratigraphic Interval
+Stratigraphic Surface
+Stratigraphic Zone
+Stressed Lacustrine Environment
+Stressed Lacustrine Setting
+Structural Area
+Structural High
+Structural Region
+Subaerial Exposure Feature
+Subaerial Exposure Process
+Subaqueous Area
+Subaqueous Tractive Flow
+Sulfate
+Supersaturated Environment
+Supersaturated Solution
+Syngenetic Element
+Syngenetic Magnesian Clay
+Syngenetic Magnesian Clay Mineral
+Syngenetic Precipitation
+Talc
+Tectonic Activity
+Tectonic Phase
+Tectonism
+Temporal Scale
+Texture
+Thermal Subsidence Regime
+Thickness
+Thickness Variation
+Thin-section Analysis
+Three-dimensional Distribution
+Time
+Transformation
+Transitional Environment
+Transitional Spherulite-Shrub Type
+Turonian
+Ultradeep Water
+Upward Trend
+Valanginian
+Vertical Facies Proportion
+Vertical Growth
+Vertical Proportion Curve
+Viscous Medium
+Volcanic Deposit
+Volcanic Rock
+Volcanic Terrain
+Volumetric Study
+Wackestone-like Texture
+Water
+Water Agitation
+Water Body
+Water Concentration
+Water Depth
+Water Influx
+Water Salinity
+Water Saturation
+Water Transport
+Water Volume
+Wave
+Wave Action
+Wave Base
+Well
+Well Log
+Wet Climate
+Wet Period
+Wet Sedimentation Regime
+Workflow
+Reservoir
+Lacustrine Rock
+Pre-Salt Section
+Marine Carbonate Rock
+Pre-Salt Reservoir
+Basin
+Structure
+Fabric
+Primary Texture
+Composition
+Diagenetic Modification
+In Situ Rock
+Resedimented Rock
+Calcite Spherulite
+Fascicular Shrub
+Mud Matrix
+Particulate Carbonate Rock
+Depositional Environment
+Reservoir Quality
+Petroleum Province
+Hydrocarbon Accumulation
+Lacustrine System
+Sag Depression
+Tectonic Setting
+Magmatism
+Hydrothermal Activity
+Mantle Exhumation
+Climatic Condition
+Alkaline Lacustrine Environment
+Chemical Precipitation
+Water Column
+Lake Bottom
+Magnesian Clay Matrix
+Lacustrine Sedimentation
+Depositional Cycle
+Authigenic Syngenetic Magnesian Phyllosilicate
+Stevensite
+Magnesian Smectite
+Kerolite
+Hydrated Talc
+Interstratified Mixed Layer
+Mineral
+Homogeneous Nucleation
+Clay-Size Particle
+Laminated Deposit
+Silt-Size Peloid
+Fine Sand-Size Peloid
+Magnesium Silicon Gel
+Colloidal Particle
+Sediment Water Interface
+Detrital Clay
+Illite Smectite
+Burial
+Silt Quartz
+Feldspar
+Mica
+Ostracod Bioclast
+Bacterial Bioclast
+Algal Bioclast
+Microcrystalline Dolomite
+Silica
+Calcite
+Carbonate Mud Deposit
+Micrite
+Carbonate Mud
+Evaporite
+Depression
+Spheroidal Radial-Fibrous Aggregate
+Magnesium Clay Deposit
+Lamina
+Clay Peloid
+Intraclast
+Lump of Microcrystalline Calcite
+Recrystallization
+Dolomitization
+Silicification
+Dissolution
+Dolomite Rhomb
+Shrinkage Pore
+Lamellar Dolomite
+Magnesite
+Spherulitic Rock
+Pre-Salt Rock
+Fascicular Aggregate
+Calcite Precipitation
+Substrate
+Laminated Magnesium Clay Deposit
+Peloidal Magnesium Clay Deposit
+Syngenetic Precipitation
+Fascicular Calcite
+Crust
+Growth Framework
+Interaggregate Porosity
+Asymmetrical Spherulite
+Lobate Spherulite
+Intra-Sediment Eodiagenetic Formation
+Reworked Deposit
+Reworked Spherulite
+Shrub Fragment
+Microcrystalline Carbonate
+Silica Intraclast
+Clay Intraclast
+Clay Superficial Ooid
+Magnesium Clay Envelope
+Intraclastic Rock
+Interparticle Primary Porosity
+Secondary Porosity
+Clay Matrix Dissolution
+Pseudomatrix
+Microbial Carbonate
+Cryptocrystalline Microfabric
+Clotted Microfabric
+Stromatolite
+Thrombolite
+Dendrolite
+Leiolite
+Carbonate Rock
+Particulate Allochthonous Type
+Depositional Type
+Grainstone
+Packstone
+Wackestone
+Mudstone
+Rudstone
+Floatstone
+Allochem Particle
+Bioclast
+Ooid
+Oncoid
+Peloid
+Pellet
+Constructed Autochthonous Rock
+Biological Rock
+Framestone
+Bafflestone
+Bindstone
+Boundstone
+Organism
+Crystalline Type
+Sparite
+Sparstone
+Dolostone
+Compaction
+Fitted Limestone
+Condensed Limestone
+Precipitated Cement
+Cementstone
+Fine-Grained Pre-Salt Rock
+Magnesium Silicate Matrix
+Parallel Orientation
+Clay
+Magnesium Clay Lamination
+Fascicular Pre-Salt Rock
+Recrystallized Calcite Spherulite
+Porous Spherulitic Rock
+Lamellar Magnesite
+Shrinkage Crack
+Laminated Magnesium Clay Matrix
+Crust of Fascicular Calcite Aggregate
+Silica Cement
+Interstitial Magnesium Clay
+Zoned Dolomite Rhomb
+Calcirudite
+Microcrystalline Intraclast
+Secondary Intraparticle Porosity
+Particulate Type
+Calcilutite
+Bioconstructed Biolithite
+Recrystallized Type
+Dolomitized Type
+Micritic Matrix
+Biointramicrudite
+Bioherm Rock
+Gravel-Size Particle
+Finer-Grained Carbonate Material
+Carbonate Sand
+Stratified Structure
+Laminated Structure
+Dendriform Structure
+Arborescent Structure
+Shrubby Structure
+Travertine
+Tufa
+Magnesium Clay Depositional Matrix
+Spherulitic Calcite Aggregate
+Diagenetic Origin
+Laminite
+Fine-Grained Carbonate Rock
+Microbial Origin
+Thin Lamination
+Smooth Lamination
+Crenulated Lamination
+Facies Classification Scheme
+Laminated Carbonate Mudstone
+Diagenetic Replacement
+Laminated Magnesium Clay
+Dolomite
+Micritic Carbonate Mud Matrix
+Replacement Product
+Depositional Component
+Early Diagenetic Component
+Sediment Mineralogy
+Depositional Condition
+Reservoir Type
+Sag Deposit
+Heterogeneous Diagenetic Replacement
+Spherulite Intraclast
+Shrub Intraclast
+Textural Attribute
+Compositional Attribute
+Sag Pre-Salt Carbonate
+Extraclast
+Limestone
+Chert
+Silicate Mineral Grain
+Terrigenous Clastic
+Extrabasinal Fragment
+Preexisting Carbonate Rock
+Terrigenous Lithic Carbonatoclastic Rock
+Calclitite
+Crustone
+Crust-Like Rock
+Fibrous Texture
+Prismatic Texture
+Massive Texture
+Microcrystalline Texture
+Cryptocrystalline Texture
+Micropeloidal Texture
+Brushed Pattern
+Vertical Moldic Pore
+Calcite Incrustation
+Shrubstone
+Tupilite
+In Situ Process
+Redepositional Process
+Calcarenitic Crustone
+Crustose Spherulitic Calcarenite
+Intercalation
+Intraclastic Deposit
+Pre-Salt Succession
+Rock Type
+Aptian Section
+Pre-Salt Sag Section
+Syngenetic Magnesium Silicate
+Structural Characteristic
+Coalesced Spherulite
+Non-Coalesced Spherulite
+Coalesced Shrub
+Non-Coalesced Shrub
+Alteration
+Modification
+Dolomitized Rock
+Silicified Rock
+Recrystallized Rock
+Dissolved Rock
+Fractured Rock
+Clastic Deposit
+Hybrid Resedimented Pre-Salt Sag Deposit
+Pre-Salt Hybrid Rock
+Laminated Mudstone
+Muddy Spherulstone
+Coalesced Spherulstone
+Recrystallized Spherulite
+Muddy Shrubstone
+Heterogeneously Coalesced Fascicular Aggregate
+Peloidal Clay Matrix
+Framboidal Pyrite
+Rudaceous Calcarenite
+Microcrystalline Microbial Intraclast
+Intraparticle Porosity
+Slightly Rudaceous Calcarenite
+Calcite Rim Cementation
+Mud Carbonate Matrix
+Sand Carbonate Matrix
+Depositional Energy
+Rudaceous Rock
+Muddy Calcirudite
+Arenaceous Calcirudite
+Fabric Support
+Mud-Supported Fabric
+Grain-Supported Fabric
+Arenite
+Rudite
+Lutite
+Carbonate Grain
+Clay Grain
+Siliciclastic Grain
+Phosphate Grain
+Hybrid Arenite
+Mixed Particulate Rock
+Hybrid Particulate Rock
+Compositional End-Member
+Siliciclastic Rock
+Volcanoclastic Rock
+Two-Component Hybrid Rock
+Resedimented Hybrid Pre-Salt Rock
+Intrabasinal Magnesium Clay
+Intrabasinal Carbonate
+Siliciclastic Volcaniclastic Grain
+Intrabasinal Magnesium Clay Particle
+Intrabasinal Carbonate Particle
+Siliciclastic Volcaniclastic Component
+Volcanic Rock Fragment
+Granitic Fragment
+Gneissic Fragment
+Monocrystalline Quartz
+Feldspar Grain
+Volcaniclastic
+Volcanic Clast
+Lithoclast
+Bioclastic Calcarenite
+Bioclastic Calcirudite
+Coquina
+Rift Section
+Carbonate Extrabasinal
+Mud Fraction
+Sandstone
+Coarse Mudstone
+Fine Mudstone
+Medium Mudstone
+Mud-Size Grain
+Coarse Mud
+Coarse Silt
+Fine Mud
+Fine Silt
+Diagenetic Process
+Hydrothermal Process
+Microsparite
+Dolosparite
+Microdolosparite
+Geological Characterization
+Geological Modeling
+Aptian
+Carbonate Reservoir
+Hydrocarbon Province
+Oil Discovery
+Water Depth
+Barremian
+Carbonate Section
+Carbonate Platform
+Oil Field
+Geological Context
+Spatial Distribution
+Sedimentary Facies
+Permo-porosity
+Producing Stratigraphic Zone
+Flow Path
+Geological Model
+Structural Model
+Stratigraphic Model
+Facies Model
+Permo-porosity Model
+Sedimentological Study
+Carbonate Facies
+Sequence
+Grainstone
+Stromatolite
+Shrub
+Spherulitite
+Laminite
+Wackestone
+Mudstone
+Cycle
+Facies Succession
+Stratigraphic Surface
+Stratigraphic Section
+Stratigraphic-Sedimentological Forward Facies Model
+Sedimentary Stacking Pattern
+Well Data
+Geological Simulation
+Depositional Process
+Carbonate Rock
+Base Level Oscillation
+Carbonate Depositional Rate
+Permeability Distribution
+Rock Type
+Permeability Class
+Fracture Zone
+3D Forward Modeling
+Environmental Condition
+Carbonate Deposition
+Lake-level Oscillation
+Arid Climatic Condition
+Reservoir Quality
+Reservoir Facies
+Permeability
+Primary Porosity Connection
+Dissolution
+Fracture
+Sedimentological Process
+Facies Distribution
+Permo-porosity Distribution
+Production Curve
+Production Performance
+Sedimentology
+Petrophysical Analysis
+Pre-Salt
+Lacustrine Carbonate
+Reservoir
+Rift
+Sag
+Sedimentation Stage
+Basin
+Salt Seal
+Deep Water
+Oil Field
+Gas Field
+Formation
+Aptian
+Texture
+Compositional Feature
+Petrophysical Property
+Geological Study
+Core Sample
+Plug
+Thin Section
+Depositional Facies
+Textural Component
+Crystal Shrub
+Calcite Spherulite
+Hybrid Form
+Mud-Grade Carbonate
+Dolomite
+Intraclast
+Depositional Framework
+Poroperm System
+Petrographic Image Analysis
+CT-Scan Data
+Depositional Control
+Porosity
+Diagenetic Overprint
+Hydrothermal Overprint
+Dolomite Cementation
+Dolomitization
+Silicification
+Dissolution Process
+Primary Porosity Modifier
+Intraclastic Grainstone
+Spherulitic Grainstone
+Rudstone
+Matrix Dissolution
+Reservoir Property
+Shrubby Framestone
+Reservoir Facies
+Hydrocarbon Forecast
+Hydrocarbon Recovery
+Cretaceous
+Ultra-Deep Water
+Offshore Production
+Oil Production
+Gas Production
+Pre-Salt Exploration Horizon
+Geophysical Imaging
+Salt Layer
+Reservoir Depth
+Reservoir Heterogeneity
+Geological Complexity
+Non-Conventional Deposit
+Siliciclastic Reservoir
+Lacustrine Environment
+Rift Basin
+Sag Basin
+Gondwana Supercontinent Breakup
+Ocean Opening
+Late Jurassic
+Early Cretaceous
+Pre-Salt Play
+Continental Carbonate
+Climate Change
+Water Chemistry
+Bathymetry
+Lithofacies
+Biofacies
+Lateral Distribution Pattern
+Vertical Distribution Pattern
+Environmental Oscillation
+Depositional Process
+Biogenic-Mediated Sedimentation
+Abiotic-Chemical Precipitation
+Carbonate Clastic Input
+Eolian Supply
+Biotic Contribution
+Main Reservoir Facies
+Microbialite
+Abiotic Model
+Carbonate Nature
+Chemical Reactivity
+Carbonate Mineral
+Diagenetic History
+Heterogeneous Poroperm System
+Depositional Texture Characteristic
+Grain Size
+Sorting
+Packing
+Permeability
+Primary Reservoir
+Poor Quality Reservoir
+Non-Reservoir
+Integrated Study
+Stratigraphic Study
+Core Interval
+Post-Depositional Process
+Sag Phase Facies
+Passive-Margin Basin
+Continental Margin
+Extensional Tectonic Regime
+Basin-Fill History
+Megasequence
+Rift Phase
+Post-Rift Sag Phase
+Drift Phase
+Continental Crust
+Tensional Fracture
+Magma Conduit
+Volcanism
+Basalt
+Economic Basement
+Rift System
+Fluvio-Lacustrine Deposit
+Sandstone
+Siltstone
+Shale
+Talc-Stevensitic Composition
+Coquina
+Interlayering
+Thermal Contraction
+Crust
+Subsidence
+Crustal Dome Collapse
+Sag-Type Basin
+Lacustrine Deposit
+Shallow Marine Environment
+Continental Environment
+Stromatolite
+Abiotic Origin
+Saturated Water
+Alkaline Water
+Lacustrine Water
+Unconformity
+Microbialite Lake System
+Bivalve Coquina Lake
+Transitional Evaporite
+Paleogeographic Scenario
+Gulf
+Saline Water
+Negative Hydrological Balance
+Evaporite Interval
+Variable Thickness
+Halokinesis
+Anhydrite
+Halite
+Salt Mineral
+Regional Seal
+Post-Salt Prospect
+Suprasalt Prospect
+Marine Setting
+Nuclear Magnetic Resonance Analysis
+Transverse Relaxation Time Cutoff
+Free Fluid Index
+Bulk Volume Irreducible
+Centrifuge Method
+Irreducible Water Saturation
+Spherulitic Packstone
+Laminated Dolomudstone
+Autochthonous Deposit
+Transported Sediment
+Reworked Grain
+Dolomudstone
+Clay Content
+Optical Petrography
+Plane-Polarized Light
+Crossed-Polarized Light
+X-Ray Computed Tomography
+Conventional Poroperm Gas Test
+Transmitted Light Scanner
+Calcite Dolomite Differentiation
+Porous Space Characterization
+Binarization
+Porous Space
+Non-Porous Space
+Matrix
+Grain
+Cement
+Segmentation Process
+Layer
+In Situ Crystal Shrub Crust
+Phosphatic Bioclast
+Dendritic Pattern
+Non-Magnesian Calcite
+Fibrous-Radial Calcite Crystal
+Crystal Habit
+Coalescence
+Interstitial Space
+Sutured Contact
+Growth Framework Pore
+Intraparticle Porosity
+Intra-Shrub Porosity
+Calcite Dissolution
+Micropore
+Growth Band
+Radial Crystal
+Microfracture
+Dolomite Cement
+Silica Cement
+Diagenetic Constituent
+Rhombohedral Crystal
+Intercrystalline Porosity
+Isopachous Crystal
+Pore-Obliterating Mosaic
+Prismatic Quartz
+Coarse Quartz
+Microporous Microcrystalline Quartz
+Fibrous Chalcedony
+Silica Variety
+Calcite Fabric Replacement
+Calcitic Detrital Grain
+Grain-Supported Fabric
+Coarse Sand
+Pebble-Grade Fragment
+Reworked Fragment
+Pisoid
+Poor Size Sorting
+Tight Packing
+Grain Shape Diversity
+Spherical Grain
+Well-Rounded Grain
+Irregular Grain
+Angular Grain
+Fascicular Crystal Habit
+Fine-Grained Sediment
+Concentric Lamination
+Micritization
+Fracturing
+Compaction
+Primary Interparticle Porosity
+Internal Dissolution
+Open Fracture
+Aragonite Crystal
+Radial Figure
+Micritic Nucleus
+Microsparitic Nucleus
+Moldic Void
+Transport
+Reworking
+Fragmentation
+In Situ Growth
+Morphology Preservation
+Good Size Sorting
+Spherical Base
+Asymmetric Cross-Shaped Figure
+Bedding
+Branching Level
+Packstone
+Interparticle Porosity
+Original Morphology Destruction
+Burial Compaction
+Microstylolite
+Fused Grain
+Fine Texture
+Lamination
+Mud-Grade Carbonate Debris
+Calcite Particle
+Blocky Dolomite Crystal
+Silica Nodule
+Microcrystalline Quartz
+Chalcedony
+Dissolution Enhancement
+Fracture Porosity
+Continuous Fracture
+Aperture
+Opaque Heavy Mineral
+High Frequency Intercalation
+Pore Type
+Pore Size Distribution
+Pore Area Range
+Macroporosity
+Vertical Profile
+Porosity Peak
+Lithological Variation
+X-Ray Attenuation Coefficient
+Quartz
+Gas Porosity
+Gas Permeability
+NMR Porosity
+Pore Volume
+Tomography Resolution
+Pore Connectivity
+Fabric
+Macroporosity Distribution
+Pore Volume Distribution
+Reworked Spherulite
+Isolated Interparticle Pore
+Flow Barrier
+Cylindrical Pore
+Vertical Permeability
+Volcanic-Sourced Lake
+Alkaline Lake
+Geological Formation Process
+Bioticity
+Microbial Origin
+Erosion Embayment
+Vertical Growth
+Depositional High
+Coral Reef
+Algal Reef
+Growth Pattern
+Current Energy
+Microbial Activity Evidence
+Fibrous Crystal Fabric
+Abiotic Mineral Precipitation
+Microbial Activity Textural Evidence
+Grain Trapping
+Grain Binding
+Clotted Texture
+Micropeloidal Texture
+Microporous Micritic Texture
+Microfossil
+Cyanobacterial Filament
+Cemented Biofilm
+Organic Material
+Microbial Influence
+Dendrite Growth
+Crystal Growth
+Distinct Crystal Habit
+Repeating Morphology
+Bacterial Shrub
+Irregular Morphology
+Micritic Aggregate
+Bacterial Clump
+Travertine System
+Saline Environment
+Facies Distribution Control Factor
+Accommodation Space
+Environmental Energy
+Geochemistry
+Evaporation-Refilling Cycle
+Hydrogeochemistry
+Lake Water Source
+Aquifer Leakage
+Lowstand
+Shallow Water
+High Energy Environment
+Moderate Energy Environment
+Hydrodynamic Condition
+Flow Energy
+Shrub Morphology Development
+Flow Rate
+Precipitation Rate
+Denser Morphology
+Complex Morphology
+Stratigraphic Proximity
+Coarse Intraclastic Grain
+Energetic Shallow Condition
+Nucleation
+Muddy Sediment
+Hyper-Alkaline Environment
+Magnesium Silicate Gel
+Talc-Stevensite Precursor
+Substrate
+Current Agitation
+Allochem
+Fine-Grained Micritic Nucleus
+Water Column
+Micritic Core
+Calcite Seed Crystal
+Microbial-Induced Precipitation
+Lake Bottom Sedimentation
+Abiotic Cortex
+Sediment Water Interface
+Spherulite Cortex
+Intermediate Form
+Calcite Precipitate Morphology
+Depositional Energy
+Degree of Supersaturation
+Transitional Environment
+Asymmetrical Spherulite Growth
+Magnesium Silicate Precipitation Rate
+Detrital Facies Genesis
+Strong Flow
+Non-Selective Transportation
+Local Tectonism
+Syn-Depositional Faulting
+Fan-Delta Facies
+Exposure
+Extensive Erosion
+Finest Reworking Product
+Deep Environment
+Low Energy Environment
+pH Drop
+Lake Water Freshening
+Early Dolomite
+Mimetic Replacement
+Stevensite Lamination
+Pore Filling Cement
+Pervasive Replacement
+Saddle Dolomite
+Primary Crystalline Dolomite
+Dolomite Bridge
+Clay Matrix
+Stevensite
+Reservoir Heterogeneity Creator
+Displacive Silica Nodule
+Concordant Silica Layer
+Depositional-to-Early Diagenetic Origin
+Silica-Filled Fracture
+Polyphase Origin
+Hydrothermal Circulation
+Deep-Sourced Fluid
+Barite
+Fluorite
+Pyrite
+Sulfide
+Crystallization
+High-Temperature Hydrothermal Silicification
+Quartz Vein
+Stockwork
+Hydrothermal Breccia
+Facies Succession
+Cyclicity
+Spatial Distribution
+Temporal Distribution
+Well Position
+Paleobathymetric Trend
+Cyclothem
+Shallowing Upward Sequence
+Evolution Model
+Environmental Factor
+Hypothesized Sequence
+Fresher Water
+Spherulitic Wackestone
+Wackestone
+Detrital Intraclastic Facies
+High Energy Event
+Tectonically-Induced Transformation
+Base Level
+Reservoir Potential
+Coalescent Crust
+MICP Analysis
+Non-Coalesced Calcite Crust
+Pore System
+Vuggy Porosity
+Cavernous Porosity
+Breccia Porosity
+Fluid Percolation
+Karstification
+Non-Actualistic Depositional Condition
+Fabric-Controlled Pore Network
+Moderate Energy Setting
+Hybrid Poroperm System Control
+Depositional Factor
+Diagenetic Factor
+Well Log Data
+Seismic Data
+3D Geological Model
+Sediment
+Nodule
+Crystal
+Rock
+Lithology
+Sedimentation
+Precipitation
+Diagenesis
+Hydrothermal
+Tectonics
+Stratigraphy
+Geological Time
+Petroleum System
+Source Rock
+Geological Setting
+Pre-salt Field
+Lower Cretaceous
+Petroleum System
+Supergiant Field
+Lacustrine Carbonate
+Barremian
+Aptian
+Oil in Place
+Pre-salt Reservoir
+Facies Distribution
+Tectono-stratigraphy
+Tectono-stratigraphic Framework
+Seismic Data
+Well Log
+Core Data
+Seismic Interpretation
+Rift Configuration
+Horst
+Graben
+Half-graben
+Fault
+Transfer Zone
+Rift Section
+Normal Fault
+Faulting Process
+Sedimentary Wedge
+Coquina
+Geological Interval
+Salt Deposition
+Post-rift Mega-sequence
+Sag Section
+Biotic Carbonate Reservoir
+Abiotic Carbonate Reservoir
+Structural Setting
+Core Analysis
+Rudstone
+Grainstone
+Bivalve Shell
+Porosity
+Permeability
+Carbonate Facies
+Spherulite
+Crystal Shrub Carbonate
+Laminate
+Stromatolite
+Oil and Gas Field
+Hydrocarbon Accumulation
+Offshore
+Lacustrine Carbonate Play
+Original Oil in Place
+Petroleum Province
+Deep-water Region
+Source Rock
+Lacustrine Rift System
+Hydrocarbon Province
+Offshore Oil Reserve
+Natural Gas
+Residual Bouguer Gravity
+Coastal Range
+Cretaceous Hinge Line
+Ocean Crust Boundary
+External High
+Lineament
+Oceanic Fracture Zone
+Pre-salt Polygon
+Exploration Well
+Well Correlation
+Well-to-seismic Tie
+Electric Log
+Core Image
+Thin Section
+Reservoir Facies Distribution
+Continental Rift System
+Gondwana Supercontinent
+Continental Breakup
+Passive Divergent Margin
+Aptian
+Chemogenic
+Lacustrine
+Carbonate Factory
+Carbonate
+Phanerozoic
+Geological Record
+Hyper-alkaline
+Lake System
+Precipitation
+Shallow Lake Water
+Evaporation
+Carbonate Component
+Crystal Shrub
+Spherulite
+In Situ
+Reworking
+Detrital Facies
+Microbialite
+Magnesium Silicate
+Clay
+Diagenesis
+Dissolution
+Porosity
+Limestone
+Oil Field
+Carbonate Source
+Metasomatic Alteration
+Mafic Rock
+Continental Flood Basalt
+Atlantic Opening
+Continental Basement
+Serpentinization
+Exhumed Mantle
+Mantle CO2
+Fluid Composition
+Lake Water Alkalinity
+Calcium Flux
+Magnesium Flux
+Dissolved Inorganic Carbon
+Ocean
+Marine Carbonate System
+Tectonics
+Atmospheric CO2
+Reservoir Characterization
+Pre-Salt Carbonate
+Permeability
+Porosity
+Reservoir
+Seismic Facies
+Stratigraphic Seismic Attribute
+Structural Seismic Attribute
+Seismic Attribute
+Carbonate Reservoir
+Heterogeneity
+Complexity
+Seismic Data
+Acoustic Impedance
+RMS Amplitude
+Local Flatness
+Principal Dip Component
+Seismic Pattern
+Amplitude Feature
+Carbonate Build-up
+Debris
+Aggradational Carbonate Platform
+Progradational Carbonate Platform
+Carbonate Platform
+Fault
+Marginal Basin
+Giant Field
+Oil and Gas Basin
+Alkaline Lacustrine Paleoenvironment
+Paleoenvironment
+Rift Phase
+Sag Phase
+Aptian Stage
+Carbonate Precipitation
+Chemical Process
+Rift Fault
+Hydrothermal Vent
+Meteoric Water
+Basaltic Terrain
+Lacustrine Water
+Alkali
+Carbon Dioxide
+Sediment
+Shrub
+Spherulite
+Carbonate Mud
+Magnesium-Rich Clay
+Clay
+Lithotype
+Origin
+Composition
+Mudstone
+In Situ Carbonate
+Reworked Carbonate
+Proximal Lacustrine Facies
+Shrubby Carbonate
+Spherulitic Carbonate
+Laminite
+Grainstone
+Distal Deep Water Facies
+Deep Water Facies
+Volcanic Rock
+Intercalation
+Lacustrine Lithology
+Lithology
+Structural High
+Parallel Reflector
+Sub-Parallel Reflector
+Convex-Up Reflection
+Concordant Internal Reflection
+Footwall
+Normal Fault
+Isolated High
+Debris Seismic Facies
+Reworked Seismic Facies
+Hanging Wall
+Clinoform Geometry
+Clinoform
+Deep Lake Facies
+Structural Low
+Weak Reflector
+Absent Reflector
+Depositional History
+Compositional Heterogeneity
+Conceptual Depositional Model
+Depositional Model
+Geobody
+Carbonate Mound
+Coherence
+Curvature
+Hybrid Spectral Decomposition
+Envelope
+High Resolution Eigen Coherence
+Base of Salt
+Seismic Horizon
+Depth Contour
+3D Seismic Data
+Accommodation
+Acoustic Impedance
+Accumulation
+Aggradation
+Aggradational Build-up
+Aggradational Geometry
+Aggradational Stacking
+Albian
+Alkaline Lacustrine Setting
+Alluvial Fan
+Angle of Slope
+Angular Peak
+Antecedent Rift Topography
+Antithetic Fault
+Aptian
+Archean
+Arid Climate
+Basal Clastic Synrift Infill
+Basal Reflector
+Basalt
+Basalt Sequence
+Base Level
+Base Level Fall
+Base Level Lowering
+Base Level Rise
+Base of Evaporite Sequence
+Base of Sag Unconformity
+Base of Salt
+Base of Slope
+Base of Synrift
+Base of Synrift Sequence
+Basement
+Basement High
+Basement Involved Normal Faulting
+Basement Structure
+Basement-Cored Rotated Faultblock
+Basement-Cored Structural High
+Basin
+Basin Evolution
+Basin Margin
+Basin Tilt
+Basinward-Facing Escarpment Margin
+Basinward-Facing Margin
+Bathymetric Relief
+Berriasian
+Bioherm
+Biostrome
+Block-Bounding Fault
+Break of Slope
+Breakup of Gondwana
+Carbonate
+Carbonate Accumulation
+Carbonate Composition
+Carbonate Deposition
+Carbonate Deposit
+Carbonate Lithology
+Carbonate Material
+Carbonate Origin
+Carbonate Platform
+Carbonate Reservoir
+Carbonate Reservoir Quality
+Carbonate Sequence
+Carbonate System
+Cessation of Rifting
+Chemically Precipitated Non-Marine Carbonate Succession
+Chloride
+Clastic
+Clastic Composition
+Clastic Detrital Carbonate Composition
+Clastic Input
+Clastic Sediment
+Clastic Sediment Accumulation
+Clastic System
+Clastic-Dominated
+Clastic-Dominated Deposition
+Clastic-Starved Environment
+Clinoform
+Clinoform Infill
+Clinoform Progradation
+Collapse of Escarpment Margin
+Commencement of Oceanic Crust Accretion
+Concave-Up Profile
+Conglomerate
+Continental Breakup
+Continental Crust
+Continental Deposit
+Continental Margin
+Continental Sediment
+Convex-Up Reflector
+Coquina Bed
+Coquina Facies
+Cratonic Area
+Cross-Section
+Cross-Sectional Morphology
+Crust
+Culmination
+Debris Flow Morphology
+Deeply Buried Pre-Salt Section
+Deeper Basin
+Deeper-Water Lacustrine Area
+Delta
+Deposition
+Depositional Environment
+Depositional Factor
+Depositional Onlap
+Depositional Pattern
+Depositional Thickness
+Desiccation
+Detrital Input
+Detrital Sediment
+Diapiric Structure
+Dip Section
+Distinct Margin
+Distal Location
+Distal Setting
+Downthrown Fault Block
+Downstepping Architecture
+Drape
+Drift Phase
+Drift Tectonics
+Early Barremian
+Early Cretaceous
+Early Synrift
+Early Synrift Deposit
+Early Synrift Lithology
+Early Synrift Phase
+East West Extension
+Eastward-Facing Escarpment Margin
+Eastward-Facing Margin
+Elongate Promontory
+Elongated Salt Basin
+Environment
+Erosion
+Erosion of Higher Topography
+Erosional Factor
+Erosional Process
+Erosional Scar
+Erosional Truncation
+Escarpment Margin
+Evaporite
+Evaporite Accumulation
+Evaporite Reflector
+Evaporite Seal
+Evaporite Sequence
+Excess of Supply Over Accommodation
+Exposed Basement
+Exposed Basement Lithology
+Exposed Higher Topography
+Exposed Uplifted Basement
+Extended Rifted Margin
+Extensional Fault
+Extensional Faulting
+Extensive Lacustrine System
+Extrusion of Flood Basalt
+Extrusive Volcanic
+Extrusive Volcanism
+Facies
+Falling Stage Systems Tract
+Fault
+Fault Block
+Fault-Bound Eastern Margin
+Fault-Bound Trough
+Faulting
+Fill Low
+Final Surface
+Flat Basal Reflector
+Flat Top
+Flat-Lying Reflector
+Flat-Topped Structure
+Fluctuation in Base-Level
+Fluvio-Lacustrine Sandstone
+Focused Sediment Transport
+Folded Metamorphosed Sedimentary Succession
+Footwall
+Footwall Scarp
+Forced Regression
+Fossiliferous Lacustrine Limestone
+Fossiliferous Molluscan-Rich Coquina Facies
+Fracture Zone
+Geological Setting
+Geometry
+Gentler Peak
+Gravitational Collapse
+Groundwater Build-up
+Growth Fault
+Growth Faulting
+Growth Wedge
+Gullied Margin
+Gullied Margin of Marine Carbonate Platform
+Gully
+Half-Graben
+Hanging Wall
+Hauterivian
+Heterogeneity
+High (geological)
+High-Frequency Extensional Fault
+Hinge Line
+Hinge Zone
+Hydrocarbon Play
+Hydrocarbon Province
+Hydrocarbon System
+Igneous Activity
+Igneous Intrusion
+In Situ Accumulation of Lacustrine Carbonate
+Infill
+Infill Accommodation Space
+Initial Deposition
+Inner Basin Margin
+Internal Reflector
+Internal Structure
+Intrasynrift Unconformity
+Intrusive Rock
+Intrusive Volcanism
+Isostatic Uplift
+Lacustrine Carbonate
+Lacustrine Carbonate Composition
+Lacustrine Carbonate Platform
+Lacustrine Coquina Limestone
+Lacustrine Environment
+Lacustrine Facies
+Lacustrine Setting
+Lacustrine System
+Lake Margin
+Lake Margin Bioherm
+Large Carbonate Platform
+Large-Scale Debris Flow Morphology
+Late Barremian
+Late Cretaceous
+Late Jurassic
+Late Synrift
+Lateral Extent
+Lateral Truncation of Reflector
+Layered Promontory
+Lineament of Lithological Weakness
+Lithology
+Localized Aggradational Build-up
+Longitudinal Section
+Lower Crust
+Lower Synrift
+Lower Synrift Deposit
+Lower Synrift Fill
+Lower Synrift Lithology
+Lower Synrift Package
+Lower Synrift Unit
+Lower Topography
+Main Salt Depocentre
+Margin
+Marine Carbonate Platform
+Marine Environment
+Marine-Derived Evaporite
+Mass Failure Scar
+Master Fault
+Mechanical Subsidence
+Mesozoic
+Metamorphic Basement
+Microbialite
+Mineral Stevensite
+Mixed Clastic Carbonate Sequence
+Mobile Belt Basement
+Morphology
+Mounded Facies
+Mounded Margin
+Mounded Margin of Platform
+Nano-Scale Abiotic Fabric
+Nano-Scale Biotic Fabric
+Near-Vertical Margin
+Neogene
+Newly Formed Sedimentary Basin
+Non-Deposition
+Non-Marine Carbonate
+Non-Marine Carbonate Platform
+Non-Marine Carbonate Reservoir
+Non-Marine Depositional Environment
+Normal Fault
+North South Elongate Flat-Topped Structure
+North South-Trending Rift Shoulder
+Oceanic Crust
+Oceanic Crust Accretion
+Onlap
+Onlapping Architecture
+Onlap Unconformity Surface
+Outer Margin
+Outer Margin of Basin
+Outcrop Scale Analogue
+Outpouring of Basalt
+Overall Progradational Sequence
+Palaeo-Depression
+Palaeoecologically Significant Fossil
+Palaeotopography
+Partially Lithified Carbonate Material
+Passive Margin
+Peak Reflector
+Permeable Carbonate Reservoir
+Periodic Influx of Continental Water
+Periodic Influx of Marine Water
+Petroleum System
+Phase of Aggradation
+Phase of Base-Level Rise
+Phase of Onlap
+Platform
+Platform Top
+Playa Mudstone
+Porous Carbonate Reservoir
+Positive Structure
+Postbreakup Sediment Package
+Pre-Rift
+Pre-Salt Carbonate
+Pre-Salt Hydrocarbon Play
+Pre-Salt Platform
+Pre-Salt Stratigraphy
+Precambrian Fabric
+Precipitation
+Preferential Aggradation
+Preservation of Non-Marine Carbonate
+Preserved Mounded Margin
+Prograde
+Progradational Clinoform
+Progradational Geometry
+Progradational Unit
+Prograding Lake Margin
+Prolific Reservoir
+Promontory
+Proto-Oceanic Crust
+Proterozoic
+Proximity to Base Level of Lacustrine Water
+Regional Seal
+Regional Seismic Line
+Regional Structural Evolution
+Regional Unconformity
+Regionally Correlatable Seismic Horizon
+Relationship to Overlying Strata
+Relief
+Reservoir
+Ridge
+Ridge Jump Event
+Rift Interval
+Rift Phase
+Rift Shoulder
+Rift Tectonics
+Rifted Margin
+Rifting
+Rifting Decrease
+Rotated Faultblock
+Rounded Peak
+Sag Interval
+Sag Phase
+Sag Phase Carbonate
+Sag Phase Deposit
+Sag Phase Strata
+Sag Phase Unit
+Sag Sequence
+Sag Succession
+Saline Lacustrine Environment
+Salinity
+Salt
+Salt Basin
+Salt Depocentre
+Salt Flow
+Section
+Sedimentary Infill
+Sedimentary Mound
+Sedimentary Package
+Sedimentation
+Sedimentation in Basin
+Sediment Surface Level
+Seismic Character of Sag Sequence
+Seismic Facies
+Seismic Feature
+Seismic Geometry
+Seismic Stratigraphy
+Serrated Edge
+Serrated Margin
+Serration
+Severely Stretched Continental Crust
+Shallow Carbonate Production
+Shallow Lake Floor Bioherm
+Shallow-Water Deposit
+Sharp Peak
+Sheared Precambrian Rock
+Short Transverse Ridge
+Siliciclastic Sediment
+Siliciclastic Strata
+Slope
+Slope Deposit
+Slope Facies
+Smooth Relief
+Source Rock
+Source Rock Overmaturity
+South Atlantic
+South Atlantic Basin
+Spring-Fed Hydrothermal Build-up
+Spring-Fed Thermal Build-up
+Steep Relief
+Steeper Faulted Eastern Basinward Margin
+Steeply Dipping Geometry
+Still-Stand
+Strata
+Strata that Wedge
+Stratigraphic Architecture
+Stratigraphic Evolution
+Stratigraphic History
+Stretched Continental Crust
+Structural Depression
+Structural High
+Structural History
+Structural Low
+Structure
+Subaqueous Mound
+Subcrop Base Evaporite Unconformity
+Substrate
+Sub-Salt Surface
+Sulphate
+Synthetic Fault
+Synrift
+Synrift Carbonate Accumulation
+Synrift Deposit
+Synrift Half-Graben
+Synrift Period
+Synrift Phase
+Synrift Reflector
+Synrift Unit
+Tectonic History
+Tectonic Quiescence
+Tectonic Setting
+Terminal Horst Platform
+Thermal Conductivity
+Thermal Subsidence
+Thermal Subsidence Phase
+Thick Evaporite Deposit
+Thick Evaporite Seal
+Thick Overlying Evaporite Seal
+Thickened Synrift Sequence
+Thicker Clinoform
+Thicker Sag-Age Sequence
+Thicker Synrift Unit
+Thickness
+Thinned Continental Crust
+Thinning
+Tilted Basement
+Top of Sag Sequence
+Trap
+Transitional Phase
+Transverse Ridge
+Travertine Ridge
+Triangular Projection
+Truncate at Base of Evaporite
+Truncated Reflector
+Truncated Synrift Package
+Ultra-Deepwater Environment
+Unambiguous Palaeoecologically Significant Fossil
+Unconformably Overlying Basement
+Unconformity
+Unconformity-Bounded Package
+Unconformity Surface
+Underlying Volcanic
+Unstable Slope Facies
+Uplift
+Uplifted Basement
+Uplifted Basement Structure
+Uplifted Relative to Basin
+Updip Erosion
+Upper Synrift
+Upper Synrift Deposit
+Upper Synrift Unit
+Upslope Area of Shallow Carbonate Production
+Valanginian
+Variably Developed Unconformity
+Visible Fault
+Volcanic
+Volcanic Edifice
+Volcanic Lithology
+Volcanic Massif
+Volcanic Province
+Volcanic Source Area
+Volcaniclastic
+Volcaniclastic Deposition
+Volcanism
+Volcano
+Volumetric Contribution of Basement Clastic
+Weaker Lower Crust
+Wedging Geometry
+West-Facing Slope
+Wider Rifted Margin
+Widest Salt Basin
+Zero Thickness
+Aptian
+Pre-Salt
+Lacustrine Carbonate Reservoir
+Lacustrine Carbonate
+Lacustrine Environment
+Carbonate Reservoir
+Reservoir Rock
+Hydrothermal Fluid
+Dolomitization
+Silicification
+Oil Accumulation
+Rift Section
+Rift Phase
+Sag Section
+Sag Phase
+Marginal Basin
+Oil Production
+Porosity
+Permeability
+Lacustrine Carbonate Deposit
+Bioclastic Grainstone
+Rudstone
+Syngenetic Crust
+Fascicular Calcite
+Intraclastic Grainstone
+Reworked Crust Fragment
+Calcite Spherulite
+Magnesian Silicate
+Carbonate Deposit
+Stevensitic Lamination
+Substrate
+Precipitation
+Calcite Crust
+Magnesian Clay Deposit
+Stevensitic Ooid
+Bioclast
+Ooidal Arenite
+Diagenetic Evolution
+Eodiagenetic Process
+Dissolution
+Neomorphism
+Cementation
+Bivalve Bioclast
+Silica
+Dolomite
+Burial Alteration
+Fault
+Fracture System
+Fracture
+Lake Water Chemistry
+Burial Condition
+Porosity Creation
+Porosity Redistribution
+Porosity Obliteration
+Hydrocarbon Reserve
+South Atlantic Conjugate Margin
+Depositional Process
+Diagenetic Alteration
+Porosity Architecture
+Carbonate Fabric
+Lower Cretaceous
+Coquina
+Spherulitic Aggregate
+Intraclastic Deposit
+Precipitate
+Laminated Strata
+Syngenetic Magnesian Clay Mineral
+Siliciclastic Mud
+Aptian Pre-Salt Succession
+Cyclothem
+Laminated Sediment
+Syngenetic Magnesian Clay
+Fascicular Calcite Crust
+Calcite Precipitation
+Stevensite Precipitation
+pH
+Magnesium Activity
+Calcium Activity
+Temperature
+pCO2
+Lacustrine Water Geochemistry
+Evaporitic Geochemical Model
+Calcite Morphology
+Ooid-like Particle
+Nucleation
+Sediment-Water Interface
+Organic Constituent
+Depositional Feature
+Secondary Porosity
+Recrystallization
+Tectonic Fracturing
+Hydraulic Fracturing
+Burial Process
+Hydrothermal Activity
+Magmatic Event
+Hydrothermal Alteration
+Carbonate Sequence
+Physicochemical Process
+Pre-existing Rock
+Hot Fluid
+Unusual Cement
+Saddle Dolomite
+Fluorite
+Barite
+Anhydrite
+Sphalerite
+Pyrite
+Geothermal Anomaly
+Fluid Flow
+Conduit
+Deep-buried Fault System
+Carbonate Sediment
+Diagenetic Evolution Stage
+Eodiagenetic Silicification
+Mesodiagenetic Silicification
+Percolation
+Reservoir Model
+Hydrothermal Circulation
+Heterogeneity
+Southeastern Brazilian Margin
+Gondwana Continent
+Neocomian
+Lowermost Cretaceous
+South Atlantic Ocean
+American Continent
+African Continent
+Tectono-stratigraphic Evolution
+Rift Supersequence
+Post-rift Supersequence
+Drift Supersequence
+Basal Interval
+Barremian
+Hauterivian
+Lithosphere Extension
+Asthenospheric Elevation
+Intracratonic Tholeiitic Volcanism
+Basal Rift Section
+Pre-Alagoas Regional Unconformity
+Unconformity
+Proximal Marginal Sediment
+Conglomerate
+Sandstone
+Siltstone
+Red Shale
+Arenite
+Stevensite
+Kerolite
+Syngenetic Magnesian Layer Silicate
+Alkaline Lake
+Carbonate Rudstone
+Carbonate Grainstone
+Ostracod
+Gastropod
+Organic Shale
+Depositional Environment
+Rift Bioclastic Deposit
+Playa-lake Environment
+Pluvial-lake Environment
+Storm Event
+Bioaccumulated Bank
+Deep Lacustrine Environment
+Gravitational Re-deposition
+Shallow Lacustrine Setting
+Deeper Lacustrine Setting
+Sag Stage
+Middle Upper Aptian
+Mudrock
+Arid Climate Condition
+Argillaceous Laminite
+Carbonate Laminite
+Spherulitic Carbonate Deposit
+Crust
+Microbial Stromatolite
+Chemical Precipitate
+Abiotic Chemical Control
+Evaporite
+Marine Incursion
+Halite
+Sylvite
+Carnallite
+Stratigraphic Seal
+Petroleum Province
+Well
+Core
+Core Plug
+Sidewall Core Sample
+Dolomitized Portion
+Silicified Portion
+Pre-Salt Interval
+Thin Section
+Carbonate Mineral
+Pore Type
+Primary Detrital Constituent
+Biogenic Constituent
+Syngenetic Chemically Precipitated Constituent
+Diagenetic Constituent
+Elemental Mineral Composition
+Rock Fragment
+Crystalline Structure
+Clay Mineral
+Fine Fraction
+Clay Fraction
+Dolostone
+Lithofacies
+Lithologic Type
+Rift Interval
+Petrographic Porosity
+Rift Deposit
+Fracture Porosity
+Breccia Porosity
+Fragmented Bivalve Bioclast
+Dissolved Bivalve Bioclast
+Interparticle Pore
+Intraparticle Pore
+Bivalve-gastropod Rudstone
+Bitumen
+Neomorphosed Bioclast
+Calcite Mosaic
+Quartz
+Silicified Ooid
+Peloid
+Moldic Porosity
+Intercrystalline Porosity
+Dolomitized Stevensitic Ooidal Arenite
+Silica Cement
+Proximal Clastic Sediment
+3D Modeling
+Acoustic Image
+Anisotropy
+Aptian
+Basement
+Basement Control
+Bedding
+Borehole Acoustic Image Log
+Borehole Deviation
+Borehole Image Log
+Continental Margin
+Damage Zone
+Depth
+Diffuse Fracture Swarm
+Direction
+Dip
+Discrete Fracture Network
+Dual Permeability Model
+Dual Porosity Model
+Dynamic Data
+En Echelon Relay Ramp
+En-Echelon Pattern
+Extensional Fracture
+Fault
+Fault Network
+Faulting
+Fluid Flow Path
+Flow Simulation
+Flow Simulation Model
+Formation
+Fracture
+Fracture Corridor
+Fracture Distribution
+Fracture Intensity
+Fracture Intensity Log
+Fracture Interpretation
+Fracture Modeling
+Fracture Set
+Fracture Simulation
+Geological Model
+Geomechanical Attribute
+Geometry
+Geophysical Attribute
+History Match
+Horst and Graben
+Horst Structure
+Inter-Well Fracture
+Isolated Platform
+Isolated Reservoir
+Lacustrine Carbonate
+Lacustrine Carbonate Reservoir
+Marine Geology
+Mesozoic
+Multiphase Rifting
+Natural Fracture Parameter
+Naturally Fractured Carbonate
+Naturally Fractured Reservoir
+Normal Displacement
+Normal Fault
+Oblique Sub-Seismic Fault
+Paleocontinent
+Paleo Structural High
+Permeability
+Petroleum Geology
+Petrophysical Property
+Pre-Salt
+Producing Zone
+Relay Ramp
+Relay Ramp Zone
+Relay Zone
+Reservoir
+Reservoir Modeling
+Resistivity Image Log
+Rift Sequence
+Rifting Process
+Salt Sequence
+Seismic
+Seismic Interpretation
+Seismic Scale Structure
+Shear Fracture
+Simulation
+Softlinkage Zone
+Stochastic Simulation
+Stratigraphic Level
+Stratigraphic Position
+Stratigraphic Zone
+Strike
+Structural Analysis
+Structural High
+Structural Interpretation
+Structural Pattern
+Structural Setting
+Structure
+Sub-High
+Sub-Seismic Fracture
+Well
+Abiotic Model
+Abiotic Precipitation
+Accommodation
+Acoustic Impedance
+Acoustic Impedance Increment
+Acoustic Image Log Facies Analysis
+Alkaline Condition
+Alkaline Lacustrine Environment
+Allochthonous Carbonate
+Almond-shaped Form
+Altered Feature
+Altered Lithic Fragment
+Amalgamated Cycle
+Angular Roundness
+Angularity
+Anhydrite
+Aptian
+Aragonite
+Arborescent
+Arborescent Fan
+Autogenic
+Back-barrier Deposit
+Backbarrier Facies Association
+Backwash Flow
+Barrier
+Basal Erosive Coarse Rudstone
+Basaltic Composition
+Basement
+Basin
+Beach Area
+Beach Face
+Beachface
+Bedding Orientation
+Bedding Plane
+Bedload
+Belt of Mound
+Bioclast
+Biogenic Origin
+Bidirectional Dip Angle
+Bidirectional Flow
+Bidirectional High-amplitude Reflector
+Borehole Image Log
+Borehole Image Tool
+Borehole Wall
+Breaking of Wave
+Calcite
+Calmer Region of Lake
+Carbonate
+Carbonate Clast
+Carbonate Facies
+Carbonate Mound-like Structure
+Carbonate Particle
+Carbonate Reservoir
+Carbonate-rich Layer
+Cement
+Cementation
+Chemical Abiotic Model
+Chemical Precipitation
+Chemical Precipitation of Carbonate
+Clast Fragmentation
+Clast Rounding
+Clay Lens
+Clay Sedimentation
+Claystone
+Climate Oscillation
+Closed Lake
+Close Pore Connection
+Cluster of Mound
+CO2 Degassing
+Coalesced Hybrid Form
+Coalesced Spherulite
+Coarse Clastic Deposit
+Coarse Particle
+Coarse Sand
+Coarsening Upward Trend
+Coquina
+Core Sample
+Cretaceous Breakup
+Cross-lamination
+Crust
+Current Crescent
+Cyclic Deposition
+Cyclic Pattern
+Decrease in pH
+Decreased Energy Condition
+Deformation
+Deformed Angular Shape
+Deformed Edge
+Dendritic Dendriform
+Density
+Depleted 18O
+Depocenter
+Depositional Characteristic
+Depositional Contact
+Depositional Environment
+Depositional Model
+Depositional Pattern
+Depositional Process
+Depositional Sequence
+Diagenetic Altered Carbonate
+Diagenetic Obliteration Criterion
+Diagenetic Silica Nodule
+Dip Angle
+Dip Direction
+Dip Pattern
+Dispersion of Distal Facies
+Dispersion of Finer Sediment
+Distinct Core Composition
+Distal Hyper-concentrated Flow
+Distal Region
+Dissolution of Non-selective Fabric Element
+Dolomite
+Dolomite Bridge
+Dolomite Cementation
+Dolomitization Process
+Dolomitized Clast
+Dolomudstone
+Drainage Area Runoff
+Drift Phase
+Electrical Resistivity
+Elevated Concentration of Mg Cation
+Elevated Concentration of SiO2 Cation
+Elevated Humidity
+Elliptical
+Elongated Clast
+Endorheic Basin
+Energy Regime
+Environmental Condition
+Ephemeral Fluvial System
+Episodic Hyperconcentrated Flow
+Erosion
+Erosion of Marginal Sequence
+Erosional Basal Contact
+Erosional Surface
+Erosional Truncation
+Erosive Base
+Erosive Contact
+Erosive Effect
+Erosive Rudstone
+Evaporite
+Evaporitic Lake
+Evaporitic Model
+Evaporitic Sedimentation Pattern
+Expanding Margin of Lake
+Exploration
+Facies Analysis
+Facies Association
+Facies Composition
+Facies Variation
+Fair-weather Wave
+Fair-weather Wave Base
+Fan-delta
+Fan-shaped Shrub Fragment
+Fault
+Fault Block High
+Fetch
+Finer-grained Grainstone
+Finer Spherulitestone Facies
+Fining-upward Pattern
+Flat Pebble Rudstone
+Flat Tabular Pebble
+Flooding Event
+Fore-barrier Facies Association
+Foreshore
+Foreshore-shoreface Transition Deposit
+Fractured Morphology
+Fragmentation
+Genesis
+Geological Characterization
+Geological High
+Geological History
+Geometry of Reworked Body
+Grain Collision
+Grain Size
+Grainstone-Packstone
+Gravity Flow
+Gravity Flow Deposit
+Gravity Flow of Fan Delta
+Gravel-conglomerate
+Groundwater Flow
+Halite
+Heavier Particle
+High Amplitude
+High Amplitude Bright Spot
+High Carbonate Production
+High Concentration Flow
+High Degree of Sorting
+High Density Flow
+High Density Subaerial Flow
+High Evaporation Rate
+High-frequency Cycle
+High-frequency Fluctuation in Lake Water Level
+High Precipitation
+High Sediment Load
+High Water Alkalinity
+High Water-to-sediment Ratio
+High Wave Reworking Deposit
+Higher-energy Condition
+Hydrocarbon Potential
+Hydrothermal Condition
+Hydrothermal Inflow
+Hydrothermal Vent
+Hyper-concentrated Flow
+Hyperconcentrated Flow Behavior
+Hyperpycnal Flow
+Hypidiotopic Dolomite Cementation
+Incomplete Fining-upward Cycle
+Increase in Freshwater Input
+Increase in Groundwater Input
+Increased Lake Size
+In Situ Facies
+In Situ Facies Identification
+Insipient Turbulence
+Inter-bar Pond
+Interaggregate Porosity
+Intercalation of Shrub and Spherulite
+Intercrystalline Pore
+Intercrystalline Porosity
+Internal Crenulated Lamination
+Intra-aggregate Porosity
+Intraclast
+Intraclast Grainstone
+Intraclast Rudstone
+Intraclast Spherulitestone
+Intraparticle Porosity
+Ion Concentration
+Irregular
+Irregular Pebble
+Irregular Shape
+Irregular Surface
+Kinetic Energy
+Lacustrine Carbonate Reservoir
+Lacustrine Environment
+Lacustrine Onlap Curve
+Lacustrine Phase
+Lacustrine Silica-gel
+Lacustrine Shore Zone Architecture
+Lacustrine System
+Lacustrine Water Alkalinity
+Lake Depth
+Lake Level Decrease
+Lake Marginal Area
+Lake Margin
+Lake Morphology
+Lake Stage
+Lake-shoreline Elevation
+Lake Water Level
+Laminated Band
+Laminated Calcimudstone
+Laminated Clay
+Laminated Grainstone
+Laminated Mudstone
+Laminated Shrubby Spherulitestone
+Laminated Texture
+Landward
+Landward Onlap Migration Pattern
+Lateral Distribution
+Lateral Extension
+Lateral Migration of Environment
+Laterally Coalesced Element
+Lithic Fragment
+Lithological Unit
+Low Amplitude
+Low Amplitude Sheet-like Reflector
+Low Amplitude Value
+Low Sphericity
+Low Sorting
+Low-angle Cross-lamination
+Low-angle Flat Boundary
+Low-angle Planar Parallel Lamina
+Low-frequency Cycle
+Lower Shoreface
+Lower Silicification
+Magnesium Silicate Gel
+Marginal Deposit
+Marginal Setting
+Marginal Sequence
+Marine Contribution
+Marine Geology
+Massive Grainstone
+Massive Rudstone
+Massive Rudstone Facies
+Matrix
+Mean Azimuth
+Medium-coarse Sand
+Mg Ca Ratio
+Mg-clay Mudstone
+Mg-rich Claystone
+Microbial Carbonate Facies
+Microcrystalline Hypidiotopic Dolomite
+Microfacies
+Migration of Lake Margin
+Millimetric Layer of Shrubstone
+Millimetric Layer of Spherulitestone
+Mineralogical Composition
+Minimal Regional Erosional Feature
+Mixed Reworked Carbonate
+Mixing of Chemical Stratification
+Moderately Agitated Shallow-subtidal Environment
+Modern Carbonate Mound
+Morpho-stratigraphic Aspect
+Morphodynamic Variation
+Mottled Appearance
+Mottled Texture
+Mound-like Carbonate Structure
+Mud-flat Carbonate
+Mudstone
+Mudstone Intraclast
+Mudstone-Claystone-Laminite Facies
+Negative Reflector
+Nearshore Environment
+Normal Grading
+Nucleation of Aragonite
+Nucleation of Low-Mg Calcite
+Oil System
+Oligomictic
+Onlap Curve
+Onlap Migration Direction
+Onlap onto Basement
+Onlapping Seismic Reflector
+Ooid
+Oolitic Grainstone
+Opposing Apparent Dip Direction
+Ostracod
+Overland Flow Initiation
+Packstone
+Paleozoic
+Parallel Lamina
+Pebble Grainstone
+Pebble Size
+Pellet
+Periodic Rainfall
+Petroleum Exploration
+Petroleum Geology
+Petroleum System
+Petrography
+Petrology
+Petrophysical Characteristic
+pH Level
+Plane-parallel Lamination
+Platform Edge
+Point Count
+Polygonal
+Pore
+Pore Connectivity
+Positive Reflector
+Post-rift Phase
+Post-rift Supersequence
+Post-stack Seismic Volume
+Pre-Alagoas Unconformity
+Preferential Vertical Growth
+Pre-salt Reservoir
+Pre-Salt Sequence
+Primary Porosity
+Primary Reservoir
+Progradational Pattern
+Progradational Stacking Pattern
+Progressive Deceleration of Gravity Flow
+Pustular
+Pustular Dendriform
+Radiogenic Strontium Data
+Rapid Sedimentation of High Density Flow
+Reflector Geometry
+Regional Seal
+Regressive Phase
+Replacive Microcrystalline Dolomite
+Reservoir
+Reservoir Carbonate
+Reservoir Quality
+Restricted Lake
+Retrogradational Stacking Pattern
+Reworked Carbonate
+Reworked Carbonate Deposit
+Reworked Facies
+Reworked Grain
+Reworked Material
+Reworked Sediment
+Reworking
+Reworking by Hyperconcentrated Flow
+Reworking Cycle
+Reworking Process
+Rift Phase
+Rift Supersequence
+Rise in Lake Level
+Rock
+Rounded Form
+Rounded Grain
+Rounded Pebble
+Rounding of Pebble
+Rough Texture
+Rudstone
+Rudstone-Grainstone
+Ruptile Layer
+Sag Phase
+Salt Pack
+Secondary Porosity
+Sediment Supply
+Sediment Supply Surpassing Accommodation
+Sediment Type
+Sedimentary Facies
+Sedimentary Process
+Sedimentary Sequence
+Sedimentary Structure
+Sedimentation in Deeper Region of Lake
+Seismic Data
+Seismic Facies Distribution
+Seismic Line
+Seismic Reflector
+Seismic Stratigraphic Architecture
+Seismic-stratigraphic Event
+Settling of Clay
+Shale
+Shallower Condition
+Shallower Facies
+Shallow Alkaline Lacustrine Environment
+Shallow Endorheic Lake
+Shallow Evaporitic Lake
+Shallow Lake
+Shallowing-upward Pattern
+Sheet-like Reflector
+Sheet-like Shape
+Shoreface
+Shoreline Advancement
+Shoreline Morphology
+Shrinkage
+Shrub Dimension
+Shrub Element
+Shrub Fragment
+Shrub Grainstone
+Shrub Morphology
+Shrubby Grainstone
+Shrubby Interval
+Shrubstone
+Sidewall Core
+Silica Clast
+Silica Fringe
+Silica Layer
+Silica Nodule
+Silica-rich Layer
+Siliciclastic Grain
+Silicified Carbonate
+Silicified Clast
+Silicified Particle
+Silicification
+Sitaxial
+Slope Seismic Reflector
+Small Drainage
+Soft Clayey Substrate
+Soft-sediment Deformation
+Source Shale
+Sparry Calcite
+Sparry Dolomite Cementation
+Special Log
+Spherical
+Spherulite
+Spherulite Core
+Spherulite Grainstone
+Spherulite-dominated Lithology
+Spherulite-shrub Facies
+Spherulitic Claystone
+Spherulitic Grainstone
+Spherulitic Rudstone Microfacies
+Spherulitestone
+Sporadic Increase in Lake Level
+Stable Phase
+Stacking Pattern
+Storm Wave
+Strata
+Stratigraphic Column
+Stratigraphic Profile
+Stratigraphic Zone
+Strong Vertical Connectivity
+Structural Evolution
+Structural High
+Structureless Character
+Sub-angular Roundness
+Subangular Pebble-sized Intraclast
+Subaerial Dehydration
+Subaerial Flow
+Sub-rounded Shape
+Subsequent Sedimentation
+Sulfide
+Superimposition of Coarse Reworked Facies
+Surf Zone
+Suspended Sediment
+Swash Energy
+Swash-backwash Effect
+Tabular Clast
+Tabular Layer
+Talc-stevensite
+Tangential Fabric
+Termination of Seismic Onlap
+Textural Component
+Textural Fabric
+Thin Section
+Thin Wavy Clay Lens
+Thinning-upward Cycle
+Tightly Packed Grain
+Topographically Higher Region
+Topset
+Transgressive Phase
+Transgressive Surface
+Transitional Zone
+Transport by Hyperconcentrated Flow
+Transport of Distal Facies
+Transported Clastic Particle
+Travertine Carbonate Deposit
+Travertine Model
+Travertine System
+Truncation
+Turbulent Condition
+Turbulent Flow
+Unconformity
+Upper Flow Regime
+Upper Plane Bed Deposition
+Upper Shoreface
+Upward Movement of Clast
+Upwash
+Velocity at Reservoir Depth
+Vertical Distribution Analysis
+Vertical Resolution
+Vertical Stacking of Rudstone Layer
+Volcanic Activity
+Volcanic Grainstone
+Volcanic Rock
+Volcanic Rudstone
+Volcanic Sediment
+Volcanic-related Sediment
+Vug Pore
+Vug Porosity
+Waning Flow Deposit
+Water Chemistry
+Water Composition
+Water Flow Rate
+Water Level
+Wave Action
+Wave Influence
+Wave Reworking
+Wave Reworking of Episodic Hyperconcentrated Flow
+Wave Shoaling
+Wave-dominated Sandy Beach Environment
+Wavy Lamination
+Wedge-shaped Bedset
+Well-rounded Grain
+Well-sorted Grain
+Western Gondwana Breakup
+Marine Geology
+Petroleum Geology
+Facies
+Diagenesis
+Aptian
+Pre-salt
+Carbonate Reservoir
+Basin
+Offshore
+Lacustrine Carbonate
+Dolomitization
+Carbonate Rock
+Continental Margin
+Reservoir Quality
+Heterogeneity
+Controlling Factor
+Petrography
+Mineralogy
+Geochemistry
+Spatial Distribution
+Temporal Distribution
+Depositional Aspect
+Diagenetic Aspect
+Diagenetic Phase
+Formation
+Mg-clay
+Structural Position
+Relative Relief
+Spherulite
+Transitional Zone
+Fascicular Calcite
+Grainstone
+Depositional Environment
+Intraclast
+Siliciclastic Grain
+Volcanoclastic Grain
+Clay Content
+Stratigraphy
+Structural High
+Depositional Setting
+Primary Constituent
+Diagenetic Process
+Tectonic Context
+Climatic Context
+Precipitation
+Accumulation
+Preservation
+Structural Setting
+Diagenetic Alteration
+Dolomite
+Silica
+Mg-clay Alteration
+Carbonate Phase
+Mg-clay Dissolution
+Fault
+Saddle Dolomite
+Barite
+Celestine
+Fluorite
+Hydrothermal Alteration
+Dissolution Process
+Hydrochemical Evolution
+Lake Water
+Origin
+Deposit
+Giant Reservoir
+Offshore Reservoir
+Sedimentary Formation
+Conceptual Model
+Tectonic Evolution
+Stratigraphic Evolution
+Sedimentological Evolution
+Marine Setting
+Alkaline Environment
+Lacustrine Environment
+Carbonate Section
+Sedimentary System
+Environmental Condition
+Sedimentation
+Early Diagenetic Evolution
+Microbial-influenced Process
+Microbialite
+Stromatolite
+Abiotic Origin
+Macrostructure
+Microstructure
+Microbial Carbonate
+Crystalline Fabric
+Isotopic Composition
+Abiotic Chemogenic Origin
+Syngenetic Precipitation
+Lacustrine Geochemistry
+Encrustation
+Replacement
+Stevensite Deposit
+Peculiar Feature
+Mineral Phase
+Precipitation Condition
+Syngenetic Process
+Eodiagenetic Process
+Early Diagenesis
+Mg-clay Substrate
+Calcite Spherulite
+Porosity Evolution
+Permeability Evolution
+Early Alteration Process
+Clay Replacement
+Calcite Cementation
+Hydrothermal Fluid Circulation
+Sedimentary Process
+Complex Reservoir
+Heterogeneous Reservoir
+Diagenetic Product
+Reservoir Property
+Petrographic Analysis
+Paragenetic Relationship
+Diagenetic Constituent
+Syngenetic Phase
+Paleoenvironmental Condition
+Sediment
+Outer High
+Reservoir Scale
+Mineralogical Analysis
+Carbon Isotope
+Oxygen Isotope
+Stable Isotope Data
+Hydrothermal Process
+Reservoir Heterogeneity
+Pre-salt Succession
+Reservoir Characterization
+Geodynamics
+Early Cretaceous
+Gondwana Breakup
+Continent
+Mesozoic Rifting
+Late Jurassic
+Equatorial Margin
+Late Aptian
+Early Albian
+Plate Separation
+Plate
+Ocean
+Equatorial Segment
+Central Segment
+Austral Segment
+Falkland Segment
+Rupture
+Oceanic Lithosphere
+Gulf
+Proto-Caribbean
+South Atlantic Rift
+Rift
+Basaltic Volcanism
+Dike Swarm
+Proto-Walvis Ridge
+Ocean Water
+Kinematics
+Ocean Opening
+Walvis Ridge
+Block
+Kinematic Buffer
+Aptian Basin
+Endorheic Basin
+Lacustrine Basin
+Tectono-stratigraphic Evolution
+Rift Supersequence
+Post-rift Supersequence
+Drift Supersequence
+Basement
+Precambrian
+Metamorphic Rock
+Neoproterozoic
+Brasiliano-Pan African Orogeny
+Orogeny
+Rift Phase
+Hauterivian
+Rotated Block
+Tilted Block
+Half-graben Basin
+Sedimentary Succession
+Basaltic Rock
+Alluvial Sediment
+Proximal Area
+Shale
+Talc-stevensitic Composition
+Lacustrine Area
+Distal Area
+Bivalve
+Bioclastic Rudstone
+Structural High Domain
+Lime Mudstone
+Organic-matter Rich Shale
+Distal Part
+Barremian
+Lithospheric Extension
+Block Tilting
+Continental Crust
+Graben
+Tectono-stratigraphic Formation
+Topographic High
+Geologic Aspect
+Stratigraphic Aspect
+Geological Assessment
+Challenge
+Pre-salt Area
+Deep Water
+Block
+Field
+Commerciality
+Area of Low Potential
+Pre-salt Field
+Appraisal Well
+Reservoir
+Oil
+Commercial Value
+Stromatolite
+Recoverable Volume
+Gas
+Well
+Production
+Sea Bottom
+Evaporite
+Basement
+Fault
+Seismic Survey
+Fluid
+API Gravity
+Gas Oil Ratio
+Carbon Dioxide
+Oil Water Contact
+Gas Condensate
+Fluid Contact
+Pressure Gradient
+Igneous Rock
+Base of Salt
+Gas Water Contact
+Depth
+Pressure
+Geology
+Saddle
+High
+Sequence
+Recrystallization
+Structural Apex
+Coquina
+Mudstone
+Flank
+Stratigraphic Sequence
+Laminite
+Hydrocarbon Show
+Fluid Nature
+Gas Cap
+Oil Layer
+Fluid Volume
+Reservoir Size
+Condensate to Gas Ratio
+Condensate in Place
+Carbon Dioxide Contamination
+Reservoir Quality
+Thermal Recrystallization
+Fluid Sampling
+Compartmentalization
+Stratigraphic-structural Trap
+Pre-salt Carbonate Reservoir
+Reservoir Characterization
+Faciological Complexity
+Depositional Complexity
+Lateral Heterogeneity
+Vertical Heterogeneity
+Static Intraformational Seal
+Dynamic Intraformational Seal
+Pre-salt Accumulation
+Geological Factor
+Hydrodynamic Factor
+3D Seismic Interpretation
+Well Log
+Formation Pressure
+Fluid Geochemistry Analysis
+Seismic Pattern
+Stratigraphic-structural Barrier Zone
+Oil-Water Contact
+Free Water Level
+Perched-water Phenomenon
+Hydraulic Compartmentalization
+Oil Zone
+Dynamic Sealing Zone
+Aquifer
+Pressure Balance
+Oil Gradient
+Stratigraphic Component
+Reservoir Trapping
+Reservoir Quality
+Lateral Reservoir Quality Obliteration
+Oil Sample Composition
+Petroleum Charge History
+CO2 Contamination Timing
+Oil-associated Gas
+Maturation
+Thermal Maturity
+Reservoir Connectivity
+Reservoir Modeling
+Depositional Environment
+Structural Event
+Diagenetic Event
+Petroleum Accumulation
+Fluid Segment
+Pressure Segment
+Flow Prevention
+Sealed Reservoir Boundary
+Static Seal
+Dynamic Seal
+Petroleum Column
+Low Permeability Flow Baffle
+Petroleum Crossflow
+Reservoir Risk
+Complex Carbonate Reservoir
+Diagenetic Complexity
+Intraformational Seal
+Flow Barrier
+Permeability Barrier
+Vertical Permeability Barrier
+Hydrocarbon Accumulation
+Compartmentalization Modeling
+Seismic Facies Interpretation
+Petrophysical Analysis
+Geopressure
+Fluid Molecular Composition
+PVT Property
+Low Permeability Zone
+Movable Water
+Transition Zone
+Saturated Condition
+Low Permeability Layer
+Over-pressured Water Zone
+Stratigraphic-structural Prospect
+Pre-salt Structure
+Late Jurassic
+Destabilization
+Fragmentation
+West Gondwana
+South Atlantic Ocean
+Early Cretaceous
+Complex Basement
+Heterogeneous Basement
+Proterozoic
+Ribeira Belt
+Rifting Architecture
+Structural Inheritance
+Structural Framework
+Normal Fault
+Strike-slip Transfer Zone
+Sinistral Shear Zone
+Continent-Ocean Crustal Transition
+Fold Axial Trace
+Multi-phase Extension History
+Multi-directional Extension History
+South Atlantic Rift
+Oblique Extension
+Rifting
+Regional Transfer Zone
+Strike-slip Structure
+Regional Magnetic Anomaly
+Crustal-scale Sinistral Transtensive Shear Zone System
+Late Aptian
+Faulting Regime
+Transpression Feature
+Transtension Feature
+Rotated Basement Block
+Crustal Thinning
+Crustal Thickening Process
+Basin-fill History
+Upper Valanginian
+Hauterivian
+Basalt
+Subaqueous Basalt
+Tholeiitic Basalt
+Economic Basement
+Rift Stage
+Barremian Age
+Half-graben
+Hemigraben
+Non-marine Deposit
+Lacustrine Sandstone
+Siltstone
+Talc-stevensitic Shale
+Neobarremian
+Eoaptian
+Lacustrine Environment
+Coquina
+Bivalve Rudstone
+Grainstone
+Wackestone
+Packstone
+Black Shale
+Clinoform
+Reservoir Facies
+Regional Unconformity
+Pre-Alagoas Unconformity
+Aptian
+Brazilian Alagoas Stage
+Lacustrine Origin
+Exotic Carbonate Texture Association
+In-situ Component
+In-situ Carbonate
+In-situ Boundstone Accumulation
+Fascicular Calcite Crystal Shrub
+Calcite Spherulite
+Mud
+Reworked Facies
+Reworked Coarse-grained Sediment
+Microbialite
+Distal Facies
+Shale
+Radioactive Shale
+Deep Lake Profundal Shale
+Mudstone
+Mudstone-Spherulitestone Intercalation
+Depocenter
+Intra-formational Unconformity
+Intra-Alagoas Unconformity
+Basaltic Lava Flow Deposit
+Evaporite
+Thick Evaporite Sequence
+Salt Base
+Erosion Process
+Erosional Setting
+Erosional Truncation
+Magmatic Event
+Multi-stage Magmatism
+Pre-salt Sequence
+Sedimentary Rock
+Igneous Suite
+Intrusive Alkaline Hypabyssal Rock
+Igneous Intrusion
+Chronostratigraphic Chart
+Depositional Setting
+Carbonate Texture
+Carbonate Lake Deposit
+Non-marine Alkaline Lake
+Carbonate Fabric
+Biotic Origin
+Biotic-induced Origin
+Abiotic Origin
+Lake Setting
+Deep Lacustrine System
+Palaeolake
+Endorheic Environment
+Alkaline Lake System
+Evaporitic Lake Model
+Shallow Water Setting
+Deeper Water Setting
+Sublacustrine Spring
+Spherulite
+Spherulitestone
+Spherulite Dominated Facies
+Mg-rich Clay
+Catchment Area
+Subsurface Recharge System Input
+Seismic-scale Geometry
+Depositional Relief Proxy
+Bathymetry
+Lacustrine System
+Sequence-stratigraphic Architecture
+Marine Setting
+Carbonate Component
+High-frequency Stratigraphy
+Antecedent Topography
+Subsidence Pattern
+Tectonic Subsidence
+Palaeowind Direction
+Production Rate of Carbonate Factory
+Lake-water Chemistry
+Carbonate Factory Keep Up
+Tectonic Uplift
+Elastic Rebound
+Complex Basement Topography Framework
+Multi-phase Oblique Rift
+Inheritance
+Reactivation
+Tectonic Reactivation
+Fault Reactivation
+Carbonate System
+Facies Deposition
+Facies Distribution
+Carbonate Facies
+Stratigraphic Stacking
+Carbonate Sediment
+Shallow Water
+Shallow Water Facies
+Structural Palaeohigh
+Palaeohorst
+Structural High
+Profundal Facies
+Structural Depression
+Palaeodepression
+Petrographic Analysis
+Geochemical Analysis
+Rugged Palaeotopography
+Structurally Rugged Relief
+Regional Correlation
+Gamma Ray Log Pattern
+Gamma-defined Cycle
+Shallowing-upward Cyclothem
+Depositional Sequence
+Modified Water
+Marine Inflow
+Structural Complexity
+Extension Discrepancy
+Polyphase Faulting
+Outer Margin Collapse
+Late Albian
+Fault Inversion
+Relief
+Carbonate Characterization
+Carbonate Interpretation
+High-frequency Cyclical Nature
+Shallowing Upward-increasing Shrub Stacking Pattern
+Shrubstone
+Shrub Facies
+Reworking Process
+Spherulite Upward Increasing Facies Stacking Pattern
+Sedimentary Input
+Lake Chemistry
+Climatic Condition
+Humid Environment
+Arid Environment
+Semi-arid Environment
+Palaeobathymetric Interpretation
+Depositional Interpretation
+Travertine
+Travertine Depositional Environment
+Hydrothermal System
+Hot Fluid
+Geothermal Fluid
+Thermal Water
+CO2-enriched Fluid
+Mantle-derived Fluid
+Hydrothermal Alteration
+Hydrothermally Altered Silicified Carbonate
+Subaerial Hot Spring
+Subaqueous Hot Spring
+Volcanic Lake
+Tectonic Lake
+Seafloor
+Mid-ocean Ridge
+Volcanic Island
+High Geothermal Gradient
+Magmatic Condition
+Anomalous Crustal Condition
+Anomalous Heat Flow
+Radioactive Element
+Continental Setting
+Hydrothermal Vent
+Fissure Ridge
+Rimstone Dam
+Pool
+Terrace Feature
+Tufa Depositional Environment
+Hydraulic Fracturing
+Silicification
+Dolomitization
+Dissolution
+Precipitation of Hydrothermal Mineral Phase
+Saddle Dolomite
+Macrocrystalline Calcite
+Megaquartz
+Sulfide
+Sulfate
+Secondary Porosity
+Fault System
+Fluid Inclusion Analysis
+Isotopic Analysis
+Late Cretaceous
+Paleogene
+Asthenosphere
+Granitic-gneissic Basement
+Rift Sedimentary Succession
+Hydrothermal Mineral
+Pipe-like Complex
+Fracturing
+Transporting
+Erupting of Hydrothermal Fluid
+Sediment
+Intrusive Event
+Sedimentary Basin
+Brazilian Eastern Margin
+Stratigraphic Level
+Rift Section
+Central Platform
+Eocene Interval
+3D Seismic Cube
+Seismic Resolution
+Seismic Surface
+Formation Top
+Fluid Unit
+Baffle
+Barrier
+Non-segmented Reservoir
+Seismic Reflector
+High Amplitude Reflector
+Positive Acoustic Impedance Reflector
+Discontinuous Reflector
+Internal Reflection
+Chaotic Internal Reflection
+Convex Internal Reflection
+Wavy Seismic Reflection
+Aggradational Internal Convex-upward Reflector
+Amplitude Continuity
+Reflector Termination
+Downlap Termination
+Onlap Reflector Termination
+External Geometry
+Mounded External Geometry
+Dome-shaped External Geometry
+Tabular External Geometry
+Reflection Configuration
+Seismic Volume
+Structural Context
+Depositional Context
+Pre-Salt Key Unconformity
+RMS Amplitude
+Sweetness
+Variance
+Isochore Map
+Lateral Continuity
+Fault
+Fault Activity
+High Positive Amplitude
+Conformable
+Environmental Setting
+Depositional Process
+Lithology Estimation
+Formation Geometry
+Lacustrine Carbonate Depositional Environment Analog
+Physical Barrier
+Oil Flow
+Qualitative Analysis of Well Log
+Point Static Pressure Measurement
+Crustal Hyperextended Domain
+Regional NE NNE Trend
+Overall NW Trend
+Structural Inflection Area
+Large-scale Flexural Folding Geometry
+Dextral Transpressional Belt
+Four-way Structural Closure
+Aptian Level
+Local Relay Ramp
+NE Dip Direction
+Depressed Basement Relief
+Thick Syn-rift Filling
+Syn-deposition Fault
+Post-deposition Fault
+Lower Rift Interval
+Preexisting Fault
+Inflection Point
+Seismic Stratigraphy Interpretation
+Seismic Pattern Classification
+Tabular
+Mound
+Bank
+Chaotic
+Lens Filling
+Karst Feature
+Radioactive Portion
+Organic Geochemistry
+Source Rock Interval Potential
+TOC
+Kerogen Type I
+Jiquia Stage
+Pre-Alagoas Unconformity Depth
+Mud-Carbonate Proportion Ratio
+Composite Log
+Stratigraphic Architecture
+Deeper Lake Water Condition
+Shallower Lake Water Setting
+Angular Truncation
+Subhorizontal Seismic Pattern
+Horizontal Parallel Seismic Pattern
+Continuous Seismic Pattern
+High Amplitude Seismic Pattern
+Semicontinuous Seismic Pattern
+Moderate Amplitude Seismic Pattern
+Intensive Sequence Thinning
+Semiparallel Seismic Pattern
+Low Amplitude Seismic Pattern
+Facies Homogeneity
+Amplitude Seismic
+Cosine of the Phase Attribute
+Progradational Seismic Pattern
+Backstepping Seismic Pattern
+Stratigraphic Succession
+Dolostone
+Silexite
+Mounded Seismic Feature
+NW Alignment Trend
+Isolated Geometry
+Growth Strata
+Carbonate Mound
+Mound Ridge
+Isolated Mound
+Aggradational Stacking Pattern
+Thickening
+Higher Amplitude Contrast
+Highly Parallel Continuous Seismic Pattern
+Sigmoidal Profile
+Oblique-parallel Profile
+Upper Slope
+External Filling Seismic Geometry
+Lower Slope
+Onlap Front Slope Fill
+Retrogradational Stacking Pattern
+Fill Geometry
+Post-slope Front Fill Setting
+Amplitude Attribute
+Asymmetric Large-scale Architecture Margin
+Windward-leeward Effect
+Initial Pressure
+Bubble-point Pressure
+Single Liquid Hydrocarbon Phase
+Bo
+Solubility Ratio
+Shale Sealing Behavior
+CO2 Contamination Content
+Gas Phase
+Compositional Gradation
+Hydrocarbon Compound
+C1 Hydrocarbon
+C2 Hydrocarbon
+C3 Hydrocarbon
+C5 Hydrocarbon
+C12 Hydrocarbon
+C16 Hydrocarbon
+C20 Hydrocarbon
+Saturated Hydrocarbon
+Oil Pool Segmentation Hypothesis
+Carbon and Hydrogen Isotope of Associated Gas Sample
+13C C1 Value
+2H C1 Value
+Substrate
+Vertically Different Oil Composition Pool
+Palaeodepth
+Differential Subsidence Rate
+Geothermal Deposit
+Flat-lying Basal Concordance
+Onlapping Overburden Relationship
+Syn-tectonic Parallel Geometry
+Truncational Basal Relationship
+Hydrothermal Breccia Deposit
+Downlapping Internal Geometry
+NE Progradation
+Venting
+Terrestrial Travertine
+Fissure Ridge-type Deposit
+Reservoir Delimitation
+Pre-salt Trapping Model
+Trap
+Four-way Closure Trap
+Lateral Trap
+Combined Trap
+Prospect
+Play Scale
+Entrapment Style
+Structural Trap
+Four-way Closure
+Thick Salt Layer
+Stratigraphic Contribution
+Gas and Condensate
+Hydrothermally Altered Silicified Carbonate
+Paleovolcanic Edifice
+Deep Lake Profundal Marl
+Salt Unit
+Stratigraphic Closure
+Pinch-out
+Pay Zone
+Tuning Thickness
+Seismic Facies Mapping
+Non-segmented Megastructure
+Hydraulic Framework
+Burial Carbonate Relief Reservoir
+Vertical Variation
+Structural Closure
+Tight Alkaline Sublittoral Carbonate
+Permo-porosity Contrast
+Carbonate Buried Relief Prospect
+Geochemical Variation
+Non-turbiditic Event
+Siliciclastic System
+Reservoir Zone Dysconnectivity
+Reservoir Rock
+Non-reservoir Rock
+Low Permeability Rock
+Fluid Property Dissimilarity
+Thermal Degradation
+Biodegradation
+Tectonostratigraphic History
+Tectono-structural Influence
+Permeability
+Fracture
+Oil Component Analysis
+Gas Associated with Single Liquid Hydrocarbon Phase
+API Degree
+Compositional Gradient of Oil Column
+Gravitational Separation
+Organic Geochemical Data
+Crude Oil Sample
+Biomarker Source-related Parameter
+Oil Family
+Lacustrine Freshwater Condition
+Sub-normal Salinity Condition
+Source Rock
+Salinity Condition Variation
+Gas Geochemistry
+Generation Process
+Secondary Alteration Process
+Reservoir Accumulation History
+Molecular Composition of Gas
+Isotopic Ratio
+Maturity Estimation
+Stable Isotopic Composition of Associated Hydrocarbon
+Thermogenic Origin
+Hydrocarbon Gas Source Classification
+Oil Kitchen
+Mantle Origin for CO2
+Molecular Composition of CO2
+Isotopic Composition of CO2
+Noble Gas
+Contact Metamorphism
+CO2 Degassing
+Chemical Reaction
+Oil Displacement
+Geochemical Characteristic of Crude Oil
+Dryness
+Hydrocarbon Light Fraction Displacement
+CO2 Flooding
+Migration Pathway
+Crustal Resistate Domain
+Crustal Thickness
+Thin Crust
+Reservoir Compartment
+Structural Interpretation
+Seismic Attribute Analysis
+Stratigraphic Reservoir Boundary
+Trap Analog
+Structural Relief
+Oil Pool
+Virgin Reservoir Static Pressure
+Geostatistical Seismic Inversion
+3D Modeling
+Metric Flow Unit
+Porosity
+Permeability
+Presalt Reservoir
+Flow Unit
+Rock Typing
+Reservoir Flow Behavior
+Complex Geological Setting
+Lateral Extrapolation
+Seismic Data
+3D Volume
+Seismic Resolution Limit
+Carbonate Reservoir
+Sedimentological Process
+Diagenetic History
+Conventional Core Analysis
+Well Log Data
+Markov Chain Monte Carlo Algorithm
+Acoustic Impedance
+Decametric Flow Unit
+Fluid Flow
+Reservoir Modeling
+Dynamic Characterization
+Complex Reservoir System
+Static Model
+Dynamic Model
+Reservoir Simulation
+Reservoir Heterogeneity
+Flow Pattern
+Subsurface Fluid Movement
+Production
+Injection
+Giant Oil Field
+Lithological Rock Typing
+Petrophysical Property
+Absolute Permeability
+Lithology
+Lithological Facies
+Diagenetic Evolution
+Pore Obliteration
+Pore Generation
+Fluid Flow Pattern
+Flow Zone Indicator
+Electrical Parameter
+Mercury Injection Capillary Pressure
+Storage Capacity
+Flow Capacity
+Basalt
+Gondwana Breakup
+Rift Stage
+Continental Breakup
+Sandstone
+Mudstone
+Shale
+Lacustrine Environment
+Rudstone
+High Energy Platform Setting
+Low Energy Setting
+Structural Low
+Organic Rich Shale
+Hydrocarbon Source
+Transitional Environment
+Continental Setting
+Shallow Marine Setting
+Unconformity
+Rift Phase
+Sag Phase
+Grainstone
+Packstone
+Rework Facies
+Shrub
+Spherulite
+Laminite
+In-situ Facies
+Marine Environment
+Salt Sequence
+Hydrocarbon Seal
+Halite
+Anhydrite
+Lithostratigraphy
+Tectonic Evolution
+Reservoir Rock
+Bivalve Rudstone
+Coquina
+High Porosity
+Bioclastic Floatstone
+Dissolution
+Neomorphism
+Mineral Replacement
+Silicification
+Dolomitization
+Porosity Generation
+Fluid Movement
+Igneous Rock
+Extrusive Igneous Rock
+Intrusive Igneous Rock
+Tholeiitic Basalt
+Alkaline Rock
+Stratigraphy
+Sedimentary Layering
+Flow Barrier
+High Permeability Layer
+Fracturing
+Regional Aquifer
+Pressure Maintenance
+Geostatistical Procedure
+Lateral Constraint
+Facies Interpolation
+Seismic Attribute
+Bayesian Probabilistic Model
+Static Modeling
+Hard Constraint
+Secondary Variable
+Co-kriging Technique
+Vertical Resolution
+Deterministic Seismic Inversion Product
+Porous Fractured Medium
+Grid Size
+Seismic Facies Classification
+Core Scale
+Well Log Scale
+Upscale
+Downscale
+Petrophysical Property Volume
+Data Percentile
+Cumulative S-curve
+Core Porosity
+Flow Characteristic
+Well Information
+Local Geology
+Hydrocarbon Fluid Characteristic
+CO2 Content
+Gas Phase
+Reservoir Management
+Gas Reinjection
+Core Program
+Linear Sample
+Stratigraphic Level
+Well Log
+Logging While Drilling
+Wireline
+Gamma Ray
+Resistivity
+Compressional Slowness
+Shear Slowness
+Density
+Nuclear Magnetic Resonance Porosity
+Total Porosity
+Effective Porosity
+Free Fluid
+Geochemical Element
+Seismic Acquisition
+Streamer Cable Length
+Vertical Sampling
+Prestack Reprocessing
+Tilted Transversely Isotropic Velocity Model
+Vertical Transversely Isotropic Full Waveform Inversion
+Multilayer Tomography
+Kirchhoff Migration
+Reverse Time Migration
+Geologic Sequence
+Post-salt
+Salt
+Presalt Interval
+Full Waveform Inversion Velocity Model
+High-salt Velocity Layer
+Low-salt Velocity Layer
+Tachyhydrite
+Carnallite
+Sylvinite
+Salt Stratification
+Peak Frequency
+Bandwidth
+Petrophysical Characteristic
+Seismic Spectral Distribution
+Wedge Model
+True Thickness Resolving Capacity
+Seismic Amplitude
+Inverted Acoustic Impedance Volume
+Layer Thickness
+Stratigraphic Modified Lorenz Plot
+Reservoir Flow Trend
+Rock Quality Index
+Clastic Geological Setting
+Carbonate Geological Setting
+Geologic Framework
+Flow Characteristic Curve Slope
+Permoporous Characteristic
+Seal (geological)
+Baffle Zone
+Low-production Zone
+Speed Zone (reservoir)
+Reservoir Flow Performance
+Sequence Stratigraphy
+High Order Variation
+Low Order Variation
+Wheeler Diagram Interpretation
+Low-frequency Cycle
+High-frequency Cycle
+Elastic Attribute
+Pore Throat Radius
+Sedimentation Environment
+Reservoir Geometry
+Log-log Plot
+Flow Behavior
+Clustering Method
+Geological Scenario
+Flow Zone Indicator Histogram
+Log-normal Distribution
+Iterative Multi-linear Regression
+Normal Probability Plot
+Cumulative Distribution Function
+Statistical Relevance
+Vertical Resolution Limit
+FZI S-curve Plot
+Cut-off
+Vertical Barrier
+Horizontal Barrier
+Matrix Porosity
+Cemented Carbonate
+Clayey Carbonate
+Quartz Cementation
+Dolomite Cementation
+Original Matrix Porosity
+Reservoir Pressurization
+Bioclastic Grainstone
+Wackestone
+Clean Calcite Carbonate
+Elastic Inversion Volume
+Bayesian Facies Classification
+Structural Direction
+Gaussian Curve
+Exponential Curve
+Range (variogram)
+Probability Density Function
+Earth Model
+Oil Exploration
+Oil Production
+Stratigraphic Grid
+Sequential Gaussian Simulation
+Direct Sequential Simulation
+Global Stochastic Inversion
+Posterior Distribution
+Variance Measure
+Metropolis-Hastings Algorithm
+Statistical Modeling
+Variogram
+Trend (geological)
+Bayesian Inference
+Sampling (geostatistical)
+Reservoir Geostatistics
+Synthetic Seismic
+Convolutional Model
+Seismic Noise
+Likelihood Parameter
+Stratigraphic Horizon
+Lateral Sampling
+Prior Distribution
+Lateral Continuity
+Vertical Continuity
+Posterior Probability Value
+Local Maxima
+Local Minima
+Top of Formation
+Bottom of Formation
+Lateral Spacing
+Multi-scale Observation
+Prior Probability
+Laterally Variable Prior Probability
+Ordinary Kriging
+Mud Sediment
+Permoporous Unit
+Structural High
+Presalt Analog
+Prior Probability Ratio
+Cosimulation
+Porosity Volume
+Permeability Volume
+Pessimistic Scenario
+Optimistic Scenario
+Base Scenario
+Net to Gross
+Porous Volume
+Volume in Place
+Cumulative Probability Density Function
+Robustness
+Predictability
+Uncertainty Analysis
+Probabilistic Output
+Static Model Building Process
+Dynamic Model Building Process
+4D Seismic Interpretation
+Seismic Assisted History Matching
+Noise (seismic)
+Imaging Problem
+Dynamic Reservoir Knowledge
+Volumetric Distribution
+Oil-Water Contact
+Abiotic chemical deposit
+Accommodation creation
+Accommodation space
+Acoustic impedance contrast
+Alkaline lacustrine environment
+Alluvial gravitational redeposition
+Amplitude
+Amplitude continuity
+Anhydrite
+Architectural arrangement
+Basal surface
+Basal reflector termination
+Base level
+Basin
+Basin filling
+Bioclastic carbonate
+Biostratigraphic zonation
+Buildup
+Buildup structure
+Calcite
+Calcite aggregate
+Calcite precipitation
+Calcite spherulite
+Carbon dioxide degassing
+Carbonate platform
+Carbonate reservoir
+Carbonate rock
+Carbonate system
+Central zone
+Chemical abiotic generation
+Chemical deposit
+Chronological meaning
+Chronostratigraphic chart
+Chronostratigraphic diagram
+Clinoform
+Climate change
+Clay
+Combination pattern
+Concordance
+Concordant reflection
+Configuration
+Continental breakup
+Continental breakup system
+Continuity
+Continuous precipitation
+Conventional petrophysical log
+Cosine of phase
+Crustal adjustment
+Crust of calcite fascicular shrub
+Current
+Dating
+Deep area
+Deep lake
+Depocenter
+Depth conversion
+Depositional control
+Depositional event
+Depositional facies
+Depositional model
+Depositional pattern
+Depositional process
+Depositional system
+Diagenesis
+Diagenetic process
+Divergent reflection pattern
+Dissolution
+Distribution
+Distribution of dominant rock type
+Dolomite
+Downlap
+Economic basement
+Eodiagenesis
+Eodiagenetic process
+Erosion
+Erosional event
+Erosional surface
+Erosional truncation
+Eustatic mechanism
+Evaporation rate
+Evaporite
+Evaporitic deposit
+Evaporitic deposition
+Expansion rate
+Exploration
+Extensive post-depositional erosion
+External zone
+Faciologic study
+Fascicular calcite shrub
+Fascicular crust
+Fascicular deposit
+Fascicular intraclast
+Feathery fascicular aggregate
+Filling the low
+First occurrence
+Fluvial-lacustrine environment
+Frequency configuration
+General base level fall
+Genetic process
+Geological body
+Geological context
+Geological evolution model
+Geological genesis
+Geological setting
+Geological significance
+Geological time
+Geological trend
+Geometry
+Geomorphological similarity
+Growth-framework inter-aggregate porosity
+Halite
+Heterogeneous replacement
+Heterogeneous velocity interval
+High area
+High positive amplitude
+High value
+Hot and dry climate
+In situ deposit
+Initial deposition
+Internal radiometric isotope datable layer
+Internal unconformity
+Intraclastic calcarenite
+Intraclastic calcirudite
+Intraclastic deposit
+Intracratonic lake
+Interparticle porosity
+Irregular pattern
+Isochore
+Kerolite
+Lacustrine carbonate deposit
+Lacustrine environment
+Lacustrine sedimentation
+Lake level
+Lake level fall
+Lamination
+Laminated clay
+Large marine transgression
+Lateral variation
+Lithologic characteristic
+Lithologic correspondence
+Lithological composition
+Lithological type
+Lithology
+Lithology distribution
+Lithospheric rebound
+Local inversion
+Local unconformity
+Low tectonic activity
+Lower region
+Magnesian clay
+Magnesian composition
+Magnesium clay matrix
+Major contemporaneous tectonic activity
+Major structure
+Marine environment
+Mechanical subsidence
+Microbial platform
+Microcrystalline calcite
+Microcrystalline dolomite
+Minor uplift
+Muddy deposit
+Mudstone
+Oil accumulation
+Onlap
+Onlap pattern
+Onlap termination
+Onlapping pattern
+Organic matter-rich sediment
+Outer high
+Paleogeomorphological context
+Peloid
+Petrographic characteristic
+Petrographic study
+Petroleum field
+Petroleum province
+Petroleum reservoir
+Post-depositional configuration
+Post-depositional faulting
+Post-depositional erosion
+Post-rift erosion remnant
+Potassium
+Pre-salt reservoir
+Pre-salt sag section
+Pre-salt section
+Precipitation
+Preferential deposition
+Preservation
+Prograding structure
+Radiometric isotope datable layer
+Real thickness
+Recognition pattern
+Reflector
+Reflector termination
+Regional continuity
+Regional depression
+Regional thickness
+Regional thermal subsidence
+Relative acoustic impedance
+Relative age
+Relative high
+Relative low
+Relative depth
+Relative thickness
+Relict
+Relief at the base of salt
+Remanent high
+Reminiscent morphology
+Replacement
+Replacement product
+Reservoir
+Resedimented deposit
+Restricted downlap
+Recovery efficiency
+Rift section
+Rift structure
+Rotation of onlap termination
+Sag basin
+Sag phase
+Sag section
+Salt base relief
+Salt column
+Salt layer
+Saponite
+Scarce clay
+Seal
+Sea level
+Sedimentary influx
+Seismic amplitude pattern
+Seismic attribute
+Seismic facies
+Seismic interval
+Seismic response
+Seismic stratigraphic framework
+Seismic stratigraphic interpretation
+Seismic stratigraphic unit
+Seismic surface
+Seismic texture
+Seismic texture analysis
+Seismic unit
+Seawater circulation
+Shallow area
+Shallow evaporitic lake model
+Shrubstone
+Silica
+Significant thickening
+Source rock
+Spatial distribution
+Spherulitic deposit
+Spherulitic intraclast
+Spherulstone
+Stacking of unit
+Stevensite
+Stratigraphic control
+Stratigraphic framework
+Stratigraphic potential
+Stratigraphic unit
+Stratigraphic unit top
+Structural high
+Structural map
+Structure
+Subaerial erosion
+Subaerial feature
+Sublacustrine reworking
+Subsidence
+Successive onlap
+Supersaturation
+Surface
+Syngenesis
+Syngenetic process
+Syn-depositional faulting
+Syn-rift deposit
+Syn-rift phase
+Systematic mapping
+Tabular deposition
+Tectonic activity
+Tectonic-sedimentary evolution
+Tectono-stratigraphic evolution
+Temporal control
+Temporal gap
+Thermal subsidence
+Thick evaporitic deposit
+Thick evaporitic package
+Thick salt package
+Thicker area
+Thickness map
+Thinning
+Time thickness
+Time zone
+Toplap
+Topography
+Traceability
+Transitional section
+Trend
+Two-way travel time
+Underlying carbonate
+Underlying reflection
+Unconformity
+Uplift
+Vertical erosion
+Visualization
+Volcanic high
+Volcanic rock
+Water column
+Wave
+Widespread unconformity
+Palaeogeography
+Palaeoclimatology
+Palaeoecology
+Palaeohydrology
+Lower Cretaceous
+Pre-salt
+Lacustrine System
+Rift Phase
+Post-rift Phase
+Isotope Geochemistry
+Carbonate Geochemistry
+Strontium Isotope
+Numerical Modeling
+Biostratigraphy
+Sedimentary Basin
+Oil Accumulation
+Rock Succession
+Carbonate Reservoir
+Rock Formation
+Environmental Condition
+Deposition
+Carbonate
+Geochemical Data
+Biostratigraphic Data
+Lacustrine Succession
+Rift Succession
+Post-rift Succession
+Formation
+Aptian
+Petrographic Data
+Radiogenic Strontium
+Proxy
+Lake Hydrology
+Hydrologic Condition
+Lake System
+Evolution
+Mass Balance Calculation
+End-member
+Source
+Strontium
+Palaeolake
+Mafic Component
+Felsic Component
+Flux
+Depositional History
+Strontium Isotope Ratio
+Carbonate Rock
+Water Flux
+Deposit Formation
+Evaporitic Water
+Alkaline Lake Water
+Geological Condition
+Gondwana Continent
+South Atlantic Ocean Opening
+Oil Province
+Lacustrine Carbonate Reservoir
+Geological Model
+Conceptual Model
+Analogue
+Texture
+Sedimentological Aspect
+Stratigraphic Aspect
+Mineralogical Aspect
+Coquina Sequence
+Palaeoreconstruction
+Well
+Salt Basin
+Salt Margin
+Rift Lake
+Lake
+Abiotic Precipitation
+Alkalinity
+Alluvial Fan
+Angular Intraclast
+Anhydrite
+Aptian Age
+Asymmetric Spherule-Shrub Grain-Type
+Basal Portion
+Basin
+Basinward Lacustrine Facies
+Basic Component
+Bed Contact
+Borehole Image Log Interpretation
+Calcimudstone Lithofacies
+Calcite Spherule
+Carbon Stable Isotope Data
+Carbonate
+Carbonate Fan Delta Shoreline
+Carbonate Fan Delta Shoreline Deposit
+Carbonate Grainstone
+Carbonate Spherule
+Cementstone
+Clay Matrix
+Closed Lake Deposit
+Colluvial Wedge
+Component Grain
+Condition
+Contact
+Cored Section
+Covariant Trend
+Cretaceous Period
+Cross-Lamination
+Crystal Shrub
+Crystal Shrub Lithofacies
+Cyclic Lake Deposit
+Cycle Model
+Debris Apron
+Decrease in Lake Level
+Depositional Gradient
+Depositional Model
+Detrital Deposit
+Diagenetic Spherulite Pseudo Boundstone
+Dip
+Dip Slope
+Dissolution
+Dominant Grain-Type
+Early Silica Nodule
+Endorheic Lake
+Escarpment
+Evaporation
+Evaporite
+Facies
+Fair-Weather Wave Base
+Fault Block
+Fault Block Crest
+Fault Block High
+Fining-Upward Trend
+Fish Fossil
+Floatstone
+Flooding Pluvial Event
+Fluid Chemistry
+Foraminifer
+Framestone
+Freshening of Lake Water
+Geochemical Modelling
+Geological Cycle
+Geological Setting
+Grain Abrasion
+Grain Rounding
+Grain Size
+Grain Sorting
+Grain Texture
+Grainstone Succession
+Graphic Log
+Gypsum
+Half Graben
+High Lake Level
+Hydrological Balance
+In-Situ Constituent
+In-Situ Pseudo Boundstone
+Intergranular Pore Space
+Intraclast
+Irregular Contact
+Isotope Data
+Isotopic Composition
+Lacustrine Environment
+Lacustrine Shoreline
+Lake Level Increase
+Lake Level Low
+Lake Level Oscillation
+Lake Water Body
+Laminite-Spherulite Transition
+Lamination
+Lithofacies
+Low Energy Condition
+Low Gradient Lake
+Low-Angle Lamination
+Low-Angle Stratification
+Lower Cretaceous
+Lowering of Alkalinity
+Marine Basin
+Marine Fossil
+Marine Water Influx
+Massive Lamination
+Matrix-Supported Texture
+Metre-Scale Cycle
+Mg-Silicate Clay
+Mg-Silicate Clay Mineral
+Mg-Silicate Matrix
+Micrite Matrix
+Microbialite
+Microbialite Lake System
+Microbialite Lithofacies
+Micro-Sampled Laminite
+Miliolid Foraminifer
+Mineral
+Mixed Shrub-Spherulite Facies
+Mollusc Coquina-Bearing Lake
+Monomictic Grain Composition
+Mound
+Narrow Elongate Fault Block
+Non-Marine Origin
+Non-Marine Succession
+Normally Graded Bed
+Normally Graded Lamina
+Ostracod
+Oxygen Stable Isotope Data
+Package
+Packstone
+Palaeo-Environmental Condition
+Palaeo-Lake Water
+Paleocurrent
+Paleoslope
+Peloid
+Permeability
+pH Condition
+Photo-Micrograph
+Physical Sedimentary Structure
+Planar Cross-Bedding
+Planar Contact
+Planar Lamination
+Planar Stratification
+Platy Intraclast
+Pore-Scale
+Porosity
+Precompaction Silica Nodule
+Precipitated Solid
+Pre-Alagoas Unconformity
+Primary Carbonate
+Progressive Evaporation
+Radial Pattern
+Re-worked Grainstone
+Re-worked Rudstone
+Re-worked Shrub
+Re-worked Spherulite
+Reservoir Facies
+Reservoir Quality
+Rift Microbialite
+Rudstone
+Rudstone Texture
+Sag Microbialite
+Salinity Tolerance
+Scarp Slope
+Seawater
+Seismic Section
+Seismically Resolvable Mound
+Sharp-Based Package
+Shrub-Dominated Facies
+Shrub Framestone
+Silica Nodule
+Silica Precipitation
+Siliciclastic Alluvial Fan Environment
+Sorting
+Spherulite
+Spherulite-Dominated Facies
+Spherulitic Carbonate
+Spherulitic Floatstone
+Spherulitic Grainstone
+Spherulitic Rudstone
+Spherulitic Wackestone
+Stable Shoreline
+Stage
+Steep Depositional Dip
+Steeper Escarpment Slope
+Stevensite
+Storm Wave Base
+Stratification
+Stratigraphic Chart
+Stratigraphic Restriction
+Stratal Thinning
+Structural Setting
+Strontium Isotope Value
+Sub-Aerial Disaggregation
+Subrounded Grain
+Succession
+Sulphate Mineral
+Synsedimentary Deformation Feature
+Terminal Splay Deposit
+Texture
+Textural Immaturity
+Textural Maturity
+Tilted Fault Block
+Tufa Deposit
+Tufa Mound
+Unconformity
+Up-Dip Area
+Up-Section Transition
+Upper Portion
+Varve-Like Lamination
+Vertebrate Remain
+Vertical Arrangement
+Volcanic Fragment
+Wackestone
+Water Body
+Water Residence Time
+Wave Action
+Wave Base
+Wave Reworked Sheet Flood
+Weathering
+Well-Rounded Intraclast
+Pre-Salt Carbonate Reservoir
+Carbonate Reservoir
+Hydrocarbon Field
+Exploration Phase
+Development Phase
+Carbonate Rock
+Spatial Heterogeneity
+Pore System
+Carbonate Body
+Structural Attribute
+Hybrid Spectral Decomposition Method
+Spectral Decomposition Method
+Hydrocarbon Exploration
+Carbonate Mound
+Hydrocarbon System
+Evaporite Deposit
+Subsalt Layer
+Seismic Data
+Facies
+Impedance Contrast
+Reservoir
+Sealing Facies
+Seismic Attenuation
+Seismic Signal
+Depth
+Wave-Field Propagation
+Seismic Attribute
+Reservoir Characterization
+Sedimentary Body
+Seismic Pattern
+Seismic Facies
+Chaotic Seismic Pattern
+Subparallel Seismic Pattern
+Wavy Seismic Pattern
+Concave Seismic Pattern
+Seismic Multiattribute Analysis
+Coherence Attribute
+Seismic Trace
+Dip
+Azimuth
+Seismic Reflector
+Fault Pattern
+Hydrocarbon Reservoir
+Seismic Reflectivity Data
+Curvature Attribute
+Fluid
+Lithology
+Fault
+Anticline
+Syncline Structure
+Low-Frequency Shadow
+Hydrocarbon Indicator
+Hydrocarbon Detection
+Reservoir Facies
+Reservoir Anomaly
+Geobody
+Dip Curvature Attribute
+Seismic Resolution
+Geometry
+Orientation
+Spatial Distribution
+Pre-Salt Formation
+Salt Structure
+Seismic Volume
+Continuity
+Termination
+Event Geometry
+Reservoir Architecture
+Amplitude Anomaly
+Envelope Attribute
+Structural Map
+Top of Reservoir
+Well Log
+Facies Map
+Reservoir Heterogeneity
+Channel Limit
+High Porosity Region
+Low Porosity Region
+Porosity
+Lateral Variation
+Base of Reservoir
+Pre-Salt Zone
+Accommodation Space
+Abrasion
+Abiotic Precipitation
+Adhesion Ripple
+Age
+Aggregate Grain
+Alkalinity
+Alluvial Fan
+Angular Intraclast
+Anhydrite
+Arid Climate
+Arid Setting
+Argillaceous Lamina
+Asymmetric Spherulite
+Basalt
+Basal Erosion Surface
+Basin
+Basinward Depositional Dip
+Beach
+Beach Gravel
+Beach Ridge
+Bedding
+Bedform Scale
+Biological Activity
+Bone Fragment
+Borehole Image Log
+Borehole Image Log Interpretation
+Boundstone
+Brecciation
+Calcite
+Calcite Cement
+Calcite Spar
+Calcrete
+Calcimagnesian Soil
+Calcimudstone
+Calcimudstone-Dominated Lithofacies Association
+Carbonate
+Carbonate Accumulation
+Carbonate Beach Ridge
+Carbonate Environment
+Carbonate Gravel
+Carbonate Grainstone
+Carbonate Sand
+Carbonate Substrate
+Carbon Stable Isotope Data
+Cement
+Cemented Sample
+Cementstone
+Channel
+Clast of Basalt
+Clay-Grade Matrix
+Clay Matrix
+Cleavage
+Climbing Translatent Stratification
+Closed Lake
+Closed Lake Deposit
+Closed Lake Depositional Environment
+Clotted Peloidal Fabric
+Clotted Peloidal Texture
+Coarsening-Upward Package
+Coarsening-Upward Trend
+Coated Grain
+Coarse-Grained
+Component Grain
+Concavo-Convex Grain Contact
+Concentration of Sediment
+Conjugate Margin
+Continuous Agitation
+Core
+Core Plug Porosity
+Core Plug Trim
+Covariant Trend
+Crinkly Laminite
+Crinkly Laminated Micritic Lamina
+Cross-Bedded Grainstone
+Cross-Bedding
+Cross-Lamination
+Cross-Stratification
+Crystal Shrub
+Crystal Shrub Facies
+Curved Twin Plane
+Current Energy
+Cycle
+Cycle Base
+Cycle Model
+Cycle Truncation
+Datum
+Debris Apron
+Debris Flow
+Decrease in Current Energy
+Decrease in Wave Energy
+Deepening
+Deeper Water Current
+Depositional Attitude of Bedding
+Depositional Dip Azimuth
+Depositional Environment
+Depositional Paleo-High
+Depositional Silt-Grade Matrix
+Depositional System
+Depositional Texture
+Derotated Dip Data Set
+Detrital Carbonate
+Detrital Carbonate Rock
+Detrital Deposit
+Detrital Quartz
+Detrital Sediment
+Diagenetic Pseudo Boundstone
+Dip Azimuth
+Dip Slope
+Disaggregation
+Dissolution
+Dolomite
+Dolomite Cement
+Down Paleoslope Flow
+Downslope Sediment Transport
+Early Sulfate Mineral
+Elongated Grain
+Elongate Fault Block
+Enigmatic Facies
+Endorheic Lake
+Eolian Environment
+Eolianite
+Eolian Sandsheet
+Eolian Transport
+Episodic Break
+Episodic Transport
+Erosion
+Escarpment
+Evaporation of Lake Water Body
+Evaporite
+Exploration Target
+Extreme Aridity
+Facies
+Fair Weather Wave Base
+Fan Delta Environment
+Fan Development
+Fan Deposition
+Fan Erosion
+Fan-Like Morphology
+Fascicular Optic Calcite
+Fascicular Structure
+Fault Block
+Fault Block Crest
+Fault-Block High
+Fault Dip Slope
+Fault Escarpment
+Faulting
+Feather Edge
+Fetch
+Fibrous Calcite
+Fibrous Calcite Mat
+Filament Tube
+Fine-Grained
+Finer Grained Part
+Fining-Upward Package
+Fining-Upward Trend
+Fish Fossil
+Flash Flood
+Flatbed
+Floatstone
+Flooding Event
+Flooding-Evaporation Cycle
+Flooding Pluvial Event
+Fluid Chemistry
+Footwall Structural Setting
+Foraminifera
+Foreshore Environment
+Formation
+Fragmented
+Framestone
+Freshening of Lake Water
+Geochemical Modeling
+Gentler Dip Slope
+Grain
+Grain Abrasion
+Grain Assemblage
+Grain Breakage
+Grain Rounding
+Grain Size
+Grain Sphericity
+Grain-Supported Detrital Carbonate
+Grain-Supported Detrital Carbonate Rock
+Grain-Supported Detrital Rock
+Grainstone
+Grainstone-Dominated Succession
+Grain Type
+Granule Size
+Gypsum
+Hanging Wall Structural Setting
+Heavily Compacted
+Heavily Micritized Carbonate Grain
+Heterogeneous Bivalve Coquina-Bearing Lake Deposit
+High-Energy Facies
+High-Energy Shallow-Water Deposit
+High-Energy Shoreline
+High-Energy Wave
+High-Energy Wave-Dominated Shoreline Deposit
+Higher Frequency Regressive Event
+Hydrologic Closure
+Hydrologically Closed Lake
+Hydrological Balance
+Incipient Soil Profile
+Increased Grain Breakage
+Indeterminate Origin
+In Situ Carbonate Component
+In Situ Component
+In Situ Formation
+In Situ Shrub Lamina
+Intense Winnowing
+Intensely Leached
+Interparticle Porosity
+Intraclast
+Intraclast Lag
+Intraclast Peloid Grainstone
+Intraclast Peloid Grainstone Rudstone
+Intraformational Unconformity
+Intraparticle Microporosity
+Irregular Crinkly Lamination
+Isotopic Composition
+Lake
+Lake Deepening
+Lake Deposit
+Lake Level Decrease
+Lake Level High
+Lake Level Increase
+Lake Level Low
+Lake-Level Oscillation
+Lake Shoreline Facies
+Lacustrine Basin
+Lacustrine Carbonate Shoreline Deposit
+Lacustrine Facies
+Lacustrine Origin
+Lacustrine Shoreline
+Lacustrine Shoreline Grainstone
+Lakeward-Dipping Pattern
+Lamina
+Laminated Calcimudstone
+Laminated Clotted Peloidal Micrite
+Lamination
+Lateral Migration
+Limited Sediment Transport Distance
+Line Contact
+Lithofacies Association
+Lithofacies Scheme
+Lobate Morphology
+Longshore Current
+Longshore Drift Deposit
+Low-Diversity Nonmarine Ostracod Fauna
+Low-Energy Condition
+Low-Gradient Endorheic Lake
+Low Viscosity of Air
+Manual Dip
+Marine Basin
+Marine Evaporite
+Marine Fossil
+Marine Shoreline
+Marine Water
+Matrix-Supported Texture
+Medium-Grained
+Mg-Silicate Clay
+Mica
+Micrite
+Micrite Matrix
+Micritized Grain
+Microbial Macrostructure
+Microbial Mat
+Microbial Microstructure
+Microbialite
+Microsampled Laminite
+Miliolid Foraminifera
+Miocene Basalt
+Moldic Porosity
+Modern Closed Lake
+Moderate Sorted
+Mudstone
+Neosparitic Texture
+Nonmarine Origin
+Nonmarine Ostracod Fauna
+Nonmarine Succession
+Normally Graded Lamina
+Oblique Onshore Trend
+Oncoid
+Oncoidal Grainstone
+Onlap
+Optical Property
+Organic Process
+Original Mineralogy
+Ostracod
+Ostracod Fauna
+Overall Transgressive Trend
+Oversteepened Bed
+Oxygen Stable Isotope Data
+Packstone
+Packstone Texture
+Paleobathymetry
+Paleoclimate
+Paleocurrent
+Paleocurrent Direction
+Paleokarst
+Paleolake Water
+Paleosol
+Paleoslope
+Paleoshoreline
+Parallel Lamination
+Pebble Grade Fraction
+Pebble Size
+Pedogenic Feature
+Pedogenic Process
+Peloid
+Petrographic Examination
+Petrographic Observation
+Petroleum System
+pH Condition
+Photomicrograph Image
+Planar
+Planar Cross-Bedding
+Planar Cross-Bed Set
+Planar Lakeward-Dipping Lamination
+Planar Lamination
+Plant Root
+Platy Intraclast
+Pluvial Event
+Point Contact
+Point Sourcing
+Poorly Compacted
+Poorly Laminated
+Poorly Sorted
+Pore-Filling Dolomite Cement
+Pore Scale
+Porosity
+Porosity-Occluding Phase
+Porostromate Fabric
+Porostromate-Like Structure
+Pre-Compaction Silica Nodule
+Precipitated Solid
+Preexisting Limestone
+Pre-Salt Structure
+Pre-Salt Succession
+Pre-Stack Depth Migration
+Primary Carbonate
+Primary Calcite Component
+Primary Interparticle Porosity
+Prograding Fan
+Prograding Shoreline Deposit
+Progressive Evaporation
+Progressive Onlap
+Prolonged Continuous Grain Movement
+Profundal Lake Deposit
+Radial Belt
+Radial Depositional Dip Azimuth Pattern
+Radial Fan-Like Pattern
+Radial Paleocurrent Pattern
+Radiaxial Fibrous Calcite
+Radiogenic
+Rapid Lake Level Change
+Recrystallized Carbonate
+Recrystallized Carbonate Grain
+Reference Point
+Regressive Event
+Regional Shift
+Relief
+Reservoir Facies
+Reservoir Property
+Reservoir Quality
+Residual Dip Data Set
+Restricted Marine Indicator
+Redistribution
+Reworked Incipient Shrub Lamina
+Reworking
+Reworking of Shoreline Deposit
+Rifting
+Riverine Input
+Rotary Sidewall Core
+Rounded Grain
+Roundness
+Rudstone
+Rudstone Texture
+Sag-Tectonic Setting
+Sand Grade Fraction
+Sand-Grade Sediment
+Sand-Size Siliciclastic Sediment
+Sandwave
+Schematic Model
+Secondary Process
+Sedimentary Rock
+Sedimentary Structure
+Sedimentological Characteristic
+Sedimentological Feature
+Sediment Surface Colonization
+Sediment Transport
+Seismic Section
+Seismically Mappable Tectono-Stratigraphic Setting
+Seismically Resolvable Mound
+Semiarid Climate
+Set Height
+Shale
+Shallow-Water Deposit
+Sharp-Based Package
+Sheet Flood
+Shoreface
+Shoreline Deposit
+Shoreline Retreat
+Shrub Framestone
+Shrub-Dominated Facies
+Shrub-Dominated Limestone
+Shrub-Dominated Lithofacies Association
+Sidewall Core Plug Porosity
+Sidewall Core Trim
+Silica
+Silica Cement
+Silica Nodule
+Silica Precipitation
+Siliciclastic Environment
+Siliciclastic Substrate
+Silicified Clast
+Silt-Grade Matrix
+Spit
+Sphericity
+Spherulite
+Spherulite-Dominated Facies
+Spherulite-Dominated Limestone
+Spherulite-Dominated Lithofacies Association
+Spherulitic Carbonate
+Spring Mound
+Stable Shoreline
+Stage
+Standing Body of Water
+Steeper Escarpment Slope
+Stevensite
+Storm Wave Base
+Stratification
+Stratigraphic Chart
+Stratigraphic Context
+Stratigraphic Restriction
+Stratigraphic Setting
+Stratigraphic Unit
+Strike
+Stromatolite
+Stromatolitic Boundstone
+Structural Context
+Structural Dip
+Structural Setting
+Structure Map
+Strontium Isotope Ratio
+Subaerial Alluvial Fan
+Subaerial Disaggregation
+Subaerial Erosion
+Subaerial Exposure
+Subaerial Facies
+Subangular Intraclast
+Sublacustrine Environment
+Subsidence
+Superficial Ooid
+Surficial Sediment Modification
+Surf Zone
+Sweeping Extinction
+Syn-Sedimentary Deformation Feature
+Synrift Tectonic Setting
+Tabular Grain
+Talc
+Tectono-Stratigraphic Setting
+Textural Maturity
+Thermal Sag Subsidence
+Thinning
+Thinolite
+Thrombolite
+Thrombolitic Boundstone
+Tilted Fault Block
+Top Reservoir Structure Map
+Transporting Sediment
+Transgressive Shoreline Deposit
+Transitional Spherulite Shrub Grain Type
+Truncated Cement
+Truncated Margin
+Trough Cross-Bedding
+Tufted Morphology
+Unconformity
+Unidirectional Backwash
+Unimodal Radial Dip Azimuth Pattern
+Upland
+Upper Flow Regime Condition
+Updip Location
+Upward-Fining Cycle
+Varve-Like Lamination
+Vegetation
+Vector Mean
+Vertebrate Remain
+Variable Grain Rounding
+Volcanic Clast
+Volcanic Fragment
+Volcanic Rock
+Vuggy Oversteepened Bedding
+Wackestone
+Water Depth
+Water Depth Indicator
+Water Residence Time
+Wave
+Wave Action
+Wave Base
+Wave Energy
+Wave-Driven Migration
+Wave-Dominated Fan-Delta Shoreline Deposit
+Well-Bedded Interval
+Well-Developed Lamination
+Well-Rounded Grain
+Well-Sorted Grain
+Whole Fossil
+Wind
+Wind Ripple
+Winnowing
+Wireline Log Data
+Wispy Argillaceous Lamina
+Depositional Model
+Pre-Salt
+Cretaceous
+Carbonate Reservoir
+Exploration Strategy
+Reservoir Modeling
+Lake
+Microbial Platform
+Relief
+Buildup
+Evaporitic Lake
+Hyper-alkaline Lake
+Shallow Lake
+Abiotic Carbonate
+Magnesium Silicate Precipitate
+Precipitate
+Shelf Margin
+Marine Carbonate Platform
+Sedimentological Analysis
+Geochemical Modeling
+Hydrology
+Carbon Stable Isotope
+Oxygen Stable Isotope
+Stable Isotope
+Quaternary Deposit
+Lake Deposit
+Isotopic Trend
+Aquifer
+Marine System
+Nonmarine System
+Nonmarine Buildup
+Platform Feature
+Structural Origin
+Subaerial Erosion
+Denudation
+Sedimentological Evidence
+Geochemical Evidence
+Carbonate Mound
+Ridge
+Extensional System
+Sub-lacustrine
+Subaerial
+Paleobathymetry
+Facies
+Well Log
+Correlation
+Lake Floor Low
+Platform High
+Basin
+Base Salt
+Topographic Difference
+Lithological Difference
+Deposition Time
+Paleotopographic Difference
+Structuration
+Post-deposition
+Lake Sediment
+Salt Deposition
+Lacustrine Carbonate Platform
+Platform Development
+Pre-Salt
+Reservoir Interval
+Reservoir
+Isolated Lacustrine Platform
+Paleotopography
+Rift
+Volcanic Rock
+Volcanic Pedestal High
+High Pressure
+Hydrocarbon Column
+Hydrocarbon
+Rock
+Shallow Water Platform Top
+Slope Environment
+Well Data
+Seismic
+Stratigraphic Forward Modeling
+Seismic Forward Modeling
+Rifted Paleotopography
+Volcanic Paleotopography
+Relative Lake-Level Change
+Lake Level Change
+Wind Direction
+Slope Re-deposition
+Re-deposition
+Lacustrine Carbonate Platform Margin
+Slope Development
+Reservoir Heterogeneity
+Carbonate Platform Foundation
+Structure
+Volcanic Pedestal
+Faulting
+Basalt
+Accretion
+Magmatic Event
+Geological Control
+Shallow Water Carbonate Platform Sedimentation
+Sedimentation
+Syndepositional Faulting
+Ridge-Mound
+Fault-Controlled Structural High
+Structural High
+En-Echelon Pattern
+Fault Relay
+Saddle
+Lateral Step
+Intra-Platform Basin
+Slope
+Clinoformal Seismic Facies
+Seismic Facies
+Flank
+Volcanic Centre
+Platform Interior
+Eroded Volcanic Pedestal
+Erosion
+Prograding Clinoformal Sediment
+Progradation
+Clinoform
+Sediment
+Onlap
+Volcanic High
+Reworked Volcanic
+Carbonate
+Platform Asymmetry
+Mound Development
+Discontinuous Mound
+En-Echelon Mound
+Margin
+Raised Mounded Margin
+Non-Rimmed Ramp-Like Margin
+Ramp-Like Margin
+Margin Architecture
+Windward-Leeward Platform Asymmetry
+Dip
+Unidirectional Shrub Bedform
+Bedform
+Stratigraphic Succession
+Buildup
+Clinoform Development
+Regional Pattern
+Basin Position
+Dominant Wind Cell
+Wind Cell
+Axial Wind Cell
+Depositional Environment
+Deposition
+Diagenesis
+Net to Gross
+Reservoir Quality
+Transgressive
+High Energy
+Reworked Volcaniclastic
+Volcaniclastic
+Unconformity
+Gently Dipping
+Cyclic Carbonate Succession
+Carbonate Succession
+Low Energy
+Downflank
+Platform Top
+Steeply Dipping
+Redeposited Slope Rudstone
+Rudstone
+Breccia
+Megabreccia
+Base-Level Change
+Base-Level Curve
+Pinning Point
+Seismic Data
+Mound Crest
+Flat Topped Platform
+Base-Level Rise
+Base-Level Fall
+Aggradation
+Ridge-Mound Development
+Borehole Image Log
+Fault-Controlled Intraplatform Basin
+Shallow Water Platform Sedimentation
+Faulted Basalt
+Coarse Sediment
+Slope Setting
+Acoustic-Impedance Volume
+Amplitude
+Amplitude Anomaly
+Amplitude Range
+Anisotropy Model
+Anticline
+Appraisal Stage
+Azimuth Calculation
+Background Noise
+Bedding Thickness
+Broadband Seismic
+Carbonate Body
+Carbonate Feature
+Carbonate Mound
+Carbonate Reef
+Carbonate Reservoir Characterization
+Central Trace
+Clay Zone
+Coherence Attribute
+Coherence Cube Attribute
+Coherent Noise
+Complex Environment
+Complex Geology
+Curvature Attribute
+Data Migration
+Deepwater Environment
+Depositional Environment
+Depositional Model
+Depositional System
+Dip
+Dip Curvature
+Discontinuity
+Dominant Frequency
+Early Cretaceous
+Envelope Attribute
+Evaporated Layer
+Exploration Stage
+Fault
+Fault Delineation
+Fault Edge
+Fault Zone
+Fluid
+Fracture
+Fracture Orientation
+Fracture Zone
+Frequency
+Frequency Band
+Frequency Bandwidth
+Frequency Domain
+Geobody
+Geologic Discontinuity
+Geometric Variation
+Geophysical Detail
+Homogeneous Salt
+Hybrid Spectral Decomposition
+Hydrocarbon
+Hydraulic Flow Unit
+Imaging Enhancement
+Impedance Anomaly
+Impedance Contrast
+Isotropic Model
+Lacustrine Carbonate Platform
+Laterally Continuous Lithology
+Lithofacies
+Lithology
+Localized Deformation
+Low-Frequency Shadow
+Low-Impedance Occurrence
+Matrix
+Multiattribute Facies Classification
+Oil
+Pattern Recognition Algorithm
+Planar Surface
+Pore System
+Porosity
+Porosity Distribution
+Porosity Log
+Presalt Carbonate
+Presalt Carbonate Reservoir
+Presalt Environment
+Presalt Field
+Presalt Sequence
+Presalt Zone
+Random Noise
+Reflector
+Reflector Continuity
+Regional Constraint
+Relief
+Reservoir
+Reservoir Anomaly
+Reservoir Architecture
+Reservoir Heterogeneity
+Reservoir Interval
+Reservoir Modeling
+Reservoir Property
+Reservoir Quality
+Rock Feature
+Rock Type
+Salt Layer
+Salt Thickness
+Salt Velocity
+Sealing Facies
+Sediment
+Seismic Acquisition Parameter
+Seismic Attribute
+Seismic Attenuation
+Seismic Characteristic
+Seismic Data Acquisition
+Seismic Data Interpretation
+Seismic Data Preconditioning
+Seismic Data Processing
+Seismic Facies
+Seismic Geometry
+Seismic Illumination
+Seismic Inversion
+Seismic Pattern
+Seismic Processing
+Seismic Resolution
+Seismic Response
+Seismic Signal
+Seismic Trace
+Seismic Volume
+Shale
+Signal-to-Noise Ratio
+Spatial Heterogeneity
+Spectral Decomposition
+Static Modeling
+Stratified Salt
+Structural Dip
+Structural Map
+Structural-Oriented Filtering
+Subband of Frequency
+Subseismic Scale
+Surface
+Syncline
+Thickness Variation
+Tight Zone
+Tilted Transversal Isotropic Model
+Tomographic Data
+Velocity Model Building
+Vertical Resolution
+Volume Curvature Attribute
+Waveform
+Well Data
+Well Marker
+Well-to-Seismic Mistie
+Petroleum Field
+Geological Setting
+Petrophysical Setting
+Petroleum System
+Oil Discovery
+Oil in Place
+Geological Analysis
+Stratigraphic Analysis
+Facies Distribution
+Microbial Carbonate
+Coquina Reservoir
+Thickness Variation
+Shale Intercalation
+Well Correlation
+Paleo Basement High
+Igneous Rock
+Reservoir
+Petrophysical Evaluation
+Fluid Composition
+Gas Condensate
+Carbon Dioxide Content
+Geological Structure
+Geological Compartment
+Oil Water Contact
+Semipermeable Barrier
+Water Depth
+Four-Way Closure
+Oil Column
+Carbonate Reservoir
+Porosity
+Permeability
+Fault Zone
+Structural Closure
+Base of Salt Structure Map
+Basin Location Map
+Bathymetric Curve
+Geological Block
+Pre-Salt Area
+Oil Accumulation
+Pre-Salt Sequence
+Exploration Target
+Drilling Target
+Structural Apex
+Seismic Data
+Seismic Mapping
+Mound Feature
+Carbonate Buildup
+Aptian Reservoir Rock
+Gross Pay
+Net Pay
+Source Rock
+Shale
+Accumulation
+Geological Trap
+Cap Rock
+Evaporite
+Depositional Environment
+Fresh-to-Brackish Lacustrine Environment
+Geological Age
+Geochemical Analysis
+Depositional Origin
+Pre-Salt Reservoir
+Carbonate Rock
+Coquina
+Microbialite
+Sag Section
+Rift Section
+Coquina Deposit
+Calcirudite
+Shell Fragment
+Dolomitization
+Silicification
+Geological Seal
+Salt Deposit
+Migration Pathway
+Vertical Fault
+Rift Phase
+Regional Marker
+Chronostratigraphic Unit
+Lithostratigraphic Unit
+Economic Basement
+Magmatic Rock
+Sedimentary Section
+Basalt
+Subaqueous Environment
+Stratigraphic Sequence
+Lithostratigraphy
+High-Amplitude Reflector
+Tabular Geometry
+High Dip
+Rift Fault
+Rotated Block
+Seismic Facies
+Unconformity
+Acoustic Basement
+Opaque Noncoherent Reflector
+Metavolcanic-Sedimentary Complex
+Talc-Stevensite Bearing Sequence
+Silt-Predominant Sedimentary Rock
+Limestone Lens
+Unconformable Overlap
+Shale Layer
+Seismic Reflector
+High Negative Amplitude
+Lateral Continuity
+Fine-Grained Sedimentary Rock
+Coquina Layer
+Chaotic-to-Progradational Seismic Facies
+Mound Geometry
+Internal Reflector
+Low Amplitude
+Minimal Lateral Continuity
+Clinoform
+Progradational Pattern
+Positive Horizontal Reflector
+Discordant Stratigraphy
+Flat Spot
+Wide Platform
+Shallow-Water Environment
+Gently Dipping Flank
+Onlap
+Silicified Limestone
+Carbonatic Lithotype
+Silexite
+Undifferentiated Igneous Rock
+Silicified Carbonate
+Gamma-Ray Reading
+Resistivity Log
+Sonic Log
+Density Log
+Grainstone
+Pelecypod Shell Fragment
+Reworked Sediment
+Spherulite
+Stromatolite
+Laminite
+Distal Platform
+Submetric Intercalation
+Carbonate High-Frequency Cyclothem
+Paleolake Level Fluctuation
+Depositional Energy Level
+Paleolake Geochemistry
+In Situ Spherulite
+Western Flank
+Reworked Fragment
+Distal Position
+In Situ Stromatolite
+Stromatolite Shrub
+Nodule
+Bioclast
+Siliciclastic Grain
+Basal Section
+Central Platform
+Carbonate Platform
+Igneous Intercalation
+Intrusive Rock
+Volcanic Rock
+Transfer Zone
+Chaotic Internal Reflection
+Geological Buildup
+Magmatic Event
+Multiphase Pervasive Hydrothermal Alteration
+Reservoir Tightening
+Geological Saddle
+Recrystallization
+Thermal Effect
+Nonreservoir
+Distal Facies
+Deeper Water
+Mudstone
+Mudstone Bed
+Interleaving of Igneous Rock
+Salt Layer
+Well Log
+Fluid Contact
+Pressure Depth Relationship
+Wireline Formation Test
+Linear Gradient
+Oil Zone
+Water Zone
+Free Water Level
+Inflection
+True Resistivity Profile
+Permeable Reservoir
+Capillary Pressure
+Permeability Data
+Oil Pressure Gradient
+Hydrocarbon Compartment
+Structurally Higher Oil Water Contact
+Structurally Lower Oil Water Contact
+Carbon Dioxide Concentration
+Gas Zone
+Igneous Intrusion
+Net Pay Estimation
+Effective Porosity
+Nuclear Magnetic Resonance
+Density Profile
+Minimum Permeability
+Timur-Coates Relationship
+Average Permeability
+Water Saturation
+Archie's Equation
+Saturation Exponent
+Tortuosity Factor
+Cementation Exponent
+Formation Water Equivalent Salinity
+Formation Water Resistivity
+Formation Temperature
+Pickett Plot
+Water-Saturated Reservoir
+Net-to-Gross
+Porosity Distribution
+Oil-Saturated Zone
+Oil-Related Parameter
+Static Pressure
+Lithology
+Gamma-Ray Profile
+Free Fluid
+Pay Zone
+Formation Water Saturation
+Impermeable Barrier
+Reservoir Condition
+Compartmentalization
+Homogeneous Reservoir
+Reservoir Degradation
+Flank
+Well
+Exploration
+Lower Cretaceous
+Barremian
+Aptian
+Hauterivian
+Petroleum Potential
+Pre-salt Reservoir
+Pre-salt Province
+Offshore
+Field
+Oil
+Natural Gas
+Reserve
+Post-salt
+Onshore
+Play
+Resource
+Well
+Potential
+Offshore Basin
+Onshore Basin
+Basement
+Top
+Normal Fault
+Migration
+Structural Style
+Fault
+Basement High
+Migration Pathway
+Trap
+Sediment
+Lacustrine Environment
+Source Rock
+Carbonate Reservoir
+Production Zone
+Porosity
+Permeability
+Salt Layer
+Seal
+Depth
+Reservoir
+Four-way Closure Structure
+Trend
+Down Dip
+Structural High
+Displacement
+Subsalt
+Structure
+Oil Discovery
+Three-way Closure Structure
+Fault-dependent Closure
+Facies
+Carbonate Build-up
+Volcanic
+Deepwater Play
+Stromatolite
+Rift
+Basin
+Absolute Amplitude
+Accommodation Space
+Accommodation Space Creation
+Aggradational Character
+Aggradational Geometry
+Aggradational Progradational Carbonate Platform
+Alkaline Lacustrine Setting
+Apparent Onlap Reflector
+Apparent Onlap Termination
+Asymmetric Section
+Basalt
+Basement Composition
+Basement Fabric
+Basin Deepening
+Basin Tectonic
+Basin Widening
+Bathymetry
+Bioclastic Packstone
+Bottom Lake Area
+Bottom Lake Pattern
+Bottom Lake Sedimentation
+Boundstone
+Build-up
+Build-up Development
+Carbonate Build-up
+Carbonate Facies Development
+Carbonate Mound
+Carbonate Platform
+Carbonate Platform Sedimentation
+Carbonate Rock
+Carbonate Sediment Deposition
+Carbonate Sedimentation Process
+Carbonate Shale
+Chaotic Reflection
+Chaotic Seismic Facies
+Chloride
+Clastic Sediment
+Climatic Factor
+Coquina
+Coquina Bank
+Complex Basement
+Conformable Layer
+Continental Amalgamation
+Continental Breakup
+Continental Crust
+Continental Fragmentation
+Continental Margin
+Continental Sediment
+Continental Siliciclastic
+Continuous Layer
+Cratonic Block
+Crustal Stretching
+Crustal Thinning
+Dark Shale
+Debris Flow
+Deep Water
+Deposition Phase
+Depositional Controller
+Depositional Environment
+Depositional System
+Distal Facies
+Downlap
+Downlap Characteristic
+Drift Phase
+Economic Basement
+Environmental Condition
+Erosion
+Erosional Truncation
+Erosive Truncation
+Evaporite
+Extensional Basin
+Extensional Tectonic Setting
+Extensive Carbonate Platform
+Facies Controlled by Tectonics
+Facies Multiplicity
+Fault
+Fault Bounded
+Fault Development
+Fault Displacement
+Fault Distribution
+Fault Edge
+Fault Movement Rate
+Fault Orientation
+Fault Reactivation
+Fine Grain Sediment
+Flat Arrangement
+Fluid Conductor
+Formation Boundary
+Fragment
+Fragmented Section
+Geological Architecture
+Geological Behavior
+Geological Context
+Geological Distribution
+Geological Feature
+Geological History
+Geological Horizon
+Geological Layer
+Geological Process
+Geological Sedimentation
+Geological Structure
+Geological Time Segment
+Geometry Change
+Gneiss
+Graben
+Grainstone
+Half-Graben System
+Heterogeneity
+Heterogeneous Basement
+High Accommodation Region
+High Accommodation Space
+High Amplitude Reflector
+High-Energy Condition
+Hinge Line
+Homogeneity
+Homogeneous Basement
+Homogeneous Space Creation
+Horst
+Horst-Graben System
+Hydrocarbon Seal
+Hydrodynamic
+Hydrothermal Activity
+Impedance Contrast
+Inclined Surface
+In Situ Facies
+Internal Reflection
+Interbedded Lacustrine Coquina
+Interval Thickness
+Isopach Map
+Lacustrine Deposit
+Lacustrine Environment
+Lateral Heterogeneity
+Lateral Layer
+Lithosphere
+Lithospheric Stretching
+Lithostratigraphic Unit
+Low Accommodation Space
+Low Amplitude
+Low Amplitude Reflector
+Low Angle Basement Fabric
+Low Frequency
+Low Inclination Angle
+Marine-Derived Evaporate
+Mechanical Subsidence
+Medium Amplitude Reflector
+Medium Continuity
+Metasediment
+Mineral Stevensite
+Morphology
+Mound
+Mudstone
+Non-Marine Carbonate Succession
+Normal Fault Generation
+Offshore Basin
+Oil Reserve
+Onlap
+Onlap Configuration
+Onlap Marking
+Organic Matter
+Organic-Rich Shale
+Orogenic Rock
+Overlying Stratum
+Palaeoecologically Significant Fossil
+Paleoenvironment
+Permeability
+Petroleum Exploration
+Plane-Parallel Architecture
+Plane-Parallel Facies
+Plane-Parallel Seismic Facies
+Plate Separation
+Plateau
+Platform Slope
+Post-Rift Phase
+Post-Rift Sequence
+Pre-Salt Reservoir
+Pre-Salt Reservoir Rock
+Pre-Salt Succession
+Prevailing Facies
+Progradational Character
+Progradational Seismic Facies
+Regional Geological Context
+Regional Unconformity
+Reflection Event
+Reservoir
+Reservoir Characteristic
+Reservoir Characterization
+Reservoir Interval
+Reworked Facies
+Rift
+Rift Fault
+Rift Phase
+Rift Super-Sequence
+Rift Succession
+Rifting Configuration
+Rifting Process
+Rifting Tectonic Regime
+Rudstone
+Sag Basin Dynamic
+Sag Phase
+Sag Phase Sedimentation
+Sag Phase Tectonic Quiescence
+Salt
+Sedimentary Accommodation
+Sedimentary Basin
+Sedimentary Coating
+Sedimentary Rock
+Sedimentary-Tectonic Context
+Sedimentation
+Sedimentation Pathway
+Sedimentation Rate
+Seismic Attribute
+Seismic Data
+Seismic Data Analysis
+Seismic Facies
+Seismic Facies Characterization
+Seismic Interpretation
+Seismic Parameter
+Seismic Pattern
+Seismic Reflector
+Seismic Reflection Termination
+Seismic Reflection Termination Interpretation
+Seismic Trace Envelope
+Sequence Base
+Shale
+Shallow Condition
+Shallow Platform
+Shallow Zone
+Shell
+Shrub
+Siliciclastic Deposit
+Source of Sediment
+Source Rock
+Space Creation
+Spherulitic Laminated Deposit
+Stable Basement
+Strain Softening
+Stratigraphic Section
+Stratigraphic Succession
+Stratigraphic Unit
+Stratum
+Strata Geometry
+Strata Tilt
+Structural Feature
+Structural High
+Structural Low
+Subparallel Configuration
+Sulphate
+Syn-Rift Segment
+Synrift Interval
+Talc-Stevensite Ooid
+Tectonic Activity
+Tectonic Behavior
+Tectonic Event
+Tectonic Extension
+Tectonic History
+Tectonic Plate
+Tectonic Quiescence
+Tectonic Setting
+Tectonics
+Thermal Anomaly
+Thickness
+Thickness Analysis
+Toplap
+Topography
+Unconformity
+Uplifted Area
+Vertical Heterogeneity
+Very Low Angle Basement Fabric
+Volcanic Rock
+Volcanic Source Area
+Volcanism
+Wackestone
+Water Depth
+Wavy Configuration
+Wedge Geometry
+Well Data
+Marine Geology
+Petroleum Geology
+Stratigraphic-Sedimentological Forward Modeling
+Aptian
+Carbonate Reservoir
+Sag Stage
+Basin
+Depositional Process
+Sedimentary Rock
+Lacustrine Carbonate Platform
+Pre-Salt Section
+Carbonate Facies
+Spatial Distribution
+Stratigraphic Stacking Pattern
+Well Data
+Grainstone
+Stromatolite
+Proximal Facies
+Intermediate Facies
+Carbonate Depositional Rate
+Microbial Contribution
+Lake-Level Oscillation
+Arid Climatic Condition
+Hydrocarbon Exploration
+Depositional Model
+Sag Carbonate Platform Setting
+Continental Margin
+Hydrocarbon Province
+Oil Discovery
+Deep Water
+Ultra-Deep Water
+Barremian
+Carbonate Section
+Rift Stage
+Basin Stage
+Oil Reserve
+Stratigraphic Sequence
+Rift-Sag Carbonate Section
+Pre-Salt Sequence
+Evaporite Layer
+Rock Density
+Seismic Imaging
+Seismic Attribute
+Sedimentary Body Geometry
+Facies Distribution
+Carbonate Environment
+Stratigraphic Scenario
+Basin Evolution
+Subsurface Data Interpretation
+Stratigraphic Control
+Sedimentary Succession
+Lake Paleobathymetry
+Lake Level Oscillation Curve
+Subsidence Rate
+Bathymetric Interval
+Carbonate Deposition
+Facies Model
+Conceptual Geological Model
+Geological Setting
+Supercontinent
+Kinematic Buffer
+Ocean Segment
+Early Cretaceous
+Ocean Opening
+Marginal Basin
+Rift System
+Rift Development
+Graben
+Lake
+Regional Subsidence Setting
+Sag-Phase Lacustrine Deposit
+Thermal Subsidence
+Restricted Environment
+Evaporite Deposition
+Albian
+Shallow Carbonate Platform
+Platform Drowning
+Open Ocean Setting
+Passive Margin Tectonic Environment
+Neoaptian
+Depositional Environment
+Transitional Setting
+Continental Condition
+Shallow Marine Condition
+Evaporite Base
+Mixed Clastic-Carbonate Sedimentary Sequence
+Evaporitic Environment
+Morphological Configuration
+Sag Lacustrine Environment
+Structural High
+Horst
+Low Evaporation
+High Precipitation Rate
+Lake Level Decrease
+Pre-Salt Field
+Structural Map
+Base of Salt
+Seismic Grid
+Seismic Section
+Structural Restoration
+Marine Geology
+Petroleum Geology
+Fault System
+Syn-rift Stratigraphic Sequence
+Reservoir Geomechanics
+Structural Geology
+Geology
+Geoscience
+Tectonic Study
+Tectono-stratigraphy
+Fault Hierarchy
+Rifted Margin
+Syn-rift Sequence Hierarchy
+Sequence Stratigraphy
+2D Seismic Survey
+3D Seismic Survey
+Seismic Survey
+Stratigraphic Data
+Borehole
+Extensional Fault
+Extensional Basin
+Geodynamic Significance
+Syn-rift Sequence
+Half-graben Basin
+Early Rift Stage
+Crustal Thinning
+Intermediate Rifting Stage
+Rift Axis
+Distal Margin
+Late Rift Stage
+Fault Reactivation
+Proximal Domain
+Sediment Accommodation Space
+Inner Proximal Domain
+Outer Proximal Domain
+Sequence Boundary
+Thermo-mechanical Condition
+Crustal Block Scale
+Tectonic Movement
+Stratigraphic Surface
+Structural Marker
+Observational Scale
+Stretching Phase
+Initial Rifting Stage
+Rifting
+Intraplate Setting
+Necking Stage
+Hyperextension
+Continental Breakup Stage
+Tectono-stratigraphic Evolution
+Continental Margin
+Onset of Rifting
+Diachronic Tectono-stratigraphic Record
+Geometry
+Genesis
+Evolution
+Sedimentary Basin
+Multiphase Extensional Episode
+Vertical Tectonic Movement
+Local Scale Structure
+Fault Linkage Point
+Step-over
+Geodynamic Process
+Deep-offshore Basin
+Pre-existent Extensional Structure
+Continental Margin Architecture
+Reservoir Succession
+Compartmentalization
+Fluid Migration
+Oil and Gas Extraction
+Carbon Storage
+Geoenergy Solution
+Seismic Data
+Borehole Data
+Pre-salt Hydrocarbon Field
+3D Volume
+Depth Conversion
+Seismic Horizon
+Fault
+Structural Interpretation
+Structural Style
+Magnitude of Displacement
+Orientation
+Superposition of Deformation
+Kinematic Relation
+Relative Age
+Sedimentary Infill
+Growth Strata
+Seismic-stratigraphic Sequence
+Fault Displacement
+Cross-cutting Geometry
+Unconformity
+Kinematic History
+Depositional History
+Stacking History
+Geodynamic Evolution
+Sequence Stratigraphic Principle
+Structural Geology Concept
+Structural Analysis
+Tectonic Stimulus
+Conformable Succession
+Internal Unconformity
+Palaeogeographic Evolution
+Basin Type
+Sedimentary Succession
+Syn-rift Topography
+Structural Stratigraphic Criterion
+Structural Restoration
+Pre-Salt
+Paleogeography
+Facies Deposition
+Reservoir
+Structural Control
+Carbonate
+Formation
+Aptian
+Rift Phase
+Sag Phase
+Stratigraphic Process
+Sedimentological Process
+Reservoir Quality
+Structural Evolution
+Carbonate Facies
+Predictive Mapping
+Seismic Horizon
+Fault
+Structural Framework
+Paleobathymetry
+Analogous Deposit
+Stratigraphic-Sedimentological Forward Modeling
+Carbonate Platform
+Faciological Characterization
+Porosity
+Permeability
+3D Reservoir Characterization
+Post-Rift Phase
+Pre-Salt Section
+Stratigraphic Analysis
+Facies Analysis
+Reservoir Quality Predictability
+Subsurface Model
+Structural Geometry
+Event Kinematics
+Structural Validation
+Sequence of Event
+Complex Reservoir
+Deformation Pattern
+Fault Modeling
+Fault System
+2D Restoration
+3D Restoration
+Petroleum System
+Paleo-Relief Surface
+Sediment Deposition
+Stress Variation Condition
+Fracture Model
+Structural Interpretation
+Fault Reactivation
+Multi-Section 2D Restoration Technique
+Continental Margin
+Orogenic System
+Metamorphic Terrain
+Igneous Terrain
+Orogenic Process
+Neoproterozoic
+Extensional Tectonic Regime
+Gondwana Supercontinent Fragmentation
+Eocretaceous
+South Atlantic Opening
+Divergent Margin Basin
+Rifting Process
+Pre-Existing Structure
+Rift System Architecture
+Normal Fault
+Basement
+Oblique Rifting Direction
+Transtensional Regime
+Sinistral Transtension
+Magnetic Lineament
+Lower Rift
+Outer Rift
+Neoproterozoic Shear Zone
+Transfer Zone
+Fragile Shear Zone
+Oblique Rift Structure
+Evaporitic Basin
+Salt Movement
+Halite Dome
+Salt Tectonics
+Salt Dome
+Continent-Ocean Transition Zone
+Regional Subsidence
+Lithospheric Cooling
+Tectonic Activity
+Syn-Rift Tectonics
+Salt Deposition
+Upper Carbonate Interval
+Late Rift Phase
+Group
+Tholeiitic Basalt Flow
+Neocomian
+Barremian
+Sandstone
+Pelite
+Talc-Stevensite Composition
+Dark Shale
+Distal Basin Portion
+Neobarremian-Eoaptian
+Rudstone
+Grainstone
+Packstone
+Bioclastic
+Structural High
+Mudstone
+Lamite
+Organic-Rich Dark Shale
+Structural Low
+Transitional Environment
+Continental Environment
+Shallow Marine Environment
+Stromatolitic Limestone
+Microbial Laminite
+Microbialite
+Magnesian Clay
+In Situ Facies
+Pre-Alagoas Unconformity
+Rift-Post-Rift Boundary
+Intra-Alagoas Unconformity
+Tectonic Regime
+Wedge Geometry
+Sedimentation Rate
+Syn-Rift Carbonate
+Sag Fill Pattern
+Low Tectonic Activity
+Active Fault
+Microbial Origin
+Abiotic Model
+Lacustrine Environment
+Highly Alkaline Environment
+Marine Influence
+Marine Fossil
+Restricted Marine Environment
+Sulfate Mineral
+Gypsum
+Anhydrite
+Seawater Environment
+Macroscopic Sample
+Thin Section
+Microbial Activity
+Paleoenvironmental Model
+Reservoir Facies
+Lake Energy
+Lake Bathymetry
+Evaporite
+Carbon Isotope Correlation
+Oceanic Anoxic Event
+Halite
+Soluble Salt
+Tachyhydrite
+Carnallite
+Sylvinite
+Breakup Process
+Gondwana Western Separation
+Drift Phase
+Marine Carbonate
+Radioactive Shale
+Marl
+Alluvial Fan System
+Bathyal Pelite
+Bathyal Sandstone
+Cenomanian
+Cretaceous-Paleogene Boundary
+Marine Regression
+Paleogene
+Proximal Alluvial Fan Deposit
+Mixed Carbonate Sedimentation
+Platform Break
+Gravitational Tectonics
+Salt Interval Movement
+Pre-Existing Relief
+Basement Tilting
+Structural-Stratigraphic Framework
+Well Correlation
+Seismic Interpretation
+Interval
+Multiple Section Restoration
+Numerical Finite Element Model
+Seismic Data
+3D Seismic Data
+Depth Migration
+Well Data
+Seismic Amplitude Data
+Variance Attribute
+Signal Discontinuity
+Mappable Fault
+Tectono-Stratigraphic Framework
+Well Log Correlation
+Gamma Ray Log
+Magnetic Resonance Log
+Sonic Log
+Density Log
+Stratigraphic Correlation
+Stratigraphic Marker
+Rift Section
+Salt Base
+Sea Floor
+Salt Top
+Synthetic Fault
+Antithetic Fault
+Original Geometry
+Geometric Algorithm
+Area Preservation
+Deformed Block
+Extensional Regime
+Tectonic Transport Direction
+Plane Deformation
+Faulted Block
+Tectonic Translation
+Pure Shear
+Pre-Deformation Geometry
+Triangular Geometric Element Mesh
+Post-Salt Interval
+Porosity Decay
+Depth
+Fault Block Restoration
+Gaussian Sequential Simulation
+Stochastic Interpolation Method
+Kriging
+Variogram
+Anisotropy Direction
+Bathymetric Surface
+Porosity Profile
+Paleobathymetric Analysis
+Numerical Sedimentological-Stratigraphic Modeling
+Base Level Variation
+Stratigraphic Control
+Accommodation Space
+Subsidence
+Lake Level Variation
+Sediment Supply
+Carbonate Accumulation Rate
+Sediment Transport
+Reworked Facies
+High-Frequency Curve
+Sedimentary Productivity Curve
+In Situ Carbonate Facies
+Autocyclic Event
+Wave Erosion
+Precipitated Facies
+Well Stratigraphic Interpretation
+Argillaceous Zone
+Contact
+Medium-Frequency Cycle
+Transgression
+Regression
+Spherulite
+Smooth Laminite
+Crenulated Laminite
+Exposure
+Seismic-Stratigraphic Interpretation
+Seismic-Structural Interpretation
+Asymmetric Horst
+Seismic Reflector
+Positive Impedance
+Structural Contour Map
+Depocenter
+Topographic Relief
+Economic Basement
+Synthetic Fault Family
+Negative Impedance
+Secondary High
+Anhydrite Interval
+Halite Interval
+Low Energy Deposit
+Plane-Parallel Seismofacies
+Porous Carbonate
+Fault Throw
+Dip Direction Azimuth
+Dip Angle
+Fault Plane Direction
+En Echelon Pattern
+Oblique Movement Component
+Dextral Oblique Component
+Accommodation Zone Classification
+Half-Graben
+Conjugate Divergent Transfer Zone
+Mechanical Restoration
+Volumetric Deformation
+Burial Removal
+High Block
+Low Block
+Syn-Depositional Tectonics
+Balanced Section
+Verticality
+Fault Reject Inversion
+Older Interval
+Younger Interval
+Paleobathymetric Map
+High Energy Facies
+Fascicular Calcitic Arborescence
+Low Energy Facies
+Magnesian Clay Laminite
+Shallow Depth
+Drowning and Shallowing Cycle
+Carbonate Productivity Curve
+Reworked Carbonate Deposit
+Wave
+Well Porosity
+Argillaceous Facies
+Porous Carbonate Facies
+Drowning
+Shallowing
+Carbonate Accumulation
+Reworking
+Initial Bathymetry
+Transgressive Phase
+Regressive Phase
+Poor Porosity
+Arborescent Carbonate
+Magnesian Clay Mineral
+Sublittoral Environment
+Intermediate Water Column
+Wave Level
+Accommodation Space Increase
+Littoral Environment
+Ion Concentration
+Exposure Feature Laminite
+Rift Axis Migration
+Continental Crust Deformation History
+Brittle Deformation
+Diachronism of Sedimentary Infill
+Rift Structuring
+Lateral Migration of Deformation
+Deformation Stress Focusing
+Younger Structure
+Breakup Site
+Internal Rift
+External Rift
+Resistant Block
+Pre-Existing Fault Displacement
+Tectonic Quiescence
+Favorability Map
+Exploratory Study
+Areal Variation
+Vertical Variation
+Heterogeneity
+3D Reservoir Model
+Mound
+Abiotic Origin
+Alkaline Lake System
+Allochem
+Anhydrite
+Aptian
+Asymmetry
+Bafflestone
+Barremian
+Basic Cycle
+Basement
+Bed
+Bedding
+Bio-allochem
+Bioclast
+Biological Origin
+Biological Process
+Bladed Calcite Crystal
+Boundstone
+Breccia
+Calcite
+Calcite Aggregate
+Calcite Shrub
+Calcite Spherulite
+Calcitic Crystal Shrub
+Calcitic Fibro-radial Texture
+Carbonate Deposit
+Carbonate Facies
+Carbonate Grain Texture
+Carbonate Mineral
+Carbonate Rock
+Carnallite
+Cement
+Cementstone
+Chalcedonic Replacement
+Chemical Composition
+Chemical Data
+Clay Aggregate
+Clay Mineral
+Claystone
+Climate
+Component
+Component Abundance
+Component Proportion
+Component Variability
+Composite Shrub
+Continental Crust
+Continental Siliciclastic
+Coquina
+Coquina Deposit
+Core Description
+Cretaceous
+Cryptocrystalline Micrite
+Cycle Origin
+Deep Water
+Dendrite
+Densely Packed
+Deeper-water Sediment
+Deposition
+Depositional Component
+Depositional Condition
+Detrital Content
+Detrital Grain
+Detrital Material
+Diameter
+Diagenesis
+Diagenetic Constituent
+Diagenetic Event
+Diagenetic Process
+Diagenetic Product
+Dissolution
+Dissolved Organic Matter
+Dissolved Spherulitestone
+Divergent Optic-axis Pattern
+Dolomite
+Dolomitic Spherulitestone
+Dolomitization
+Drift Super-sequence
+Early Diagenesis
+Early Diagenetic Component
+Early Diagenetic Origin
+Elemental Composition
+Elementary Cycle
+Endmember Component
+Environment of Deposition
+Evaporitic Deposit
+Extension
+Extracellular Polymeric Substance
+Facies Association
+Facies Classification
+Facies Origin
+Facies Pattern
+Facies Repetition
+Facies Scheme
+Facies Terminology
+Facies Upscaling
+Fan-shaped Structure
+Fascicular Calcite Crust
+Fascicular Calcite Shrub
+Fascicular Component
+Fascicular-optic Calcite
+Fascicular-optic Calcite Shrub
+Fault Block
+Fibro-radial Texture
+Fibrous Calcite Crystal
+Fibrous Lamina
+Fine Grain
+Fine Siliciclastic Grain
+Fine-grained Component
+Fine-grained Facies
+Fine-grained Material
+Flexural Basin
+Formation Model
+Formation Process
+Framestone
+Genetic Classification
+Geological Understanding
+Grain
+Grain Composition
+Grainstone
+Graben
+Growth Phase
+Growth Strata
+Halite
+Hauterivian
+High-frequency Cycle
+Hinge Line
+Horizontal Layer
+Horst
+Horst Structure
+Hydrocarbon Exploration
+Hydrodynamic Condition
+Ideal Cycle
+Illite
+In Situ Component
+In Situ Sediment
+In Situ Shrub
+Interbedding
+Internal Unconformity
+Intra-allochem
+Inverse Grading
+Kerolite
+Lacustrine Carbonate
+Lacustrine Carbonate Rock
+Lacustrine Coquina
+Lacustrine Deposit
+Lacustrine Sediment
+Lake
+Lake Connectivity
+Lake Floor
+Lake Level
+Lake Shoreline
+Lamination
+Laminated Carbonate
+Lateral Continuity
+Layer
+Leiolite
+Lime Mud
+Limestone
+Long Axis
+Lower Cretaceous
+Low Domal Structure
+Macroscale
+Magnesium Clay Mineral
+Margin
+Marine Carbonate
+Marine Geology
+Massive
+Matrix
+Metamorphic Rock
+Mg-clay
+Mg-clay Mudstone
+Micro-quartz Replacement
+Microbial Limestone
+Microbial Silicified Boundstone
+Microbialite
+Microcrystalline Calcite
+Microcrystalline Dolomite
+Microcrystalline Silica
+Microscale
+Millimetric-scale Lamination
+Mineralogical Feature
+Mixed-layer Mineral
+Morphology
+Mud
+Mud-grade Carbonate
+Muddy Spherulitestone
+Mudstone
+Nucleus
+Normal Grading
+Offshore Basin
+Oil Field
+Oo-allochem
+Optically Clear Grain
+Organic Matter
+Organic-rich Shale
+Original Fabric
+Ostracod
+Ostracod Fragment
+Packstone
+Paleoenvironmental Condition
+Paleohigh
+Parallel Growth
+Passive-margin Basin
+Pel-allochem
+Petroleum Geology
+Petrographic Description
+Phosphatic Particle
+Platform Drowning
+Porosity
+Post-rift Super-sequence
+Precambrian
+Pre-rift Stage
+Pre-salt Deposit
+Preferential Growth
+Primary Origin
+Process-based Classification
+Process-based Model
+Process-based Understanding
+Quantitative Petrography
+Radial Extinction
+Random Fine Detrital Grain
+Ray Crystal Crust
+Recrystallization
+Reefal Limestone
+Replacement
+Reservoir Quality
+Rhombohedral Dolomite
+Rift Phase
+Rift Super-sequence
+Rifting
+Rock Fabric
+Rock Type
+Sag Basin
+Salt Base Unconformity
+Salt Limit
+Sample Impregnation
+Saponite
+Secondary Component
+Sediment
+Sediment Color
+Sediment Mineralogy
+Sediment Composition
+Sediment Texture
+Sedimentary Rock
+Sepiolite
+Shale
+Shallowing
+Shallow Water
+Shallow-marine Platform Carbonate
+Shrub
+Shrub-like Calcite Crystal
+Shrub-like Facies
+Shrubby Spherulitestone
+Shrubstone
+Sidewall Core
+Silica
+Siliciclastic
+Silicified Spherulitestone
+Size Distribution
+Smectite
+Soluble Salt
+South Atlantic
+South Atlantic Opening
+Sparite
+Spherulite
+Spherulite Facies
+Spherulite-dominated Lithology
+Spherulitestone
+Spherulitite
+Spherulitic Mudstone
+Spherulitic Shrubstone
+Stratigraphic Succession
+Stevensite
+Stevensitic Claystone
+Stromatolite
+Structural Feature
+Subaerial Exposure
+Substrate
+Super-sequence
+Sylvite
+Tachyhydrite
+Talc-stevensite Ooid
+Texture
+Textural Feature
+Thickness
+Tholeiitic Flood Basalt
+Thrombolite
+Tilting
+Trace Element Variation
+Unconformity
+Unconformity-bound Sequence
+Upward Growth
+Vertical Stacking Pattern
+Vertical Trend
+Vertical Variation
+Volumetric Dominance
+Wackestone
+Water Chemistry
+Water Depth
+Wavy Lamination
+Widely Spaced
