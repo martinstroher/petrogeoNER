@@ -17,7 +17,7 @@ except Exception as e:
 # This script now splits by the delimiter, so CHUNK_SIZE is no longer needed.
 PAPER_DELIMITER = "[END_OF_PAPER]"
 INPUT_TXT_FILE = "../resources/extracted_texts_delimited_per_paper.txt"
-OUTPUT_CSV_FILE = "llm_extracted_terms_raw.csv"
+OUTPUT_CSV_FILE = "../output/llm_extracted_terms.csv"
 MODEL_NAME = "gemini-2.5-flash" # Corrected to a valid model name
 
 generation_config = genai.GenerationConfig(

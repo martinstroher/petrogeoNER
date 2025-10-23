@@ -4,8 +4,8 @@ import nltk
 import os
 from nltk.stem import RSLPStemmer
 
-INPUT_FILE_PATH = "../output/.txt"
-OUTPUT_FILE_PATH = "../consolidated_terms_from_txt2.csv"
+INPUT_FILE_PATH = "../output/llm_extracted_terms.csv"
+OUTPUT_FILE_PATH = "../consolidated_llm_results.csv"
 
 def load_terms_from_txt(filepath):
     if not os.path.exists(filepath):
