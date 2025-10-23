@@ -13,8 +13,8 @@ except Exception as e:
 
 BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 10))
 MODEL_NAME = "gemini-2.5-pro"
-INPUT_FILE_PATH = "../nlds_generated.csv"
-OUTPUT_FILE_PATH = "../output/classified_terms.csv"
+INPUT_FILE_PATH = "../output/consolidated_ner_results_with_nlds.csv"
+OUTPUT_FILE_PATH = "../output/categorized_ner_terms.csv"
 GEORESERVOIR_DEFS_PATH = "../resources/georeservoir-definitions.txt"
 GEOCORE_DEFS_PATH = "../resources/geocore-definitions.txt"
 BFO_DEFS_PATH = "../resources/bfo-definitions.txt"

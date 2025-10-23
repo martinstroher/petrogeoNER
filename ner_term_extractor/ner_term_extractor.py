@@ -5,8 +5,8 @@ import torch
 from tqdm import tqdm
 
 MODEL_NAME = "hmoreira/xlm-roberta-large-petrogeoner"
-FILE_PATH = "../extracted_texts.txt"
-CSV_FILENAME = "../resultados_ner.csv"
+INPUT_FILE = "../resources/extracted_texts.txt"
+OUTPUT_FILE = "../output/ner_results.csv"
 
 device = 0 if torch.cuda.is_available() else -1
 print(f"Using device: {'GPU' if device == 0 else 'CPU'}")
@@ -107,7 +107,7 @@ def save_results_to_csv(results, filename):
         print(f"\nERROR saving CSV file: {e}")
 
 
-text = load_text_from_file(FILE_PATH)
+text = load_text_from_file(INPUT_FILE)
 
 if text:
     print(f"--- Text loaded for analysis (Size: {len(text)} chars) ---\n")
@@ -121,7 +121,7 @@ if text:
             print(
                 f"Entity: {entity['entity']}\n  Label: {entity['label']}\n  Count: {entity['count']}\n  Average score: {entity['avg_score']:.4f}\n--------------------")
 
-        save_results_to_csv(summarized_results, CSV_FILENAME)
+        save_results_to_csv(summarized_results, OUTPUT_FILE)
 
     except Exception as e:
         print(f"ERROR during NER pipeline execution: {e}")

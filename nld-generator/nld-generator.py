@@ -12,10 +12,13 @@ except KeyError:
     exit()
 
 MODEL_NAME = "gemini-2.5-pro"
-FILE_PATH = "../consolidated_terms_with_labels.csv"
+
+INPUT_FILE = "../output/consolidated_ner_results.csv"
+OUTPUT_FILE = "../output/consolidated_ner_results_with_nlds.csv"
+OUTPUT_FAILURE_FILE = '../output/unknown_terms.csv'
 
 generation_config = genai.GenerationConfig(
-    temperature=0.1,
+    temperature=0.0,
 )
 
 def load_terms_and_labels_from_csv(filepath):
@@ -60,7 +63,7 @@ Term to be defined: "{termo_corrigido}"
 Assigned Label: "{rotulo_ner}"
 """
 
-df_termos = load_terms_and_labels_from_csv(FILE_PATH)
+df_termos = load_terms_and_labels_from_csv(INPUT_FILE)
 
 if df_termos is not None:
     resultados = []
@@ -112,10 +115,10 @@ if df_termos is not None:
     print("\nProcessamento concluído. Salvando resultados...")
 
     df_resultados = pd.DataFrame(resultados)
-    df_resultados.to_csv('nlds_generated.csv', index=False, encoding='utf-8-sig')
+    df_resultados.to_csv(OUTPUT_FILE, index=False, encoding='utf-8-sig')
     print(f"{len(df_resultados)} definições salvas em 'nlds_generated.csv'")
 
     if termos_para_revisao:
         df_revisao = pd.DataFrame(termos_para_revisao)
-        df_revisao.to_csv('termos_para_revisao_manual.csv', index=False, encoding='utf-8-sig')
+        df_revisao.to_csv(OUTPUT_FAILURE_FILE, index=False, encoding='utf-8-sig')
         print(f"{len(df_revisao)} termos para revisão manual salvos em 'termos_para_revisao_manual.csv'")

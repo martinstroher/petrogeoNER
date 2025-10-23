@@ -4,7 +4,7 @@ import nltk
 import os
 from nltk.stem import RSLPStemmer
 
-INPUT_FILE_PATH = "../llm-term-extractor/llm_extracted_terms_raw.txt"
+INPUT_FILE_PATH = "../output/.txt"
 OUTPUT_FILE_PATH = "../consolidated_terms_from_txt2.csv"
 
 def load_terms_from_txt(filepath):

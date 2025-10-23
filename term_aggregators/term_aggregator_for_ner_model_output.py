@@ -4,7 +4,8 @@ import nltk
 import os
 from nltk.stem import RSLPStemmer
 
-FILE_PATH = "llm-term-extractor/llm_extracted_terms_raw.csv"
+INPUT_FILE = "../output/ner_results.csv"
+OUTPUT_FILE = "../output/consolidated_ner_results.csv"
 
 def load_terms_and_labels_from_csv(filepath):
     """Loads terms and their corresponding labels from a CSV file."""
@@ -22,7 +23,7 @@ def load_terms_and_labels_from_csv(filepath):
 
 pt_stemmer = RSLPStemmer()
 
-terms_df = load_terms_and_labels_from_csv(FILE_PATH)
+terms_df = load_terms_and_labels_from_csv(INPUT_FILE)
 
 if terms_df is not None:
     stemmed_terms = []
@@ -70,7 +71,7 @@ if terms_df is not None:
     for term, label, count in final_results[:15]:
         print(f"Term: '{term}' | Label: {label} | Count: {count}")
 
-    output_filename = 'consolidated_terms_with_labels_2.csv'
+    output_filename = OUTPUT_FILE
     final_df = pd.DataFrame(final_results, columns=['Readable_Term', 'Label', 'Frequency'])
     final_df.to_csv(output_filename, index=False, encoding='utf-8-sig')
     print(f"\nFinal results successfully saved to '{output_filename}'")
