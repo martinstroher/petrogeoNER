@@ -11,11 +11,11 @@ except KeyError:
     print("Por favor, configure-a ou insira a chave diretamente no script na variável API_KEY.")
     exit()
 
-MODEL_NAME = "gemini-2.5-pro"
+MODEL_NAME = os.environ["LLM_MODEL_NAME"]
 
-INPUT_FILE = "../output/consolidated_ner_results.csv"
-OUTPUT_FILE = "../output/consolidated_ner_results_with_nlds.csv"
-OUTPUT_FAILURE_FILE = '../output/unknown_terms.csv'
+INPUT_FILE = os.environ["CONSOLIDATED_NER_RESULTS"]
+OUTPUT_FILE = os.environ["CONSOLIDATED_NER_RESULTS_WITH_NLDS"]
+OUTPUT_FAILURE_FILE = os.environ["UNKNOWN_TERMS_FILE"]
 
 generation_config = genai.GenerationConfig(
     temperature=0.0,

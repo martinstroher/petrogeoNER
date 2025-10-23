@@ -18,7 +18,7 @@ except Exception as e:
 PAPER_DELIMITER = "[END_OF_PAPER]"
 INPUT_TXT_FILE = "../resources/extracted_texts_delimited_per_paper.txt"
 OUTPUT_CSV_FILE = "../output/llm_extracted_terms.csv"
-MODEL_NAME = "gemini-2.5-flash" # Corrected to a valid model name
+MODEL_NAME = os.environ["LLM_MODEL_NAME"] # Corrected to a valid model name
 
 generation_config = genai.GenerationConfig(
     temperature=0.0,

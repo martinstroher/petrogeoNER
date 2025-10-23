@@ -12,12 +12,12 @@ except Exception as e:
     exit()
 
 BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 10))
-MODEL_NAME = "gemini-2.5-pro"
-INPUT_FILE_PATH = "../output/consolidated_ner_results_with_nlds.csv"
-OUTPUT_FILE_PATH = "../output/categorized_ner_terms.csv"
-GEORESERVOIR_DEFS_PATH = "../resources/georeservoir-definitions.txt"
-GEOCORE_DEFS_PATH = "../resources/geocore-definitions.txt"
-BFO_DEFS_PATH = "../resources/bfo-definitions.txt"
+MODEL_NAME = os.environ["LLM_MODEL_NAME"]
+INPUT_FILE_PATH = os.environ["CONSOLIDATED_NER_RESULTS_WITH_NLDS"]
+OUTPUT_FILE_PATH = os.environ["CATEGORIZED_NER_TERMS"]
+GEORESERVOIR_DEFS_PATH = os.environ["GEORESERVOIR_DEFS_PATH"]
+GEOCORE_DEFS_PATH = os.environ["GEOCORE_DEFS_PATH"]
+BFO_DEFS_PATH = os.environ["BFO_DEFS_PATH"]
 
 print(f"Processing in batches of {BATCH_SIZE} terms.")
 

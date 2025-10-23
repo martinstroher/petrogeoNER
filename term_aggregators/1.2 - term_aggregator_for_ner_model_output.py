@@ -4,8 +4,8 @@ import nltk
 import os
 from nltk.stem import RSLPStemmer
 
-INPUT_FILE = "../output/ner_results.csv"
-OUTPUT_FILE = "../output/consolidated_ner_results.csv"
+INPUT_FILE = os.environ["NER_OUTPUT_FILE"]
+OUTPUT_FILE = os.environ["CONSOLIDATED_NER_RESULTS"]
 
 def load_terms_and_labels_from_csv(filepath):
     """Loads terms and their corresponding labels from a CSV file."""

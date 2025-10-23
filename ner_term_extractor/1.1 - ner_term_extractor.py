@@ -4,9 +4,9 @@ from transformers import pipeline
 import torch
 from tqdm import tqdm
 
-MODEL_NAME = "hmoreira/xlm-roberta-large-petrogeoner"
-INPUT_FILE = "../resources/extracted_texts.txt"
-OUTPUT_FILE = "../output/ner_results.csv"
+MODEL_NAME = os.environ["NER_MODEL_NAME"]
+INPUT_FILE = os.environ["EXTRACTED_TEXTS"]
+OUTPUT_FILE = os.environ["NER_OUTPUT_FILE"]
 
 device = 0 if torch.cuda.is_available() else -1
 print(f"Using device: {'GPU' if device == 0 else 'CPU'}")
